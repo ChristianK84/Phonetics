@@ -1,0 +1,2136 @@
+Saludos e Introducciones,Hola,Hello,jélou
+Saludos e Introducciones,Adiós,Goodbye,gudbái
+Saludos e Introducciones,Por favor,Please,plís
+Saludos e Introducciones,Gracias,Thank you,fánk yu
+Saludos e Introducciones,Perdón,Sorry,sóri
+Saludos e Introducciones,Disculpa,Excuse me,ikus mí
+Saludos e Introducciones,Buenos días,Good morning,gud mórning
+Saludos e Introducciones,Buenas tardes,Good afternoon,gud áftérnun
+Saludos e Introducciones,Buenas noches,Good night,gud náit
+Saludos e Introducciones,¿Cómo estás?,How are you?,jáu ar yu
+Saludos e Introducciones,Muy bien,Very well,véri uél
+Saludos e Introducciones,¿Qué tal?,What's up?,wats áp
+Saludos e Introducciones,Nos vemos,See you,sí yu
+Saludos e Introducciones,Hasta luego,See you later,sí yu léiter
+Saludos e Introducciones,Mucho gusto,Nice to meet you,nais tu mít yu
+Saludos e Introducciones,Encantado,Delighted,diláitid
+Saludos e Introducciones,¿Cuál es tu nombre?,What's your name?,wats yor néim
+Saludos e Introducciones,Mi nombre es...,My name is...,mai néim is
+Saludos e Introducciones,Por supuesto,Of course,of córs
+Saludos e Introducciones,Claro,Of course,of córs
+Saludos e Introducciones,Bienvenido,Welcome,wélkam
+Saludos e Introducciones,Encantada de conocerte,Nice to meet you,nais tu mít yu
+Saludos e Introducciones,¿De dónde eres?,Where are you from?,wer ar yu from
+Saludos e Introducciones,Mucho gusto en conocerte,Nice to meet you,nais tu mít yu
+Saludos e Introducciones,Te presento a...,Let me introduce you to...,let mí introdúus yu tu
+Saludos e Introducciones,¿Puedes ayudarme?,Can you help me?,can yu help mí
+Saludos e Introducciones,Claro que sí,Sure,shur
+Saludos e Introducciones,Gracias por tu ayuda,Thanks for your help,fánks for yor help
+Saludos e Introducciones,Buen trabajo,Good job,gud yob
+Saludos e Introducciones,Felicidades,Congratulations,conguratuléishons
+Saludos e Introducciones,Lo siento,I'm sorry,áim sóri
+Saludos e Introducciones,¿Qué pasa?,What's happening?,wats jápening
+Saludos e Introducciones,Nos vemos mañana,See you tomorrow,sí yu tumórou
+Saludos e Introducciones,Que tengas un buen día,Have a nice day,jáv a nais déi
+Saludos e Introducciones,¡Salud!,Bless you,bles yu
+Saludos e Introducciones,Hasta pronto,See you soon,sí yu sún
+Saludos e Introducciones,Tenga un buen fin de semana,Have a nice weekend,jáv a nais wíkend
+Saludos e Introducciones,Adelante,Come in,kómin
+Saludos e Introducciones,Feliz cumpleaños,Happy birthday,jápi bózdei
+Saludos e Introducciones,Feliz año nuevo,Happy New Year,jápi nú ír
+Saludos e Introducciones,Bien,Good,gud
+Saludos e Introducciones,Mal,Bad,bad
+Saludos e Introducciones,Muy mal,Very bad,véri bad
+Saludos e Introducciones,¿Todo bien?,Everything okay?,évrízing okéi
+Saludos e Introducciones,Disculpa las molestias,Sorry for the inconvenience,sóri for dhi inkónviniens
+Saludos e Introducciones,Encantado de ayudarte,Pleased to help you,plíst tu help yu
+Saludos e Introducciones,¿En qué puedo ayudarte?,How can I help you?,jáu can ái help yu
+Saludos e Introducciones,Por supuesto que sí,Of course yes,of córs yes
+Saludos e Introducciones,Feliz vacaciones,Happy holidays,jápi jóleids
+Saludos e Introducciones,Feliz Navidad,Merry Christmas,méri crísmas
+Saludos e Introducciones,¡Bienvenido de nuevo!,Welcome back,wélkam bak
+Saludos e Introducciones,¿Cómo te llamas?,What is your name?,wot is yor néim
+Saludos e Introducciones,Estoy bien,I'm fine,áim fáin
+Saludos e Introducciones,¿Qué haces?,What are you doing?,wot ar yu dúin
+Saludos e Introducciones,¿Hablas inglés?,Do you speak English?,du yu spík ínglish
+Saludos e Introducciones,Un momento,One moment,uán móument
+Saludos e Introducciones,Lo entiendo,I understand,ái anderstánd
+Saludos e Introducciones,No entiendo,I don't understand,ái dóunt anderstánd
+Saludos e Introducciones,¿Puedes repetir?,Can you repeat?,can yu ripít
+Saludos e Introducciones,Es un placer,It's a pleasure,its a pléshur
+Saludos e Introducciones,Nos vemos pronto,See you soon,sí yu sún
+Saludos e Introducciones,Buenos días a todos,Good morning everyone,gud mórning évriwán
+Saludos e Introducciones,¿Necesitas ayuda?,Do you need help?,du yu níid help
+Saludos e Introducciones,Estoy perdido,I'm lost,áim lost
+Saludos e Introducciones,¿Dónde está el baño?,Where is the bathroom?,wer is dhi báthrum
+Saludos e Introducciones,Perdón por la molestia,Sorry for the trouble,sóri for dhi trábou
+Saludos e Introducciones,Gracias por venir,Thanks for coming,fánks for káming
+Saludos e Introducciones,¿A qué hora?,At what time?,at wot táim
+Saludos e Introducciones,Por aquí,This way,dhis güéi
+Saludos e Introducciones,¿Cómo puedo llegar?,How can I get there?,jáu can ái guet dher
+Saludos e Introducciones,Muy amable,Very kind,véri káind
+Saludos e Introducciones,¿Qué quieres?,What do you want?,wot du yu guónt
+Saludos e Introducciones,Espere un momento,Wait a moment,guéit a móument
+Saludos e Introducciones,¿Dónde vives?,Where do you live?,wer du yu lív
+Saludos e Introducciones,Estoy cansado,I'm tired,áim táierd
+Saludos e Introducciones,Dígame,Tell me,tel mí
+Saludos e Introducciones,Claro que no,Of course not,of córs not
+Saludos e Introducciones,Bien hecho,Well done,uél dan
+Saludos e Introducciones,¿Cuál es el problema?,What's the problem?,wats dhi próblem
+Saludos e Introducciones,¿Qué hora es?,What time is it?,wot táim is it
+Saludos e Introducciones,Lo siento mucho,I'm very sorry,áim véri sóri
+Saludos e Introducciones,¡Felicidades!,Congratulations!,conguratuléi shons
+Saludos e Introducciones,¿Puedes ayudarme?,Can you help me?,can yu help mí
+Saludos e Introducciones,Por favor,Please,plís
+Saludos e Introducciones,Buenas tardes,Good afternoon,gud áftérnun
+Saludos e Introducciones,Buenas noches,Good night,gud náit
+Saludos e Introducciones,Nos vemos mañana,See you tomorrow,sí yu tumórou
+Saludos e Introducciones,Estoy aprendiendo inglés,I'm learning English,áim lérning ínglish
+Saludos e Introducciones,¿Me entiendes?,Do you understand me?,du yu anderstánd mí
+Saludos e Introducciones,¿Dónde trabajas?,Where do you work?,wer du yu wérk
+Saludos e Introducciones,Estoy de acuerdo,I agree,ái agrí
+Saludos e Introducciones,¿Cuántos años tienes?,How old are you?,jáu óuld ar yu
+Saludos e Introducciones,Más despacio,Slower,slóuer
+Saludos e Introducciones,Mucho gusto,Nice to meet you,nais tu mít yu
+Saludos e Introducciones,¿Hablas español?,Do you speak Spanish?,du yu spík spánish
+Saludos e Introducciones,Regalo,Gift,gift
+Saludos e Introducciones,Carta,Letter,léter
+Saludos e Introducciones,Teléfono,Phone,fóun
+Saludos e Introducciones,Móvil,Cell phone,sel fóun
+Saludos e Introducciones,Correo electrónico,Email,íméil
+Saludos e Introducciones,Mensaje,Message,mésidch
+Saludos e Introducciones,Foto,Photo,fóutou
+Saludos e Introducciones,Libro,Book,buk
+Saludos e Introducciones,Agenda,Agenda,ájenda
+Saludos e Introducciones,Reloj,Watch,wóch
+Saludos e Introducciones,Tarjeta,Card,kard
+Saludos e Introducciones,Lápiz,Pencil,pénsil
+Saludos e Introducciones,Bolígrafo,Pen,pén
+Saludos e Introducciones,Cuaderno,Notebook,nóutbuk
+Saludos e Introducciones,Computadora,Computer,kompiúter
+Saludos e Introducciones,Papel,Paper,péiper
+Saludos e Introducciones,Regla,Ruler,rúler
+Saludos e Introducciones,Puerta,Door,dor
+Saludos e Introducciones,Ventana,Window,wíndou
+Saludos e Introducciones,Silla,Chair,chér
+Saludos e Introducciones,Mesa,Table,téibl
+Saludos e Introducciones,Sofá,Sofa,sóufa
+Saludos e Introducciones,Lámpara,Lamp,lamp
+Saludos e Introducciones,Televisión,TV,ti ví
+Saludos e Introducciones,Radio,Radio,réidiou
+Saludos e Introducciones,Micrófono,Microphone,máicroun
+Saludos e Introducciones,Altavoz,Speaker,spíiker
+Saludos e Introducciones,Computadora portátil,Laptop,láptop
+Saludos e Introducciones,Teléfono inteligente,Smartphone,smárt fóun
+Saludos e Introducciones,Internet,Internet,intérnet
+Saludos e Introducciones,Cargador,Charger,chárger
+Saludos e Introducciones,Cámara,Camera,kámera
+Saludos e Introducciones,Correo,Mail,méil
+Saludos e Introducciones,Cola (bebida),Soda,sóuda
+Saludos e Introducciones,Taza,Cup,kap
+Saludos e Introducciones,Bol, Bowl,bóul
+Saludos e Introducciones,Plato,Plate,pléit
+Saludos e Introducciones,Cuchara,Spoon,spún
+Saludos e Introducciones,Tenedor,Fork,fork
+Saludos e Introducciones,Cuchillo,Knife,naif
+Saludos e Introducciones,Bolígrafo,Pen,pén
+Saludos e Introducciones,Libro de direcciones,Address book,ádres buk
+Saludos e Introducciones,Ruta,Route,rút
+Saludos e Introducciones,Mapa,Map,map
+Saludos e Introducciones,Correo postal,Post,post
+Saludos e Introducciones,Paquete,Package,páquich
+Saludos e Introducciones,Bolsa,Bag,bág
+Saludos e Introducciones,Maleta,Suitcase,súitkéis
+Saludos e Introducciones,Pasaporte,Passport, pásport
+Saludos e Introducciones,Billete,Tickets, tíkets
+Saludos e Introducciones,Invitación,Invitation,invitéishon
+Saludos e Introducciones,Calendario,Calendar,kálendar
+Saludos e Introducciones,Fotografía,Photograph,fótograf
+Saludos e Introducciones,Marcador,Marker,márker
+Saludos e Introducciones,Lápiz labial,Lipstick,lípstik
+Saludos e Introducciones,Espejo,Mirror,mírror
+Saludos e Introducciones,Sombrero,Hat,jat
+Saludos e Introducciones,Chaqueta,Jacket,yáquet
+Saludos e Introducciones,Carpeta,Folder,fóulder
+Saludos e Introducciones,Cinta adhesiva,Tape,téip
+Saludos e Introducciones,Cinta,Cd,cd, sí di
+Saludos e Introducciones,Teléfono fijo,Landline,lándláin
+Saludos e Introducciones,Mochila,Backpack,bákpak
+Saludos e Introducciones,Paquete de regalo,Gift box,gift bóks
+Saludos e Introducciones,Velas,Candles,kándels
+Saludos e Introducciones,Flor,Flower,fláuer
+Saludos e Introducciones,Cartel,Poster,póuster
+Saludos e Introducciones,Libro de visitas,Guestbook,géstr buk
+Saludos e Introducciones,Micrófono inalámbrico,Wireless microphone,wáiress máicroun
+Saludos e Introducciones,Pantalla,Screen,skrín
+Saludos e Introducciones,Proyector,Projector,próyecter
+Saludos e Introducciones,Guantes,Gloves,glavs
+Saludos e Introducciones,Mascara,Mask,mask
+Saludos e Introducciones,Bengala (luz),Sparkler,spárkler
+Saludos e Introducciones,Papel higiénico,Toilet paper,toilet péiper
+Saludos e Introducciones,Tarjeta de presentación,Business card, bízniss kard
+Saludos e Introducciones,Pin,Pin,pin
+Saludos e Introducciones,Boton,Button,bátton
+Saludos e Introducciones,Identificación,ID,áidi
+Saludos e Introducciones,Escritura,Writing,ráiting
+Saludos e Introducciones,Nota,Note,nout
+Saludos e Introducciones,Anuncio,Announcement,anáunsment
+Saludos e Introducciones,Regla,Ruler,rúler
+Saludos e Introducciones,Luz,Light,lait
+Saludos e Introducciones,Puente,Bridge,brídch
+Saludos e Introducciones,Calle,Street,strít
+Saludos e Introducciones,Piscina,Swimming pool,swíming pul
+Saludos e Introducciones,Playa,Beach,bíich
+Saludos e Introducciones,Parque,Park,park
+Saludos e Introducciones,Jardín,Garden,gárden
+Saludos e Introducciones,Escuela,School,skúl
+Saludos e Introducciones,Universidad,University,yuníversity
+Saludos e Introducciones,Hospital,Hospital,jóspital
+Saludos e Introducciones,Aeropuerto,Airport,érport
+Saludos e Introducciones,Estación,Station,stéishon
+Saludos e Introducciones,Taxi,Taxi,táxi
+Saludos e Introducciones,Computadora,Computer,kompiuter
+Saludos e Introducciones,Teclado,Keyboard,kíboard
+Saludos e Introducciones,Ratón,Mouse,máus
+Saludos e Introducciones,Agenda,Planner,plánner
+Saludos e Introducciones,Almohadilla,Pad,pad
+Saludos e Introducciones,Archivador,Filing cabinet,fáiling kábinet
+Saludos e Introducciones,Borrador,Eraser,íréiser
+Saludos e Introducciones,Block de notas,Notepad,nóutpad
+Saludos e Introducciones,Calculadora,Calculator,kályuleitor
+Saludos e Introducciones,Cinta adhesiva,Sticky tape,stíki téip
+Saludos e Introducciones,Clavija,Plug,plag
+Saludos e Introducciones,Cómoda,Dresser,dreser
+Saludos e Introducciones,Cuadro,Picture,píctor
+Saludos e Introducciones,Cubo,Bucket,bákit
+Saludos e Introducciones,Despertador,Alarm clock,álarm clok
+Saludos e Introducciones,Escritorio,Desk,desk
+Saludos e Introducciones,Estante,Shelf,shelf
+Saludos e Introducciones,Foco,Bulb,balb
+Saludos e Introducciones,Fuente,Source,sors
+Saludos e Introducciones,Gafas,Glasses,gláses
+Saludos e Introducciones,Grapadora,Stapler,stéipler
+Saludos e Introducciones,Impresora,Printer,prínter
+Saludos e Introducciones,Interruptor,Switch,swich
+Saludos e Introducciones,Llave,Key,quí
+Saludos e Introducciones,Lupa,Magnifying glass,mágnifáing glás
+Saludos e Introducciones,Marcador fluorescente,Highlighter,jái láiter
+Saludos e Introducciones,Mascarilla,Face mask,féis mask
+Saludos e Introducciones,Mesita,Coffee table,kófi téibl
+Saludos e Introducciones,Microscopio,Microscope,máicroskoup
+Saludos e Introducciones,Monitor,Monitor,mónitor
+Saludos e Introducciones,Mueble,Furniture,férnicher
+Saludos e Introducciones,Paleta,Paddle,pádol
+Saludos e Introducciones,Papelera,Trash can,trash cán
+Saludos e Introducciones,Paraguas,Umbrella,ámbrela
+Saludos e Introducciones,Pizarra,Board,bórd
+Saludos e Introducciones,Plancha,Iron,áiron
+Saludos e Introducciones,Portafolios,Briefcase,brífkeis
+Saludos e Introducciones,Proyector,Projector,prójektor
+Saludos e Introducciones,Puntero,Laser pointer,léiser póinter
+Saludos e Introducciones,Ramita,Branch;brunch;bránch
+Saludos e Introducciones,Reloj de pulsera,Wristwatch,rístwotch
+Saludos e Introducciones,Rompecabezas,Puzzle,pázol
+Saludos e Introducciones,Sacapuntas,Pencil sharpener,pénsil shárpener
+Saludos e Introducciones,Schermo (monitor en italiano),Screen,skrín
+Saludos e Introducciones,Set de té,Tea set,ti set
+Saludos e Introducciones,Soporte,Stand,stand
+Saludos e Introducciones,Tapete,Rug,rag
+Saludos e Introducciones,Teléfono inalámbrico,Cordless phone,kórdles fóun
+Saludos e Introducciones,Tijeras,Scissors,sísors
+Saludos e Introducciones,Timbre,Doorbell,dórbel
+Saludos e Introducciones,Tintero,Inkwell,ínkuél
+Saludos e Introducciones,Toalla,Towel,táuél
+Saludos e Introducciones,Trípode,Tripod,tráipod
+Saludos e Introducciones,Vela,Candle,kándel
+Saludos e Introducciones,Velcro,Velcro,vélkrou
+Saludos e Introducciones,Vidrio,Glass,glás
+Saludos e Introducciones,Visera,Visor,váisor
+Saludos e Introducciones,Alfombra,Carpet,kárpet
+Saludos e Introducciones,Auriculares,Headphones,jédfounz
+Saludos e Introducciones,Batería,Battery,báteri
+Saludos e Introducciones,Bicicleta,Bicycle,báisikl
+Saludos e Introducciones,Bolígrafo táctil,Stylus,stáilas
+Saludos e Introducciones,Cable,Cable,kéibl
+Saludos e Introducciones,Candelabro,Candelabra,kándelabra
+Saludos e Introducciones,Canasta,Basket,básket
+Saludos e Introducciones,Careta (máscara),Face shield,féis shíld
+Saludos e Introducciones,Cargador portátil,Power bank,páuer bank
+Saludos e Introducciones,Chaleco,Vest,vést
+Saludos e Introducciones,Chévere (expresión),Cool,kúl
+Saludos e Introducciones,Chip,Chip,chip
+Saludos e Introducciones,Circulo,Circle,sérkol
+Saludos e Introducciones,Cobija,Blanket,blánket
+Saludos e Introducciones,Codificador,Encoder,en-kóuder
+Saludos e Introducciones,Colgante,Pendant,péndent
+Saludos e Introducciones,Conector,Connector,kónektor
+Saludos e Introducciones,Contador,Counter káunter
+Saludos e Introducciones,Cuerda,Rope,roup
+Saludos e Introducciones,Cubo de basura,Trash bin,trash bin
+Saludos e Introducciones,Deck (baraja),Deck,dék
+Saludos e Introducciones,Día,Day,dey
+Saludos e Introducciones,Diente,Tooth,túth
+Saludos e Introducciones,Disco,Disc,disk
+Saludos e Introducciones,Dispositivo,Device,diváis
+Saludos e Introducciones,Documento,Document,dókyument
+Saludos e Introducciones,Dron,Drone,dróun
+Saludos e Introducciones,Esfera,Sphere,sfíer
+Saludos e Introducciones,Estrato,Layer,léier
+Saludos e Introducciones,Estuche,Case,keis
+Saludos e Introducciones,Exhibidor,Display,displéi
+Saludos e Introducciones,Falda,Skirt,skért
+Saludos e Introducciones,Flecha,Arrow,árrou
+Saludos e Introducciones,Grasa,Grease,grís
+Saludos e Introducciones,Horno,Oven,áven
+Saludos e Introducciones,Imán,Magnet,mágnet
+Saludos e Introducciones,Interruptor de luz,Light switch,láit swich
+Saludos e Introducciones,Jarrón,Vase,véis
+Saludos e Introducciones,Kit,Kit,kit
+Saludos e Introducciones,Lámpara de mesa,Desk lamp,desk lám
+Saludos e Introducciones,Lata,Can,kán
+Saludos e Introducciones,Lentes,Glasses,gláses
+Saludos e Introducciones,Liquidificador,Blender,blénder
+Saludos e Introducciones,Llave inglesa,Wrench,rench
+Saludos e Introducciones,Manta,Throw blanket,thro blánket
+Saludos e Introducciones,Martillo,Hammer,hámer
+Saludos e Introducciones,Material,Material,materiál
+Saludos e Introducciones,Mesa de centro,Coffee table,kófi téibl
+Saludos e Introducciones,Micrófono de solapa,Lavalier microphone,lavalier máicroun
+Familia y Relaciones,Madre,Mother,máder
+Familia y Relaciones,Padre,Father,fáder
+Familia y Relaciones,Hermano,Brother,bráder
+Familia y Relaciones,Hermana,Sister,síster
+Familia y Relaciones,Hijo,Son,san
+Familia y Relaciones,Hija,Daughter,dóter
+Familia y Relaciones,Esposo,Husband,jázband
+Familia y Relaciones,Esposa,Wife,guáif
+Familia y Relaciones,Abuelo,Grandfather,grandfáder
+Familia y Relaciones,Abuela,Grandmother,grandmáder
+Familia y Relaciones,Tío,Uncle,ánkl
+Familia y Relaciones,Tía,Aunt,ánt
+Familia y Relaciones,Primo,Cousin,cázin
+Familia y Relaciones,Prima,Cousin,cázin
+Familia y Relaciones,Nieto,Grandson,grándsan
+Familia y Relaciones,Nieta,Granddaughter,gránddóter
+Familia y Relaciones,Suegro,Father-in-law,fáter in ló
+Familia y Relaciones,Suegra,Mother-in-law,máder in ló
+Familia y Relaciones,Yerno,Son-in-law,san in ló
+Familia y Relaciones,Nuera,Daughter-in-law,dóter in ló
+Familia y Relaciones,Cuñado,Brother-in-law,bráder in ló
+Familia y Relaciones,Cunada,Sister-in-law,síster in ló
+Familia y Relaciones,Padres,Parents,pérents
+Familia y Relaciones,Hermanos,Siblings,síblings
+Familia y Relaciones,Niños,Children,chíldren
+Familia y Relaciones,Bebé,Baby,béibi
+Familia y Relaciones,Novio,Boyfriend,bóifrend
+Familia y Relaciones,Novia,Girlfriend,gárlfrend
+Familia y Relaciones,Amigo,Friend,frend
+Familia y Relaciones,Amiga,Friend,frend
+Familia y Relaciones,Compañero,Partner,párner
+Familia y Relaciones,Vecino,Neighbor,néibor
+Familia y Relaciones,Padre adoptivo,Adoptive father,ádoptiv fáder
+Familia y Relaciones,Madre adoptiva,Adoptive mother,ádoptiv máder
+Familia y Relaciones,Hermano menor,Younger brother,yánguer bráder
+Familia y Relaciones,Hermana menor,Younger sister,yánguer síster
+Familia y Relaciones,Hermano mayor,Older brother,óulder bráder
+Familia y Relaciones,Hermana mayor,Older sister,óulder síster
+Familia y Relaciones,Abuelos,Grandparents,grandpérents
+Familia y Relaciones,Padrastro,Stepfather,stepfáder
+Familia y Relaciones,Madrastra,Stepmother,stepmáder
+Familia y Relaciones,Hermanastro,Stepbrother,stepbráder
+Familia y Relaciones,Hermanastra,Stepsister,stepsíster
+Familia y Relaciones,Hijos,Foster children,fóster chíldren
+Familia y Relaciones,Familia,Family,fámili
+Familia y Relaciones,Parentesco,Kinship,kínship
+Familia y Relaciones,Boda,Wedding,wéding
+Familia y Relaciones,Divorcio,Divorce,divórs
+Familia y Relaciones,Matrimonio,Marriage,máridch
+Familia y Relaciones,Esposa,Spouse,spáus
+Familia y Relaciones,Relación,Relationship,riléishonship
+Familia y Relaciones,Noviazgo,Engagement,engéidchment
+Familia y Relaciones,Separación,Separation,sépəréishon
+Familia y Relaciones,Madre soltera,Single mother,síngl máder
+Familia y Relaciones,Padre soltero,Single father,síngl fáder
+Familia y Relaciones,Amistad,Friendship,frendship
+Familia y Relaciones,Hogar,Home,joum
+Familia y Relaciones,Descendencia,Descendants,díséndants
+Familia y Relaciones,Parientes,Relatives,rélətivs
+Familia y Relaciones,Crianza,Upbringing,ápbrínging
+Familia y Relaciones,Cuidador,Caregiver,kérgíver
+Familia y Relaciones,Divorciado,Divorced,divórst
+Familia y Relaciones,Vínculo,Bond,bond
+Familia y Relaciones,Padres separados,Separated parents,sépəreitid pérents
+Familia y Relaciones,Tutor,Guardian,gárdiən
+Familia y Relaciones,Hijo único,Only child,ónli chaild
+Familia y Relaciones,Madurez,Maturity,machúriti
+Familia y Relaciones,Heredero,Heir,eir
+Familia y Relaciones,Madre biológica,Biological mother,baiólodzical máder
+Familia y Relaciones,Padrino,Godfather,gód fáder
+Familia y Relaciones,Madrina,Godmother,gód máder
+Familia y Relaciones,Sobrino,Nephew,néfu
+Familia y Relaciones,Sobrina,Niece,niis
+Familia y Relaciones,Cónyuge,Spouse,spáus
+Familia y Relaciones,Casarse,To get married,tu guet márid
+Familia y Relaciones,Vivir juntos,To live together,tu liv tugéder
+Familia y Relaciones,Cuidar,To take care,tu téik kér
+Familia y Relaciones,Amar,To love,tu lov
+Familia y Relaciones,Respetar,To respect,tu rispékt
+Familia y Relaciones,Apoyar,To support,tu sapórt
+Familia y Relaciones,Discutir,To argue,tu árgiu
+Familia y Relaciones,Familia extensa,Extended family,iksténdid fámi
+Familia y Relaciones,Familia nuclear,Nuclear family,núkliər fámi
+Familia y Relaciones,Vínculos familiares,Family ties,fámi táis
+Familia y Relaciones,Hijo adoptivo,Adopted child,ádoptid chaild
+Familia y Relaciones,Padres adoptivos,Adoptive parents,ádoptiv pérents
+Familia y Relaciones,Custodia,Custody,kástədi
+Familia y Relaciones,Terapia familiar,Family therapy,fámi térapi
+Familia y Relaciones,Conflicto familiar,Family conflict,fámi kónflikt
+Familia y Relaciones,Relación cercana,Close relationship,klóus riléishonship
+Familia y Relaciones,Relación distante,Distant relationship,distant riléishonship
+Familia y Relaciones,Comunicación,Communication,comyunikeishon
+Familia y Relaciones,Afecto,Affection,afékshon
+Familia y Relaciones,Confianza,Trust,trást
+Familia y Relaciones,Comprensión,Understanding,anderstánding
+Familia y Relaciones,Reconciliación,Reconciliation,ríkonsiliéishon
+Familia y Relaciones,Soporte,Support,sapórt
+Familia y Relaciones,Madre joven,Young mother,yáng máder
+Familia y Relaciones,Padre joven,Young father,yáng fáder
+Familia y Relaciones,Hijo mayor,Older son,óulder san
+Familia y Relaciones,Hija mayor,Older daughter,óulder dóter
+Familia y Relaciones,Hijo menor,Younger son,yánguer san
+Familia y Relaciones,Hija menor,Younger daughter,yánguer dóter
+Familia y Relaciones,Cuidador principal,Primary caregiver,práimari kérgíver
+Familia y Relaciones,Pareja,Partner,párner
+Familia y Relaciones,Suegros,Parents-in-law,pérents in ló
+Familia y Relaciones,Tía abuela,Great-aunt,gréit ánt
+Familia y Relaciones,Tío abuelo,Great-uncle,gréit ánkl
+Familia y Relaciones,Hermano gemelo,Twin brother,tuin bráder
+Familia y Relaciones,Hermana gemela,Twin sister,tuin síster
+Familia y Relaciones,Relación,Relationship,riléishonship
+Familia y Relaciones,Lazo,Bond,bond
+Familia y Relaciones,Amistad,Friendship,fréndship
+Familia y Relaciones,Cariño,Affection,afékshon
+Familia y Relaciones,Conflicto,Conflict,kónflikt
+Familia y Relaciones,Divorcio,Divorce,divórs
+Familia y Relaciones,Matrimonio,Marriage,máridch
+Familia y Relaciones,Separación,Separation,sépəréishon
+Familia y Relaciones,Reconciliación,Reconciliation,ríkonsiliéishon
+Familia y Relaciones,Apoyo,Support,sapórt
+Familia y Relaciones,Respeto,Respect,rispékt
+Familia y Relaciones,Compromiso,Commitment,komítment
+Familia y Relaciones,Tradición,Tradition,trádishon
+Familia y Relaciones,Celebración,Celebration,selibréishon
+Familia y Relaciones,Regalo,Gift,gift
+Familia y Relaciones,Fiesta,Party,párti
+Familia y Relaciones,Honestidad,Honesty,hónesti
+Familia y Relaciones,Confianza,Trust,trást
+Familia y Relaciones,Amor,Love,lav
+Familia y Relaciones,Celo,Jealousy,yélosi
+Familia y Relaciones,Perdón,Forgiveness,forgívenes
+Familia y Relaciones,Celoso,Jealous,yélous
+Familia y Relaciones,Promesa,Promise,prómis
+Familia y Relaciones,Llorar,to cry,too krái
+Familia y Relaciones,Reír,to laugh,too laf
+Familia y Relaciones,Cuidar,to care,too kér
+Familia y Relaciones,Defender,to defend,too difénd
+Familia y Relaciones,Ayudar,to help,too help
+Familia y Relaciones,Escuchar,to listen,too lísen
+Familia y Relaciones,Hablar,to talk,too tók
+Familia y Relaciones,Discutir,to argue,too árgui
+Familia y Relaciones,Estar juntos,to be together,tu bi tugéder
+Familia y Relaciones,Vivir juntos,to live together,tu liv tugéder
+Familia y Relaciones,Enamorarse,to fall in love,tu fol in lov
+Familia y Relaciones,Casarse,to get married,tu guet márid
+Familia y Relaciones,Divorciarse,to divorce,tu divórs
+Familia y Relaciones,Separarse,to separate,tu sépareit
+Familia y Relaciones,Confiar,to trust,tu trast
+Familia y Relaciones,Sonreír,to smile,tu smáil
+Familia y Relaciones,Abrazar,to hug,tu jag
+Familia y Relaciones,Besarse,to kiss,tu kis
+Familia y Relaciones,Casado,Married,márid
+Familia y Relaciones,Soltero,Single,síngl
+Familia y Relaciones,Viudo,Widower,wuéder
+Familia y Relaciones,Viuda,Widow,wuodou
+Familia y Relaciones,Padrastro,Stepfather,stepfáder
+Familia y Relaciones,Madrastra,Stepmother,stepmáder
+Familia y Relaciones,Hermanastro,Stepbrother,stepbráder
+Familia y Relaciones,Hermanastra,Stepsister,stepsíster
+Familia y Relaciones,Cita,Date,deit
+Familia y Relaciones,Relación seria,Serious relationship,sírius riléishonship
+Familia y Relaciones,Amistad con beneficios,Friends with benefits,frénds wiv bénefits
+Familia y Relaciones,Pareja de hecho,Domestic partner,dóméstik párner
+Familia y Relaciones,Comprometido,Engaged,engéidchd
+Familia y Relaciones,Noviazgo,Relationship,riléishonship
+Familia y Relaciones,Separado,Separated,sépəreited
+Familia y Relaciones,Ex,Ex,eks
+Familia y Relaciones,Conflicto familiar,Family conflict,fámi kónflikt
+Familia y Relaciones,Relaciones públicas,,Public relations,páblik riléishons
+Familia y Relaciones,Familia extendida,Extended family,iksténdid fámi
+Familia y Relaciones,Familia nuclear,Nuclear family,núkliər fámi
+Familia y Relaciones,Custodia,Custody,kástōdi
+Familia y Relaciones,Tutor,Guardian,gárdián
+Familia y Relaciones,Cristo,Christ,kráist
+Familia y Relaciones,Familiar,Relative,réletiv
+Familia y Relaciones,Vecino,Neighbor,néibor
+Familia y Relaciones,Conocido,Acquaintance,akuéntens
+Familia y Relaciones,Compañero,Companion,kompáñon
+Familia y Relaciones,Ameno,Cheerful,tchíerful
+Familia y Relaciones,Suegro,Father-in-law,fáter in ló
+Familia y Relaciones,Suegra,Mother-in-law,máder in ló
+Familia y Relaciones,Yerno,Son-in-law,san in ló
+Familia y Relaciones,Nuera,Daughter-in-law,dóter in ló
+Familia y Relaciones,Cuñado,Brother-in-law,bráder in ló
+Familia y Relaciones,Cunada,Sister-in-law,síster in ló
+Familia y Relaciones,Abogado,Lawyer,lóier
+Familia y Relaciones,Domicilio,Residence,résidens
+Familia y Relaciones,Habitación,Room,rum
+Familia y Relaciones,Alojamiento,Accommodation,akomodéi shon
+Familia y Relaciones,Fiesta,Party,párti
+Familia y Relaciones,Reunión,Meeting,míting
+Familia y Relaciones,Teléfono,Phone,fóun
+Familia y Relaciones,Boda,Wedding,wéding
+Familia y Relaciones,Consentimiento,Consent,kónsent
+Familia y Relaciones,Aniversario,Anniversary,aníversari
+Familia y Relaciones,Graduación,Graduation,gráduéishon
+Familia y Relaciones,Confesión,Confession,konféshon
+Familia y Relaciones,Divertido,Fun,fan
+Familia y Relaciones,Orgullo,Pride,práid
+Familia y Relaciones,Motivación,Motivation,motivéishon
+Familia y Relaciones,Reputación,Reputation,ripyutéishon
+Familia y Relaciones,Comprensión,Understanding,anderstánding
+Familia y Relaciones,Comunicación,Communication,comyunikeishon
+Familia y Relaciones,Lealtad,Loyalty,lóialti
+Familia y Relaciones,Celoso,Jealous,yélous
+Familia y Relaciones,Inseguro,Insecure,insíkiur
+Familia y Relaciones,Apegado,Attached,atëcht
+Comida y Bebidas,Agua,Water,wóter
+Comida y Bebidas,Pan,Bread,bréd
+Comida y Bebidas,Leche,Milk,milk
+Comida y Bebidas,Café,Coffee,kófi
+Comida y Bebidas,Cerveza,Beer,bíer
+Comida y Bebidas,Carne,Meat,mit
+Comida y Bebidas,Pescado,Fish,fish
+Comida y Bebidas,Fruta,Fruit,frut
+Comida y Bebidas,Azúcar,Sugar,shúgar
+Comida y Bebidas,Sopa,Soup,súp
+Comida y Bebidas,Arroz,Rice,rais
+Comida y Bebidas,Pollo,Chicken,chíken
+Comida y Bebidas,Lechuga,Lettuce,letéz
+Comida y Bebidas,Huevo,Egg,eg
+Comida y Bebidas,Sal,Salt,sólt
+Comida y Bebidas,Pimienta,Pepper,péper
+Comida y Bebidas,Vino,Wine,guáin
+Comida y Bebidas,Helado,Ice cream,áis krim
+Comida y Bebidas,Queso,Cheese,chís
+Comida y Bebidas,Jugo,Juice,yús
+Comida y Bebidas,Manzana,Apple,ápl
+Comida y Bebidas,Banana,Banana,bánena
+Comida y Bebidas,Naranja,Orange,órinch
+Comida y Bebidas,Uva,Grape,greip
+Comida y Bebidas,Cereza,Cherry,chéri
+Comida y Bebidas,Fresa,Strawberry,stróberi
+Comida y Bebidas,Piña,Pineapple,páinápl
+Comida y Bebidas,Melón,Melon,mélon
+Comida y Bebidas,Limón,Lemon,lémOn
+Comida y Bebidas,Zanahoria,Carrot,károt
+Comida y Bebidas,Tomate,Tomato,toméiTo
+Comida y Bebidas,Papa,Potato,potéitou
+Comida y Bebidas,Cebolla,Onion,ániOn
+Comida y Bebidas,Ajo,Garlic,gárlik
+Comida y Bebidas,Espinaca,Spinach,spínich
+Comida y Bebidas,Brócoli,Broccoli,brócoli
+Comida y Bebidas,Col, Cabbage,kábij
+Comida y Bebidas,Pimiento,Pepper,péper
+Comida y Bebidas,Champiñón,Mushroom,máshrum
+Comida y Bebidas,Calabaza,Pumpkin,pánkin
+Comida y Bebidas,Levadura,Yeast,yíst
+Comida y Bebidas,Miel,Honey,háni
+Comida y Bebidas,Mantequilla,Butter,báter
+Comida y Bebidas,Salchicha,Sausage,sósich
+Comida y Bebidas,Jamón,Ham,jam
+Comida y Bebidas,Caramelo,Candy,kándi
+Comida y Bebidas,Chocolate,Chocolate,chókolit
+Comida y Bebidas,Galleta,Cookie,kúki
+Comida y Bebidas,Panqueque,Pancake,pánkeik
+Comida y Bebidas,Tarta,Pie,pái
+Comida y Bebidas,Crema,Cream,krim
+Comida y Bebidas,Azúcar morena,Brown sugar,braun shúgar
+Comida y Bebidas,Canela,Cinnamon,sínamon
+Comida y Bebidas,Sal marina,Sea salt,sí sólt
+Comida y Bebidas,Agua con gas,Sparkling water,sparkling wóter
+Comida y Bebidas,Jugo de naranja,Orange juice,órinch yús
+Comida y Bebidas,Limonada,Lemonade,lémoneid
+Comida y Bebidas,Te,Tea,tí
+Comida y Bebidas,Té helado,Iced tea,áisd tí
+Comida y Bebidas,Cerveza negra,Stout,stáut
+Comida y Bebidas,Refresco,Soda,sóuda
+Comida y Bebidas,Helado de vainilla,Vanilla ice cream,váníya áis krim
+Comida y Bebidas,Pescado frito,Fried fish,fráid fish
+Comida y Bebidas,Pollo asado,Grilled chicken,gründ chíken
+Comida y Bebidas,Ensalada,Salad,sálad
+Comida y Bebidas,Sándwich,Sandwich,sándwich
+Comida y Bebidas,Arroz con pollo,Chicken with rice,chíken wif rais
+Comida y Bebidas,Puré,Mashed potatoes,másht potéitouz
+Comida y Bebidas,Frutas frescas,Fresh fruits,frésh fruts
+Comida y Bebidas,Verduras,Vegetables,véjitabls
+Comida y Bebidas,Postre,Dessert,dizért
+Comida y Bebidas,Cena,Dinner,dínner
+Comida y Bebidas,Almuerzo,Lunch,lanch
+Comida y Bebidas,Desayuno,Breakfast,brékfast
+Comida y Bebidas,Verduras al vapor,Steamed vegetables,stíimd véjitabls
+Comida y Bebidas,Bebida,Drink,drínk
+Comida y Bebidas,Licor,Liquor,líker
+Comida y Bebidas,Cóctel,Cocktail,cókteil
+Comida y Bebidas,Champán,Champagne,shampéin
+Comida y Bebidas,Café con leche,Latte,láte
+Comida y Bebidas,Cacao,Cocoa,kóukou
+Comida y Bebidas,Frambuesa,Raspberry,rázberi
+Comida y Bebidas,Mango,Mango,mángou
+Comida y Bebidas,Durazno,Peach,pích
+Comida y Bebidas,Cereza,Cherry,chéri
+Comida y Bebidas,Almendra,Almond,ólmond
+Comida y Bebidas,Nuez,Nut,nát
+Comida y Bebidas,Semilla,Seed,síd
+Comida y Bebidas,Huevo duro,Boiled egg,bóild eg
+Comida y Bebidas,Ensalada de frutas,Fruit salad,frut sálad
+Comida y Bebidas,Sopa de verduras,Vegetable soup,véjitable súp
+Comida y Bebidas,Puré de papas,Mashed potatoes,másht potéitouz
+Comida y Bebidas,Pan tostado,Toast,toust
+Comida y Bebidas,Mermelada,Jam,jam
+Comida y Bebidas,Aceite,Oil,oil
+Comida y Bebidas,Vinagre,Vinegar,vínigar
+Comida y Bebidas,Miel de abeja,Honey,jáni
+Comida y Bebidas,Harina,Flour,flaur
+Comida y Bebidas,Salchicha,Hot dog,hót dog
+Comida y Bebidas,Pollo frito,Fried chicken,fráid chíkin
+Comida y Bebidas,Pescado al horno,Baked fish,béikt fish
+Comida y Bebidas,Camarón,Shrimp,shrimp
+Comida y Bebidas,Cangrejo,Crab,krab
+Comida y Bebidas,Langosta,Lobster,lóster
+Comida y Bebidas,Pimiento picante,Chili,chíli
+Comida y Bebidas,Salsa,Sauce,sós
+Comida y Bebidas,Mostaza,Mustard,mástərd
+Comida y Bebidas,Ketchup,Ketchup,kéchap
+Comida y Bebidas,Mayonesa,Mayonnaise,méinéiz
+Comida y Bebidas,Ajo en polvo,Garlic powder,gárlik páuder
+Comida y Bebidas,Hierbas,Herbs,érbs
+Comida y Bebidas,Orégano,Oregano,órigano
+Comida y Bebidas,Albahaca,Basil,béizl
+Comida y Bebidas,Perejil,Parsley,pársli
+Comida y Bebidas,Cilantro,Cilantro,silántro
+Comida y Bebidas,Té verde,Green tea,grín tí
+Comida y Bebidas,Té negro,Black tea,blák tí
+Comida y Bebidas,Té de hierbas,Herbal tea,érbəl tí
+Comida y Bebidas,Zumo,Juce,yús
+Comida y Bebidas,Lácteos,Dairy déiry
+Comida y Bebidas,Queso fresco,Fresh cheese,frésh chíis
+Comida y Bebidas,Yogur,Yogurt,yóguart
+Comida y Bebidas,Crema agria,Sour cream,sáuer krím
+Comida y Bebidas,Manteca,Shortening,shórtening
+Comida y Bebidas,Mantequilla,Butter,báter
+Comida y Bebidas,Nuez moscada,Nutmeg,nátmeg
+Comida y Bebidas,Pimienta negra,Black pepper,blák péper
+Comida y Bebidas,Salsa de tomate,Tomato sauce,toméiTo sós
+Comida y Bebidas,Sopa de pollo,Chicken soup,chíken súp
+Comida y Bebidas,Sopa de verduras,Vegetable soup,véjçtàbl súp
+Comida y Bebidas,Caldo,Broth,bróth
+Comida y Bebidas,Galleta salada,Cracker,kráquer
+Comida y Bebidas,Bizcocho,Cake,keik
+Comida y Bebidas,Flan,Flan,flán
+Comida y Bebidas,Pastel,Cake,keik
+Comida y Bebidas,Helado de chocolate,Chocolate ice cream,chókolit áis krím
+Comida y Bebidas,Fruta seca,Dried fruit,dráid frut
+Comida y Bebidas,Uvas pasas,Raisins,reisins
+Comida y Bebidas,Almendra,Almond,ólmond
+Comida y Bebidas,Nuez,Nut,nát
+Comida y Bebidas,Semilla,Seed,síd
+Comida y Bebidas,Maíz,Corn,corn
+Comida y Bebidas,Harina,Flour,flaur
+Comida y Bebidas,Azúcar glas,Confectioners' sugar,konféktions shúgar
+Comida y Bebidas,Champiñones,Button mushrooms,bátun máshrums
+Comida y Bebidas,Jengibre,Ginger,dchíncher
+Comida y Bebidas,Canela,Cinnamon,sínamon
+Comida y Bebidas,Aceite de oliva,Olive oil,óliv oil
+Comida y Bebidas,Vinagre de vino,Wine vinegar,guáin vínigar
+Comida y Bebidas,Lentejas,Lentils,léntils
+Comida y Bebidas,Frijoles,Beans,bins
+Comida y Bebidas,Guisantes,Peas,pís
+Comida y Bebidas,Calabacín,Zucchini,zúkini
+Comida y Bebidas,Berenjena,Eggplant,égplant
+Comida y Bebidas,Patata dulce,Sweet potato,swit potéitou
+Comida y Bebidas,Coliflor,Cauliflower,kóulifláuer
+Comida y Bebidas,Acelga,Swiss chard,swis chárd
+Comida y Bebidas,Rúcula,Arugula,árugula
+Comida y Bebidas,Albahaca,Basil,béizl
+Comida y Bebidas,Menta,Mint,mínt
+Comida y Bebidas,Romero,Rosemary,róuzmeri
+Comida y Bebidas,Tomillo,Thyme,taim
+Comida y Bebidas,Miel,Miel,háni
+Comida y Bebidas,Sorbete,Sherbet,shérbet
+Comida y Bebidas,Barra de chocolate,Chocolate bar,chókolit bár
+Comida y Bebidas,Paleta,Pop (ice cream),pop áis krim
+Comida y Bebidas,Chicle,Chewing gum,chíwin gam
+Comida y Bebidas,Papas fritas,Chips,chíps
+Comida y Bebidas,Palomitas de maíz,Popcorn,póp corn
+Comida y Bebidas,Barra energética,Energy bar,énridi bár
+Comida y Bebidas,Nuez de la India,Cashew,káshú
+Comida y Bebidas,Cacahuate,Peanut,pínat
+Comida y Bebidas,Semillas de girasol,Sunflower seeds,sánfláuer síids
+Comida y Bebidas,Aceite vegetal,Vegetable oil,véjitable oil
+Comida y Bebidas,Caramelo,Candy,kándi
+Comida y Bebidas,Galleta,Cookie,kúki
+Comida y Bebidas,Pan dulce,Sweet bread,swit bréd
+Comida y Bebidas,Mantequilla de maní,Peanut butter,pínat batería
+Comida y Bebidas,Chocolate caliente,Hot chocolate,hót chókolit
+Comida y Bebidas,Cereal,Cereal,síriəl
+Comida y Bebidas,Avena,Oats,óuts
+Comida y Bebidas,Batido,Smoothie,smúthi
+Comida y Bebidas,Zumo de manzana,Apple juice,ápl yús
+Comida y Bebidas,Zumo de uva,Grape juice,greip yús
+Comida y Bebidas,Zumo de piña,Pineapple juice,páinápl yús
+Comida y Bebidas,Jugo de tomate,Tomato juice,toméiTo yús
+Comida y Bebidas,Almibar,Syrup,sírup
+Comida y Bebidas,Agua mineral,Mineral water,mínərəl wóter
+Comida y Bebidas,Agua potable,Drinking water,drínking wóter
+Comida y Bebidas,Agua dulce,Freshwater,frésh wóter
+Comida y Bebidas,Agua salada,Salty water,sólti wóter
+Comida y Bebidas,Lácteos,Dairy,déiri
+Ropa,Camisa,Shirt,shert
+Ropa,Pantalones,Pants,pants
+Ropa,Zapatos,Shoes,shús
+Ropa,Vestido,Dress,dres
+Ropa,Sombrero,Hat,jat
+Ropa,Chaqueta,Jacket,yáquet
+Ropa,Cinturón,Belt,belt
+Ropa,Medias,Socks,soks
+Ropa,Guantes,Gloves,glavs
+Ropa,Calcetines,Socks,soks
+Ropa,Traje,Suit,sut
+Ropa,Corbata,Tie,tái
+Ropa,Falda,Skirt,skért
+Ropa,Camiseta,T-shirt,ti shert
+Ropa,Pijama,Pajamas,páyamas
+Ropa,Suéter,Sweater,swéter
+Ropa,Bufanda,Scarf,skárf
+Ropa,Botas,Boots,búts
+Ropa,Zapatos deportivos,Sneakers,sníkers
+Ropa,Gafas de sol,Sunglasses,sángláses
+Ropa,Ropa interior,Underwear,ánderguér
+Ropa,Traje de baño,Swimsuit,swimsut
+Ropa,Cinturón de seguridad,Seatbelt,sítbelt
+Ropa,Chaleco,Vest,vést
+Ropa,Sombrero de copa,Top hat,tóp jat
+Ropa,Traje de gala,Tuxedo,ták­si·dóu
+Ropa,Capa,Cape,kéip
+Ropa,Pantalones cortos,Shorts,shórts
+Ropa,Chaqueta de cuero,Leather jacket,léther yáquet
+Ropa,Camisa de manga larga,Long sleeve shirt,lóng slíiv shert
+Ropa,Camiseta sin mangas,Tank top,tank top
+Ropa,Sudadera,Hoodie,húdi
+Ropa,Mochila,Backpack,bákpak
+Ropa,Camisa de cuadros,Checkered shirt,chékerd shert
+Ropa,Camisa de rayas,Striped shirt,stráipt shert
+Ropa,Medias de nylon,Nylon stockings,náilon stókingz
+Ropa,Ropa de invierno,Winter clothes,wínter klóuz
+Ropa,Ropa de verano,Summer clothes,sámer klóuz
+Ropa,Zapatos formales,Dress shoes,dres shús
+Ropa,Zapatos casuales,Casual shoes,kázuál shús
+Ropa,Tacones,High heels,jái jiils
+Ropa,Sombrero de ala ancha,Wide-brim hat,wáid brim jat
+Ropa,Chal,Shawl,shól
+Ropa,Pantalones vaqueros,Jeans,dchínz
+Ropa,Polo,Polo shirt,póulo shert
+Ropa,Overol,Overalls,óvərólz
+Ropa,Gorro,Beanie,bíni
+Ropa,Gorro de lana,Wool hat,wul jat
+Ropa,Guantes sin dedos,Fingerless gloves,fíngərles glavs
+Ropa,Neceser,Toiletry bag,tóilítri bág
+Ropa,Bata,Robes,róubz
+Ropa,Pantalones deportivos,Track pants,trák pants
+Ropa,Sombrero de paja,Straw hat,stróu jat
+Ropa,Ropa formal,Formal wear,fórmal wér
+Ropa,Ropa casual,Casual wear,kázuál wér
+Ropa,Ropa de trabajo,Work clothes,wérk klóuz
+Ropa,Ropa típica,Traditional clothing,trə-dí-shənəl klóuz
+Ropa,Uniforme,Uniform,iúni-form
+Ropa,Chaleco reflectante,Reflective vest,rifléktiv vést
+Ropa,Impermeable,Raincoat,reinkoat
+Ropa,Ropa deportiva,Sportswear,spórts wér
+Ropa,Sandalias,Sandals,sándals
+Ropa,Zapatos de tacón,High heels,jái jiils
+Ropa,Tobilleras,Anklets,ánklits
+Ropa,Calcetas,Socks,soks
+Ropa,Ropa interior masculina,Men's underwear,mens ánderguér
+Ropa,Ropa interior femenina,Women's underwear,wimins ánderguér
+Ropa,Monedero,Purse,pers
+Ropa,Bolso,Bag,bág
+Ropa,Cartera,Wallet,wált
+Ropa,Bufanda de seda,Silk scarf,silk skárf
+Ropa,Cinturón de cuero,Leather belt,léther belt
+Ropa,Gorro de lana,Wool cap,wul kap
+Ropa,Guantes de cuero,Leather gloves,léther glavs
+Ropa,Muda de ropa,Change of clothes,chéin dch əv klóuz
+Ropa,Ropa interior térmica,Thermal underwear,thermal ánderguér
+Ropa,Bata de laboratorio,Laboratory coat,laborétori kout
+Ropa,Uniforme escolar,School uniform,skúl iúni-form
+Ropa,Ropa cómoda,Comfortable clothes,komfortəbl klóuz
+Ropa,Capa impermeable,Waterproof cape,uóterpruf kéip
+Ropa,Traje de etiqueta,Black tie,blák tái
+Ropa,Ropa de cama,Bedding,bíding
+Ropa,Corbata de moño,Bow tie,bóu tái
+Ropa,Sombrero de vaquero,Cowboy hat,cáubói jat
+Ropa,Camisa hawaiana,Hawaiian shirt,jawáiən shert
+Ropa,Chaleco salvavidas,Life jacket,laif yáket
+Ropa,Ropa deportiva,Hoodie,swéter con gorro
+Ropa,Gorra,Cap,káp
+Ropa,Camiseta sin mangas,Tank top,tank top
+Ropa,Pantalones cortos,Shorts,shórts
+Ropa,Calcetines,Socks,soks
+Ropa,Zapatos deportivos,Sneakers,sníkers
+Ropa,Zapatos de tacón,High heels,jái jiils
+Ropa,Chanclas,Flip-flops,flíp flóps
+Ropa,Botas de lluvia,Rain boots,rein búts
+Ropa,Bata,Robes,róubz
+Ropa,Sombrero de lluvia,Rain hat,rein jat
+Ropa,Cinturón de cuero,Leather belt,léther belt
+Ropa,Guantes de lana,Wool gloves,wul glavs
+Ropa,Falda larga,Long skirt,lóng skért
+Ropa,Bermuda,Bermuda shorts,bérmuda shórts
+Ropa,Falda corta,Mini skirt,míni skért
+Ropa,Chaqueta de mezclilla,Denim jacket,dénim yáquet
+Ropa,Sudadera con capucha,Hoodie,húdi
+Ropa,Gorro de invierno,Winter hat,wínter jat
+Ropa,Bufanda de lana,Wool scarf,wul skárf
+Ropa,Medias opacas,Opaques tights,ópeiks táits
+Ropa,Ropa interior,Socks,soks
+Ropa,Calzoncillos,Underpants,ánderpants
+Ropa,Braga,Briefs,brífs
+Ropa,Camisón,Nightgown,náitgáun
+Ropa,Ropa deportiva,Tracksuit,tráksut
+Ropa,Gorro de paja,Straw hat,strójat
+Ropa,Pantalones de mezclilla,Jeans,dchínz
+Ropa,Sombrero de playa,Beach hat,bíich jat
+Ropa,Zapatos de cuero,Leather shoes,léther shús
+Ropa,Zapatillas,Slippers,slípərs
+Ropa,Botas de montaña,Hiking boots,háiking búts
+Ropa,Camiseta de manga larga,Long sleeve shirt,lóng slíiv shert
+Ropa,Buff,Buff,baf
+Ropa,Ropa de yoga,Yoga clothes,ióga klóuz
+Ropa,Pantimedias,Tights taits
+Ropa,Ropa interior térmica,Thermal underwear,thermal ánderguér
+Ropa,Pantalones de vestir,Dress pants,dres pants
+Ropa,Pantalones de chándal,Sweatpants,suétpants
+Ropa,Pantalones cargo,Cargo pants,kárgo pants
+Ropa,Chaleco reflectante,Reflective vest,rifléktiv vést
+Ropa,Mochila,Backpack,bákpak
+Ropa,Traje de noche,Evening gown,ívinin gáun
+Ropa,Traje de baño,Bathing suit,béiting suit
+Ropa,Camiseta deportiva,Sports shirt,spórts shert
+Ropa,Ropa interior de encaje,Lace underwear,leis ánderguér
+Ropa,Zapatos sin tacón,Flats,fláts
+Ropa,Sombrero de copa,Top hat,tóp jat
+Ropa,Ropa impermeable,Rainwear,rein wér
+Ropa,Guantes de cuero,Leather gloves,léther glavs
+Ropa,Ropa de trabajo,Workwear,wér wér
+Ropa,Camiseta básica,Basic t-shirt,béisik ti shert
+Ropa,Gorro de algodón,Cotton hat,kótan jat
+Ropa,Chaqueta acolchada,Padded jacket,pádid yáket
+Ropa,Traje de baño entero,One-piece swimsuit,uán-pís swím-suit
+Ropa,Conjunto,Set,sét
+Ropa,Mono,Jumpsuit,dchámpsuit
+Ropa,Pulsera,Bracelet,bréislet
+Ropa,Collar,Necklace,néikles
+Ropa,Anillo,Ring,ríng
+Ropa,Sombrero de ala ancha,Wide-brimmed hat,wáid brim jat
+Ropa,Aretes,Earrings,íaringz
+Ropa,Cinturón de tela,Cloth belt,klóth belt
+Ropa,Chaleco de punto,Knit vest,nit vést
+Ropa,Bufanda de seda,Silk scarf,silk skárf
+Ropa,Capucha,Hood,húd
+Ropa,Pantalones de cuero,Leather pants,léther pants
+Ropa,Zapatos de charol,Patent leather shoes,páten léther shús
+Ropa,Sombrero fedora,Fedora hat,feidora jat
+Ropa,Sombrero Panamá,Panama hat,pánama jat
+Ropa,Mocasines,Loafers,lóufers
+Ropa,Calcetas largas,Knee-high socks,ní jahí soks
+Ropa,Tapabocas,Face mask,féis mask
+Ropa,Guantes de invierno,Winter gloves,wínter glavs
+Ropa,Pantalones de lino,Linen pants,linən pants
+Ropa,Tacones altos,Stiletto heels,stiléto jiils
+Ropa,Zapatos sin cordones,Slip-on shoes,slíp ón shús
+Ropa,Ropa deportiva,Thermal wear,thermal wér
+Ropa,Ropa de gala,Evening dress,ívinin dres
+Ropa,Traje de etiqueta,Black tie,blák tái
+Ropa,Bolso de mano,Handbag,jándbág
+Ropa,Cinturón de seguridad,Seatbelt,sítbelt
+Ropa,Ropa cómoda,Comfort clothes,komfort klóuz
+Ropa,Impermeable,Raincoat,reinkóut
+Ropa,Pantuflas,Slippers,slípərz
+Ropa,Chaleco salvavidas,Life vest,laif vést
+Ropa,Pantimedias negras,Black tights,blák táits
+Ropa,Traje de baño de dos piezas,Bikini,bikíni
+Ropa,Ropa de bebé,Baby clothes,béibi klóuz
+Ropa,Babuche,Sandal,bambúsh
+Partes del Cuerpo,Cabeza,Head,jed
+Partes del Cuerpo,Ojo,Eye,ái
+Partes del Cuerpo,Boca,Mouth,máuz
+Partes del Cuerpo,Mano,Hand,jand
+Partes del Cuerpo,Pierna,Leg,leg
+Partes del Cuerpo,Corazón,Heart,jart
+Partes del Cuerpo,Dedo,Finger,fínger
+Partes del Cuerpo,Oído,Ear,ir
+Partes del Cuerpo,Espalda,Back,bak
+Partes del Cuerpo,Pie,Foot,fut
+Partes del Cuerpo,Nariz,Nose,nóuz
+Partes del Cuerpo,Brazo,Arm,arm
+Partes del Cuerpo,Cuello,Neck,nek
+Partes del Cuerpo,Estómago,Stomach,stámak
+Partes del Cuerpo,Dientes,Teeth,títh
+Partes del Cuerpo,Labios,Lips,lips
+Partes del Cuerpo,Codo,Elbow,élbou
+Partes del Cuerpo,Muñeca,Wrist,ríst
+Partes del Cuerpo,Hombro,Shoulder,shóulder
+Partes del Cuerpo,Espinilla,Shin,shín
+Partes del Cuerpo,Tobillo,Ankle,ánkl
+Partes del Cuerpo,Barbilla,Chin,chin
+Partes del Cuerpo,Mejilla,Cheek,chík
+Partes del Cuerpo,Frente,Forehead,fórhed
+Partes del Cuerpo,Ceja,Eyebrow,ái brau
+Partes del Cuerpo,Pestaña,Eyelash,ái lásh
+Partes del Cuerpo,Mentón,Chin,chin
+Partes del Cuerpo,Pecho,Chest,chest
+Partes del Cuerpo,Abdomen,Abdomen,ábdomən
+Partes del Cuerpo,Espalda superior,Upper back,ápər bak
+Partes del Cuerpo,Espalda baja,Lower back,lóuər bak
+Partes del Cuerpo,Cadera,Hip,hip
+Partes del Cuerpo,Muslo,Thigh,thai
+Partes del Cuerpo,Rodilla,Knee,ní
+Partes del Cuerpo,Nuca,Nape,néip
+Partes del Cuerpo,Cuero cabelludo,Scalp,skálp
+Partes del Cuerpo,Pulgar,Thumb,thám
+Partes del Cuerpo,Anular,Ring finger,ríng fínger
+Partes del Cuerpo,Índice,Index finger,índex fínger
+Partes del Cuerpo,Corva,Back of the knee,bak óv dhi ní
+Partes del Cuerpo,Talón,Heel,jiil
+Partes del Cuerpo,Planta del pie,Sole,sol
+Partes del Cuerpo,Parte superior del brazo,Upper arm,ápər arm
+Partes del Cuerpo,Parte inferior del brazo,Forearm,fór arm
+Partes del Cuerpo,Nariz, Nostrils,Nóstrils
+Partes del Cuerpo,Tronco,Trunk,tránk
+Partes del Cuerpo,Medula espinal,Spinal cord,spáinl kord
+Partes del Cuerpo,Dedos del pie,Toes,tóuz
+Partes del Cuerpo,Meñique,Pinky,pínki
+Partes del Cuerpo,Lóbulo de la oreja,Earlobe,íarlob
+Partes del Cuerpo,Palma,Palma,pálmə
+Partes del Cuerpo,Muela,Molar,móler
+Partes del Cuerpo,Parte trasera de la cabeza,Back of the head,bak óv dhi jed
+Partes del Cuerpo,Sangre,Blood,blad
+Partes del Cuerpo,Pulmones,Lungs,lángs
+Partes del Cuerpo,Hígado,Liver,líver
+Partes del Cuerpo,Estómago,Stomach,stámak
+Partes del Cuerpo,Intestinos,Intestines,intéstins
+Partes del Cuerpo,Riñones,Kidneys,kídnis
+Partes del Cuerpo,Esófago,Esophagus,ésófagus
+Partes del Cuerpo,Tráquea,Trachea,tríkiə
+Partes del Cuerpo,Páncreas,Pancreas,pánkrias
+Partes del Cuerpo,Bazo,Spleen,splín
+Partes del Cuerpo,Vesícula biliar,Gallbladder,gólblauder
+Partes del Cuerpo,Cuadril,Hip,jíp
+Partes del Cuerpo,Caja torácica,Rib cage,rib kéiych
+Partes del Cuerpo,Músculo,Muscle,máskol
+Partes del Cuerpo,Hueso,Bone,boun
+Partes del Cuerpo,Articulación,Joint,joynt
+Partes del Cuerpo,Tendón,Tendon,téndon
+Partes del Cuerpo,Medula ósea,Bone marrow,boun márrou
+Partes del Cuerpo,Célula,Cell,sel
+Partes del Cuerpo,Sistema nervioso,Nervous system,nérvus systém
+Partes del Cuerpo,Glándula,Gland,glánd
+Partes del Cuerpo,Nariz,Bridge of nose,bridj óv nóuz
+Partes del Cuerpo,Cara,Face,féis
+Partes del Cuerpo,Boca,Oral cavity,óural kéivi
+Partes del Cuerpo,Oído interno,Inner ear,ínner ir
+Partes del Cuerpo,Oreja externa,Outer ear,áuter ir
+Partes del Cuerpo,Ojo derecho,Right eye,ráit ái
+Partes del Cuerpo,Ojo izquierdo,Left eye,léft ái
+Partes del Cuerpo,Encía,Gum,gám
+Partes del Cuerpo,Sistema digestivo,Digestive system,dájestiv systém
+Partes del Cuerpo,Espalda media,Mid-back,mid-bak
+Partes del Cuerpo,Axila,Armpit,ármpit
+Partes del Cuerpo,Barbilla,Chin,chin
+Partes del Cuerpo,Bigote,Mustache,mástash
+Partes del Cuerpo,Clavícula,Collarbone,kólarboun
+Partes del Cuerpo,Coronilla,Crown,kráun
+Partes del Cuerpo,Cráneo,Skull,skál
+Partes del Cuerpo,Cuero cabelludo,Scalp,skálp
+Partes del Cuerpo,Dedos de la mano,Fingers,fíngers
+Partes del Cuerpo,Encías,Gums,gams
+Partes del Cuerpo,Espalda baja,Lower back,lóuer bak
+Partes del Cuerpo,Fragancia,Aroma,aróuma
+Partes del Cuerpo,Garganta,Throat,thróut
+Partes del Cuerpo,Glabela,Glabella,glábela
+Partes del Cuerpo,Hígado,Liver,líver
+Partes del Cuerpo,Labio inferior,Lower lip,lóuer lip
+Partes del Cuerpo,Labio superior,Upper lip,ápər lip
+Partes del Cuerpo,Lengua,Tongue,táng
+Partes del Cuerpo,Lóbulo, Lobe,loub
+Partes del Cuerpo,Lunula,Lunula,lúnula
+Partes del Cuerpo,Mandíbula,Mandible,mándibl
+Partes del Cuerpo,Mejilla,Cheek,chík
+Partes del Cuerpo,Músculo del brazo,Arm muscle,árm máskol
+Partes del Cuerpo,Músculo del muslo,Thigh muscle,thai máskol
+Partes del Cuerpo,Nariz,Bridge of nose,brídj óv nóuz
+Partes del Cuerpo,Nariz,Tip of the nose,tip óv dhi nóuz
+Partes del Cuerpo,Nuca,Nape,néip
+Partes del Cuerpo,Nódulo,Lymph node,limf noud
+Partes del Cuerpo,Órgano,Organ,órgan
+Partes del Cuerpo,Oreja,Outer ear,áuter ir
+Partes del Cuerpo,Oreja,Inner ear,ínner ir
+Partes del Cuerpo,Ovario,Ovary,óverí
+Partes del Cuerpo,Parpado,Eyelid,áilid
+Partes del Cuerpo,Patela,Kneecap,níkáp
+Partes del Cuerpo,Pecho,Chest,chest
+Partes del Cuerpo,Pupila,Pupil,píupil
+Partes del Cuerpo,Rabadilla,Tailbone,téilboun
+Partes del Cuerpo,Rabadilla,Coccyx,kóksix
+Partes del Cuerpo,Rana,Groin,gróin
+Partes del Cuerpo,Razón,Spleen,splín
+Partes del Cuerpo,Reborde costal,Rib border,rib bórder
+Partes del Cuerpo,Sangre,Blood,blád
+Partes del Cuerpo,Senos,Pectoral muscles,pektərəl máskolz
+Partes del Cuerpo,Tejido, TIssue,tísu
+Partes del Cuerpo,Templo,Temple,témpl
+Partes del Cuerpo,Tórax,Thorax, thóraks
+Partes del Cuerpo,Tórax superior,Upper chest,ápər chest
+Partes del Cuerpo,Tórax inferior,Lower chest,lóuer chest
+Partes del Cuerpo,Tripa,Belly,béli
+Partes del Cuerpo,Trompa de Eustaquio,Eustachian tube,yústéishan tiub
+Partes del Cuerpo,Uña,Nail,néil
+Partes del Cuerpo,Vientre,Abdomen,ábdomen
+Partes del Cuerpo,Vertebras,Vertebrae,vérteibré
+Partes del Cuerpo,Vitamina,Vitamin,váitmín
+Partes del Cuerpo,Zona lumbar,Lower back,lóuer bak
+Partes del Cuerpo,Zócalo,Osteon,óstion
+Partes del Cuerpo,Muñeca,Wrists,rísts
+Partes del Cuerpo,Glúteos,Buttocks,bátoks
+Partes del Cuerpo,Cuello uterino,Cervix,sérviks
+Partes del Cuerpo,Órgano reproductor,Reproductive organ,ripródaktiv órgan
+Partes del Cuerpo,Córnea,Cornea,kórnia
+Partes del Cuerpo,Nerbio,Nerve,nérv
+Partes del Cuerpo,Columna vertebral,Spinal column,spáinl cólum
+Partes del Cuerpo,Muelas del juicio,Wisdom teeth,wízdəm títh
+Partes del Cuerpo,Glándula pituitaria,Pituitary gland,pitúiteri gland
+Partes del Cuerpo,Glándula tiroides,Thyroid gland,thároid gland
+Partes del Cuerpo,Glándula suprarrenal,Adrenal gland,æd rí-nəl gland
+Partes del Cuerpo,Tiroides,Thyroid,thároid
+Partes del Cuerpo,Tálamo,Thalamus,tháləməs
+Partes del Cuerpo,Huesos del cráneo,Cranial bones,kréinl báuns
+Partes del Cuerpo,Vellos,Body hair,bódi jér
+Partes del Cuerpo,Piel,Skin,skin
+Partes del Cuerpo,Pulmones,Lungs,lángs
+Partes del Cuerpo,Columna cervical,Cervical spine,sérvikəl spáin
+Partes del Cuerpo,Hombro,Shoulder,shóulder
+Partes del Cuerpo,Cabezal,Headboard,jéd bort
+Partes del Cuerpo,Bóveda craneal,Skull vault,skál vólt
+Partes del Cuerpo,Bazo,Spleen,splín
+Partes del Cuerpo,Esófago,Esophagus,ésófagus
+Partes del Cuerpo,Bazo,Spleen,splín
+Partes del Cuerpo,Trompa uterina,Fallopian tube,féloupiən tiub
+Partes del Cuerpo,Riñones,Kidneys,kídnis
+Partes del Cuerpo,Hígado,Liver,líver
+Partes del Cuerpo,Páncreas,Pancreas,pánkrias
+Partes del Cuerpo,Vejiga,Bladder,bláder
+Partes del Cuerpo,Colon,Colon,kólon
+Partes del Cuerpo,Intestinos,Intestines,intéstins
+Salud y Medicina,Doctor,Doctor,dóktor
+Salud y Medicina,Enfermero,Nurse,nérs
+Salud y Medicina,Hospital,Hospital,jóspital
+Salud y Medicina,Clínica,Clinic,klínik
+Salud y Medicina,Médico,Physician,fízishan
+Salud y Medicina,Paciente,Patient,péishent
+Salud y Medicina,Emergencia,Emergency,imérdchensi
+Salud y Medicina,Consulta,Consultation,konsáltéishon
+Salud y Medicina,Dolor,Pain,péin
+Salud y Medicina,Fiebre,Fever,fíver
+Salud y Medicina,Tos,Cough,kof
+Salud y Medicina,Resfriado,Cold,kould
+Salud y Medicina,Gripe,Flu,flú
+Salud y Medicina,Herida,Wound,wund
+Salud y Medicina,Sangre,Blood,blad
+Salud y Medicina,Medicamento,Medicine,médisin
+Salud y Medicina,Vacuna,Vaccine,vaksín
+Salud y Medicina,Inyeccion,Injection,ínyeckshon
+Salud y Medicina,Jarabe,Syrup,sírup
+Salud y Medicina,Pastilla,Pill,pil
+Salud y Medicina,Hospitalización,Hospitalization,jóspitaléishon
+Salud y Medicina,Ambulancia,Ambulance,ámbulans
+Salud y Medicina,Emergencia médico,Medical emergency,médikal imérdchensi
+Salud y Medicina,Tratamiento,Treatment,trítment
+Salud y Medicina,Receta médica,Prescription,priskrípshion
+Salud y Medicina,Análisis,Analysis,análisis
+Salud y Medicina,Diagnóstico,Diagnosis,dágnósis
+Salud y Medicina,Farmacéutico,Pharmacist,fármasist
+Salud y Medicina,Síntoma,Symptom,símpthom
+Salud y Medicina,Enfermedad,Disease,dísiz
+Salud y Medicina,Cirugía,Surgery,sérdchery
+Salud y Medicina,Rehabilitación,Rehabilitation,réhabilitéishon
+Salud y Medicina,Síndrome,Syndrome,síndroum
+Salud y Medicina,Alergia,Allergy,álərdchy
+Salud y Medicina,Antibiótico,Antibiotic,antibaiótik
+Salud y Medicina,Antiinflamatorio,Anti-inflammatory,antiinflamatori
+Salud y Medicina,Infección,Infection,infékshon
+Salud y Medicina,Vacunación,Vaccination,vaksinéishon
+Salud y Medicina,Cuarentena,Quarantine,kuárəntín
+Salud y Medicina,Trauma,Trauma,tráuma
+Salud y Medicina,Sistema inmunológico,Immune system,ímún systému
+Salud y Medicina,Examen,Examination,eksaminéishon
+Salud y Medicina,Higiene,Hygiene,jáien
+Salud y Medicina,Antiséptico,Antiseptic,antiséptik
+Salud y Medicina,Transfusion,Transfusion,tránsfiushon
+Salud y Medicina,Fisioterapia,Physiotherapy,fisiótherapi
+Salud y Medicina,Síntoma,Sign,sáin
+Salud y Medicina,Incapacidad,Disability,disábiliti
+Salud y Medicina,Sangrado,Bleeding,blíding
+Salud y Medicina,Quemadura,Burn,bérn
+Salud y Medicina,Fractura,Fracture,fráctshur
+Salud y Medicina,Control,Check-up,chék ap
+Salud y Medicina,Internación,Admission,ədmíshon
+Salud y Medicina,Consulta médica,Medical consultation,médikal konsáltéishon
+Salud y Medicina,Recuperación,Recovery,rikáveri
+Salud y Medicina,Hospitalario,Hospitalized,jóspitaláisd
+Salud y Medicina,Bata blanca,White coat,guáit kout
+Salud y Medicina,Laboratorio,Lab,láb
+Salud y Medicina,Tomografía,Tomography,tomográfi
+Salud y Medicina,Radiografía,X-ray,éks rei
+Salud y Medicina,Ecografía,Ultrasound,áltrasaud
+Salud y Medicina,Terapia,Therapy,thérapi
+Salud y Medicina,Fiebre alta,High fever,jái fíver
+Salud y Medicina,Fiebre baja,Low fever,lóu fíver
+Salud y Medicina,Tensión arterial,Blood pressure,blad préshur
+Salud y Medicina,Dolor de cabeza,Headache,jédcheik
+Salud y Medicina,Dolor de estómago,Stomach ache,stámak éik
+Salud y Medicina,Tos seca,Dry cough,drai kof
+Salud y Medicina,Resfriado común,Common cold,kómon kould
+Salud y Medicina,Asma,Asthma,ázma
+Salud y Medicina,Enfermedad crónica,Chronic disease,krónik dísiz
+Salud y Medicina,Alérgico,Allergic,álérdchik
+Salud y Medicina,Fármacos,Drugs,drágs
+Salud y Medicina,Síndrome de abstinencia,Withdrawal syndrome,widróal síndrom
+Salud y Medicina,Examen físico,Physical exam,fízikal eksám
+Salud y Medicina,Antídoto,Antidote,ántidout
+Salud y Medicina,Sutura,Suture,sutúr
+Salud y Medicina,Sedación,Sedation,sidéishon
+Salud y Medicina,Anestesia,Anesthesia,ánisthízi
+Salud y Medicina,Morgue,Morgue,morg
+Salud y Medicina,Fármaco,Farm, farm
+Salud y Medicina,Cáncer,Cancer,kánser
+Salud y Medicina,Cardiología,Cardiology,kárdiolodchí
+Salud y Medicina,Oncología,Oncology,onkólodchí
+Salud y Medicina,Neurología,Neurology,nyurolodchí
+Salud y Medicina,Pediatría,Pediatrics,pidiátriks
+Salud y Medicina,Ginecología,Gynecology,jinékolodchí
+Salud y Medicina,Traumatología,Traumatology,tráumatolodchí
+Salud y Medicina,Medicina,Medicine,médisin
+Salud y Medicina,Vacuna antigripal,Flu vaccine,flu vaksín
+Salud y Medicina,Colesterol,Cholesterol,colesterol
+Salud y Medicina,Tensión,Pressure,préshur
+Salud y Medicina,Droga,Drug,drug
+Salud y Medicina,Curación,Cure,kiur
+Salud y Medicina,Receta,Prescription,priskrípshion
+Salud y Medicina,Síntoma,Symptom,símpthom
+Salud y Medicina,Vómito,Vomit,vómit
+Salud y Medicina,Náusea,Nausea,nóusia
+Salud y Medicina,Consulta,Check-up,chék ap
+Salud y Medicina,Consultorio,Doctor’s office,dóktorz ófis
+Salud y Medicina,Síndrome,Syndrome,síndroum
+Salud y Medicina,Análisis,Analysis,análysis
+Salud y Medicina,Enfermedad,Disease,díziz
+Salud y Medicina,Farmacia,Pharmacy,fármasi
+Salud y Medicina,Diagnóstico,Diagnosis,daiágnósis
+Salud y Medicina,Procedimiento,Procedure,prósídúr
+Salud y Medicina,Hospitalización,Hospitalization,jóspitaléishon
+Salud y Medicina,Especialista,Specialist,spéshialist
+Salud y Medicina,Radiología,Radiology,reidíolodchí
+Salud y Medicina,Clínico,Clinic,klínik
+Salud y Medicina,Cirujano,Surgeon,sórdchen
+Salud y Medicina,Emergencias,Emergencies,imérdchinsis
+Salud y Medicina,Herida,Wound,wund
+Salud y Medicina,Sangrado,Bleeding,blíding
+Salud y Medicina,Quemadura,Burn,bérn
+Salud y Medicina,Infección,Infection,infékshon
+Salud y Medicina,Intoxicación,Poisoning,póisining
+Salud y Medicina,Medicación,Medication,médikeishon
+Salud y Medicina,Inmunización,Immunization,imjunáiséishon
+Salud y Medicina,Antibióticos,Antibiotics,antibaiótiks
+Salud y Medicina,Vacunación,Vaccination,vaksinéishon
+Salud y Medicina,Quirófano,Operating room,óuperéiting rium
+Salud y Medicina,Transfusión,Transfusion,transfiúshon
+Salud y Medicina,Anestesia,Anesthesia,anésthizia
+Salud y Medicina,Bienestar,Well-being,wel bíing
+Salud y Medicina,Recuperación,Recovery,rikáveri
+Salud y Medicina,Cura,Cure,kiur
+Salud y Medicina,Hospitalizado,Hospitalized,jóspitaláizd
+Salud y Medicina,Receta,Prescription,priskrípshon
+Salud y Medicina,Dolor,Pain,péin
+Salud y Medicina,Fiebre,Fever,fíver
+Salud y Medicina,Alergia,Allergy,álérdchí
+Salud y Medicina,Asma,Asthma,ázma
+Salud y Medicina,Diabetes,Diabetes,diábiitis
+Salud y Medicina,Hormona,Hormone,jórmoun
+Salud y Medicina,Inmunidad,Immunity,imjúníti
+Salud y Medicina,Bacteria,Bacteria,baktéria
+Salud y Medicina,Virus,Virus,váirus
+Salud y Medicina,Anticuerpo,Antibody,ántibádi
+Salud y Medicina,Cáncer,Cancer,kánser
+Salud y Medicina,Chequeo médico,Medical check,védical chéik
+Salud y Medicina,Prevención,Prevention,prévenchion
+Salud y Medicina,Tratamiento,Treatment,trítment
+Salud y Medicina,Fisioterapia,Physiotherapy,fisiótherápi
+Salud y Medicina,Rehabilitación,Rehabilitation,réhabilitéishon
+Salud y Medicina,Diagnóstico,Dignosis,dáignósis
+Salud y Medicina,Síntoma,Symptom,símptom
+Salud y Medicina,Análisis clínico,Lab test,lab test
+Salud y Medicina,Ecografía,Ultrasound,áltrasaud
+Salud y Medicina,Radiografía,X-ray,éks rèi
+Salud y Medicina,Tomografía,CT scan,si tí scan
+Salud y Medicina,Mamografía,Mammogram,mámógram
+Salud y Medicina,Biopsia,Biopsy,báiopsi
+Salud y Medicina,Fisioterapeuta,Physiotherapist,fisiótherá pist
+Salud y Medicina,Cardiólogo,Cardiologist,kardiólodch
+Salud y Medicina,Neurólogo,Neurologist,nirólodch
+Salud y Medicina,Pediatra,Pediatrician,pidiátrishan
+Salud y Medicina,Ginecólogo,Gynecologist,jiniólodch
+Salud y Medicina,Oncólogo,Oncologist,ónkólodch
+Salud y Medicina,Consulta externa,Outpatient,áutpéishent
+Salud y Medicina,Internación,Hospital admission,jóspital ádmishon
+Salud y Medicina,Emergencia médica,Medical emergency,médikal imérdchensi
+Salud y Medicina,Check-up de rutina,Routine check-up,rútin chéik ap
+Salud y Medicina,Cita médica,Doctor appointment,dóktor appóintment
+Salud y Medicina,Historia clínica,Medical record,médikal récord
+Salud y Medicina,Síndrome metabólico,Metabolic syndrome,metabólik síndrom
+Salud y Medicina,Diálisis,Dialysis,dáiálisis
+Salud y Medicina,Terapia intensiva,Intensive care,inténsiv kér
+Salud y Medicina,UCI,ICU,áisíú
+Salud y Medicina,Donante,Donor,dóunər
+Salud y Medicina,Trasplante,Transplant,tránsplánt
+Salud y Medicina,Consulta de urgencias,Emergency consultation,imérdchensi konsáltéishon
+Salud y Medicina,Punción lumbar,Lumbar puncture,lámbar pánktchur
+Salud y Medicina,Medicamento genérico,Generic drug,dchénerik drág
+Salud y Medicina,Medicina alternativa,Alternative medicine,áltərnətiv médisin
+Salud y Medicina,Apoyo psicológico,Psychological support,saikólocial sapórt
+Salud y Medicina,Salud mental,Mental health,méntal jélz
+Salud y Medicina,Trastorno,Disorder,disórder
+Salud y Medicina,Ansiedad,Anxiety,anksáieti
+Salud y Medicina,Depresión,Depression,diprèshon
+Salud y Medicina,Bienestar emocional,Emotional well-being,imóushonal wel bíing
+Salud y Medicina,Consulta psicológica,Psychological counseling,saikólocial káunseling
+Salud y Medicina,Terapia,Therapy,thérapi
+Salud y Medicina,Fármaco,Drug,drág
+Salud y Medicina,Reacción adversa,Adverse reaction,ádvers riákshon
+Salud y Medicina,Dieta,Diet,dáiɘt
+Salud y Medicina,Ejercicio,Exercise,éksərsáis
+Salud y Medicina,Sueño,Sleep,s líp
+Salud y Medicina,Vacuna contra la gripe,Flu shot,flu shót
+Salud y Medicina,Medicina preventiva,Preventive medicine,préventiv médisin
+Salud y Medicina,Cuidado personal,Personal care,pérsonal kér
+Salud y Medicina,Lesión,Injury,ínjeri
+Salud y Medicina,Cirugía mayor,Major surgery,méichur sérdchery
+Salud y Medicina,Sutura,Suture,sútur
+Salud y Medicina,Dolor agudo,Sharp pain,shárp péin
+Salud y Medicina,Dolor crónico,Chronic pain,krónik péin
+Salud y Medicina,Medicamento recetado,Prescription drug,priskrípshon drág
+Salud y Medicina,Dispositivo médico,Medical device,médikal diváis
+Salud y Medicina,Hormona de crecimiento,Growth hormone,gróuth jórmoun
+Salud y Medicina,Diabetes tipo 1,Type 1 diabetes,taip wán diábiitis
+Salud y Medicina,Diabetes tipo 2,Type 2 diabetes,taip tú diábiitis
+Salud y Medicina,Hipertensión,Hypertension,háipərténshon
+Salud y Medicina,Colesterol alto,High cholesterol,jái coléstrol
+Salud y Medicina,Enfermedad cardíaca,Heart disease,járt dísiz
+Números y Hora,Cero,Zero,zíro
+Números y Hora,Uno,One,uán
+Números y Hora,Dos,Two,tu
+Números y Hora,Tres,Three,zrí
+Números y Hora,Cuatro,Four,fóur
+Números y Hora,Cinco,Five,fáiv
+Números y Hora,Seis,Six,siks
+Números y Hora,Siete,Seven,sévən
+Números y Hora,Ocho,Eight,éit
+Números y Hora,Nueve,Nine,náin
+Números y Hora,Diez,Ten,tén
+Números y Hora,Once,Eleven,iléven
+Números y Hora,Doce,Twelve,twélv
+Números y Hora,Trece,Thirteen,zértin
+Números y Hora,Catorce,Forteen,fórtin
+Números y Hora,Quince,Fifteen,fíf­tin
+Números y Hora,Dieciséis,Sixteen,síkstin
+Números y Hora,Diecisiete,Seventeen,sévntin
+Números y Hora,Dieciocho,Eighteen,éitin
+Números y Hora,Diecinueve,Nineteen,náintin
+Números y Hora,Viente,Twenty,twénti
+Números y Hora,Veintiuno,Twenty-one,twénti uán
+Números y Hora,Treinta,Thirty,zérti
+Números y Hora,Cuarenta,Forty,fórti
+Números y Hora,Cincuenta,Fifty,fíf­ti
+Números y Hora,Sesenta,Sixty,síksti
+Números y Hora,Setenta,Seventy,sévnti
+Números y Hora,Ochenta,Eighty,éiti
+Números y Hora,Noventa,Ninety,náinti
+Números y Hora,Cien,Hundred,jándred
+Números y Hora,Mil,Thousand,záusand
+Números y Hora,Millón,Million,mílion
+Números y Hora,Primero,First,férst
+Números y Hora,Segundo,Second,sécond
+Números y Hora,Tercero,Third,zérd
+Números y Hora,Cuarto,Fourth,fórth
+Números y Hora,Quinto,Fifth,fifz
+Números y Hora,Sexto,Sixth,siksth
+Números y Hora,Séptimo,Seventh,sévənth
+Números y Hora,Octavo,Eighth,éitth
+Números y Hora,Noveno,Ninth náinth
+Números y Hora,Décimo,Tenth,tenth
+Números y Hora,Hora,Hour,áuer
+Números y Hora,Minuto,Minute,mínit
+Números y Hora,Segundo,Second,sekond
+Números y Hora,Día,Day,dey
+Números y Hora,Noche,Night,náit
+Números y Hora,Mañana,Morning,mórning
+Números y Hora,Tarde,Afternoon,áfternun
+Números y Hora,Mediodía,Noon,nún
+Números y Hora,Medianoche,Midnight,míd náit
+Números y Hora,Semana,Week,wík
+Números y Hora,Mes,Month,mánth
+Números y Hora,Año,Year,yiér
+Números y Hora,Fecha,Date,deit
+Números y Hora,Reloj,Clock,klok
+Números y Hora,Cronómetro,Stopwatch,stápuóch
+Números y Hora,Calendario,Calendar,ká-len-dar
+Números y Hora,Hora exacta,Exact time,ig-zákt taim
+Números y Hora,A tiempo,On time,on taim
+Números y Hora,Tarde,Late,leit
+Números y Hora,Temprano,Early,érli
+Números y Hora,Ayer,Yesterday,yésterdei
+Números y Hora,Hoy,Today,tudéi
+Números y Hora,Mañana (día siguiente),Tomorrow,tumórou
+Números y Hora,Pasado mañana,Day after tomorrow,dey áfter tumórou
+Números y Hora,Semana pasada,Last week,lást wík
+Números y Hora,Mes pasado,Last month,lást mánth
+Números y Hora,Año pasado,Last year,lást yiér
+Números y Hora,Próxima semana,Next week,nékst wík
+Números y Hora,Próximo mes,Next month,nékst mánth
+Números y Hora,Próximo año,Next year,nékst yiér
+Números y Hora,Temporada,Season,síson
+Números y Hora,Primavera,Spring,spring
+Números y Hora,Verano,Summer,sámer
+Números y Hora,Otoño,Fall,fól
+Números y Hora,Invierno,Winter,wínter
+Números y Hora,Antes,Before,bifór
+Números y Hora,Después,After,áfter
+Números y Hora,Medio,Middle,mídol
+Números y Hora,Principio,Beginning,bigínin
+Números y Hora,Final,End,end
+Números y Hora,Hora punta,Rush hour,rash áuer
+Números y Hora,Hace un momento,A moment ago,á móment agou
+Números y Hora,A menudo,Oftentimes,óften táims
+Números y Hora,Duración,Duration,djuréi shon
+Números y Hora,Intervalo,Interval,ínterval
+Números y Hora,Frecuencia,Frequency,fríkuensi
+Números y Hora,Periodicidad,Periodicity,épiriadísiti
+Números y Hora,Minutos,Minutes,mínits
+Números y Hora,Segundos,Seconds,sékonds
+Números y Hora,Horas,Hours,áuers
+Números y Hora,Días,Days,deys
+Números y Hora,Semanas,Weeks,wíks
+Números y Hora,Meses,Months,máns
+Números y Hora,Años,Years,yíers
+Números y Hora,Época,Epoch,épok
+Números y Hora,Milisegundo,Millisecond,mílisekund
+Números y Hora,Microsegundo,Microsecond,máikrosekund
+Números y Hora,Hora local,Local time,lócal taim
+Números y Hora,Huso horario,Time zone,taim zóun
+Números y Hora,Zona horaria,Timezone,taimzón
+Números y Hora,Reloj analógico,Analog clock,ánalog klok
+Números y Hora,Reloj digital,Digital clock,dídchital klok
+Números y Hora,Cronómetro,Stopwatch,stópuóch
+Números y Hora,Calendario anual,Yearly calendar,íerli kálendar
+Números y Hora,Calendario mensual,Monthly calendar,mánthli kálendar
+Números y Hora,Calendario semanal,Weekly calendar,wíikli kálendar
+Números y Hora,Fecha límite,Deadline,dédlain
+Números y Hora,Antes de Cristo,BC,bi sí
+Números y Hora,Después de Cristo,AD,ádi dí
+Números y Hora,Año bisiesto,Leap year,líp yiér
+Números y Hora,Fecha de nacimiento,Birthdate,bérzdeit
+Números y Hora,Años luz,Light years,láit yiérz
+Números y Hora,Era,Era,íra
+Números y Hora,Edad,Age,eich
+Números y Hora,Reloj despertador,Alarm clock,álarm klok
+Números y Hora,Horas punta,Rush hours,rash áuers
+Números y Hora,A tiempo,On time,on taim
+Números y Hora,Al mediodía,At noon,at nún
+Números y Hora,Al amanecer,At dawn,at dóun
+Números y Hora,Al anochecer,At dusk,at dasc
+Números y Hora,Pronto,Soon,sún
+Números y Hora,Tarde,Late,leit
+Números y Hora,Temprano,Early,érli
+Números y Hora,Antes,Before,bifór
+Números y Hora,Después,After,áfter
+Números y Hora,Al instante,Instantly,ínstantli
+Números y Hora,A lo largo,Throughout,frúaut
+Números y Hora,Suficiente,Enough,inaf
+Números y Hora,Demasiado,Too much,tu mach
+Números y Hora,Puntual,Punctual,pánctual
+Números y Hora,Próximo,Next,nékst
+Números y Hora,Último,Last,lást
+Números y Hora,Antes de,Before,bifór
+Números y Hora,Después de,After,áfter
+Números y Hora,En punto,Exactly,igzáctli
+Números y Hora,Aproximadamente,Approximately,apróksimətli
+Números y Hora,Alrededor,Around,aráund
+Números y Hora,Cerca de,Close to,klóus tu
+Números y Hora,Lejos de,Far from,fahr from
+Números y Hora,Inicio,Start,stárt
+Números y Hora,Final,End,end
+Números y Hora,Mediados,Middle,mídol
+Números y Hora,Temporada,Season,síson
+Números y Hora,Primavera,Spring,spring
+Números y Hora,Verano,Summer,sámer
+Números y Hora,Otoño,Fall,fól
+Números y Hora,Invierno,Winter,wínter
+Números y Hora,Transcurrir,Pass,pas
+Números y Hora,Esperar,Wait,guéit
+Números y Hora,Repetir,Repeat,ripít
+Números y Hora,Aplazar,Postpone,póustpoun
+Números y Hora,Cancelar,Cancel,kánsəl
+Números y Hora,Reprogramar,Reschedule,riskédchul
+Números y Hora,Prorrogar,Extend,iksténd
+Números y Hora,Durar,Last,lást
+Números y Hora,Hacer tarde,Be late,bí leit
+Números y Hora,Hacer temprano,Be early,bí érli
+Números y Hora,Temporizador,Timer,táimer
+Números y Hora,Intervalo de tiempo,Time interval,taim íntərval
+Números y Hora,Hora punta,Rush hour,rash áuer
+Números y Hora,Horario,Schedule,skédchul
+Números y Hora,Hora exacta,Exact time,ig'zakt taim
+Números y Hora,Reunión,Meeting,míting
+Números y Hora,Plazo,Deadline,dédlain
+Números y Hora,Momento,Moment,móument
+Números y Hora,Siglo,Century/síkló/ or/ sáburado/ 
+Números y Hora,Milenio,Millennium,millenium
+Números y Hora,Decada,Decade,dékid
+Números y Hora,Sábado,Saturday,sáterdei
+Números y Hora,Domingo,Sunday,sándei
+Números y Hora,Lunes,Monday,mándei
+Números y Hora,Martes,Tuesday,chúsdei
+Números y Hora,Miércoles,Wednesday,wénsdei
+Números y Hora,Jueves,Thursday,zérsdei
+Números y Hora,Viernes,Friday,fráid
+Colores,Rojo,Red,red
+Colores,Azul,Blue,blu
+Colores,Verde,Green,grín
+Colores,Amarillo,Yellow,yélou
+Colores,Negro,Black,blak
+Colores,Blanco,White,guáit
+Colores,Gris,Gray,grei
+Colores,Morado,Purple,pérpl
+Colores,Naranja,Orange,órinch
+Colores,Rosa,Pink,pink
+Colores,Café,Brown,braun
+Colores,Beige,Beige,béizh
+Colores,Turquesa,Turquoise,térkwóis
+Colores,Plateado,Silver,sílver
+Colores,Dorado,Gold,gould
+Colores,Crema,Cream,krim
+Colores,Verde claro,Light green,láit grín
+Colores,Verde oscuro,Dark green,dák grín
+Colores,Azul claro,Light blue,láit blu
+Colores,Azul oscuro,Dark blue,dák blu
+Colores,Rosa claro,Light pink,láit pink
+Colores,Rosa oscuro,Dark pink,dák pink
+Colores,Amarillo claro,Light yellow,láit yélou
+Colores,Amarillo oscuro,Dark yellow,dák yélou
+Colores,Marrón claro,Light brown,láit braun
+Colores,Marrón oscuro,Dark brown,dák braun
+Colores,Lila,Lilac,láilak
+Colores,Magenta,Magenta,magéntá
+Colores,Cian,Cyan,sáián
+Colores,Oliva,Olive,óliv
+Colores,Beis,Beige,béizh
+Colores,Turquesa claro,Light turquoise,láit térkwóis
+Colores,Turquesa oscuro,Dark turquoise,dák térkwóis
+Colores,Coral,Coral,kóral
+Colores,Granate,Garnet,garnir
+Colores,Cobre,Copper,kóper
+Colores,Mostaza,Mustard,másterd
+Colores,Azul marino,Navy blue,néivi blu
+Colores,Plateado claro,Light silver,láit sílver
+Colores,Plateado oscuro,Dark silver,dák sílver
+Colores,Dorado claro,Light gold,láit gould
+Colores,Dorado oscuro,Dark gold,dák gould
+Colores,Turquesa brillante,Bright turquoise,bráit térkwóis
+Colores,Azul celeste,Sky blue,skái blu
+Colores,Verde lima,Lime green,láim grín
+Colores,Verde esmeralda,Emerald green,émərald grín
+Colores,Rosa fuerte,Hot pink,jót pink
+Colores,Morado claro,Light purple,láit pérpl
+Colores,Morado oscuro,Dark purple,dák pérpl
+Colores,Rojo brillante,Bright red,bráit red
+Colores,Rojo oscuro,Dark red,dák red
+Colores,Beige claro,Light beige,láit béizh
+Colores,Beige oscuro,Dark beige,dák béizh
+Colores,Café claro,Light brown,láit braun
+Colores,Café oscuro,Dark brown,dák braun
+Colores,Blanco nieve,Snow white,snóu guáit
+Colores,Carbón,Charcoal,chárkoul
+Colores,Ocre,Ochre,óuker
+Colores,Marfil,Ivory,áivori
+Colores,Salmón,Salmon,sálmon
+Colores,Azul petróleo,Petrol blue,pétról blu
+Colores,Rosa pastel,Pastel pink,pástel pink
+Colores,Beige rosado,Pink beige,pink béizh
+Colores,Mate,Matte,mát
+Colores,Brillante,Glossy,glósi
+Colores,Transparente,Transparent,tránzperent
+Colores,Opaco,Opaque,ópeik
+Colores,Púrpura,Purple,pérpl
+Colores,Mostaza claro,Light mustard,láit másterd
+Colores,Mostaza oscuro,Dark mustard,dák másterd
+Colores,Ceniza,Ash,ash
+Colores,Azul acero,Steel blue,stil blu
+Colores,Rojo carmesí,Crimson,krímsn
+Colores,Azul turquesa,Turquoise blue,térkwóis blu
+Colores,Pardo,Brown,praun
+Colores,Rosa fuerte,Strong pink,stróng pink
+Colores,Castaño,Chestnut,chéstnat
+Colores,Verde pálido,Pale green,péil grín
+Colores,Beige arena,Sand beige,sand béizh
+Colores,Malva,Mauve,móuv
+Colores,Violeta,Violet,vái olet
+Colores,Aguamarina,Aquamarine,akuamárin
+Colores,Rosa viejo,Dusty pink,dásti pink
+Colores,Rojo ladrillo,Brick red,brik red
+Colores,Azul pastel,Pastel blue,pástel blu
+Colores,Marrón rojizo,Reddish brown,rédish braun
+Colores,Naranja intenso,Deep orange,díp órinch
+Colores,Gris claro,Light gray,láit grei
+Colores,Gris oscuro,Dark gray,dák grei
+Colores,Rosa pálido,Pale pink,péil pink
+Colores,Rojo brillante,Bright red,bráit red
+Colores,Verde bosque,Forest green,fórest grín
+Colores,Verde oliva,Olive green,óliv grín  
+Colores,Turquesa oscuro,Dark turquoise,dák térkwóis  
+Colores,Verde esmeralda,Emerald green,émərald grín  
+Colores,Azul cobalto,Cobalt blue,kóbalt blu  
+Colores,Rojo carmesí,Crimson,krímsn  
+Colores,Aguamarina,Aquamarine,akwamárin  
+Colores,Violeta oscuro,Dark violet,dák váiolet  
+Colores,Púrpura claro,Light purple,láit pérpl  
+Colores,Gris pizarra,Slate gray,sléit grei  
+Colores,Rosa palo,Mauve,móuv  
+Colores,Amarillo brillante,Bright yellow,bráit yélou  
+Colores,Cian claro,Light cyan,láit sáián  
+Colores,Azul marino oscuro,Dark navy,dák néivi  
+Colores,Negro carbón,Charcoal black,chárkoul blak  
+Colores,Blanco marfil,Ivory white,áivori guáit  
+Colores,Rosa chicle,Bubblegum pink,báblgam pink  
+Colores,Mostaza viejo,Old mustard,óuld másterd  
+Colores,Verde césped,Grass green,grás grín  
+Colores,Rojo tomate,Tomato red,toméiTou red  
+Colores,Gris humo,Smokey gray,smóuki grei  
+Colores,Azul celeste claro,Light sky blue,láit skái blu  
+Colores,Rosa intenso,Vivid pink,vívid pink  
+Colores,Lila suave,Soft lilac,sóft láilak  
+Colores,Beige arena,Sandy beige,sándi béizh  
+Colores,Rojo ladrillo,Brick red,brik red  
+Colores,Verde musgo,Moss green,mós grín  
+Colores,Turquesa brillante,Bright turquoise,bráit térkwóis  
+Colores,Violeta pastel,Pastel violet,pástel váiolet  
+Colores,Amarillo pálido,Pale yellow,péil yélou  
+Colores,Azul petróleo,Petrol blue,pétroul blu  
+Colores,Gris acero,Steel gray,stíl grei  
+Colores,Naranja quemado,Burnt orange,bérnt órinch  
+Colores,Rosa pastel claro,Light pastel pink,láit pástel pink  
+Colores,Verde bandera,Flag green,flág grín  
+Colores,Rojo vino,Wine red,wáin red  
+Colores,Azul real,Royal blue,róial blu  
+Colores,Verde lima,Lime green,láim grín  
+Colores,Gris grafito,Graphite gray,gráfait grei  
+Colores,Rojo rubí,Ruby red,rúbi red  
+Colores,Vino tinto,Red wine,red wáin  
+Colores,Marrón oscuro,Dark brown,dák braun  
+Colores,Azul índigo,Indigo blue,índigo blu  
+Colores,Naranja brillante,Bright orange,bráit órinch  
+Colores,Morado profundo,Deep purple,díp pérpl  
+Colores,Verde primavera,Spring green,spring grín  
+Colores,Salmón rosado,Pink salmon,pink sálmon  
+Colores,Carmesí,Crimson,krímsñ  
+Colores,Verde menta,Mint green,mínt grín  
+Colores,Azul acero claro,Light steel blue,láit stíl blu  
+Colores,Rosa coral,Coral pink,kóral pink  
+Colores,Negro azabache,Jet black,yet blak  
+Colores,Blanco antiguo,Off white,óf guáit  
+Colores,Vista de la noche,Night view,náit viú  
+Colores,Amarillo sol,Sun yellow,sán yélou  
+Colores,Gris perla,Pearl gray,pérl grei  
+Colores,Rojo fuego,Fire red,fáier red  
+Colores,Azul cielo,Sky blue,skái blu  
+Colores,Rosa vibrante,Vibrant pink,váibrant pink  
+Colores,Verde bosque oscuro,Dark forest green,dák fórest grín  
+Colores,Café claro,Light brown,láit braun  
+Colores,Azul hielo,Ice blue,áis blu  
+Colores,Rojo coral,Coral red,kóral red  
+Colores,Gris plomo,Lead gray,led grei  
+Colores,Blanco nieve,Snow white,snóu guáit  
+Colores,Rosa claro,Light pink,láit pink  
+Colores,Verde jade,Jade green,jéid grín  
+Colores,Cobre oxidado,Rusty copper,rásti kóper  
+Colores,Naranja pastel,Pastel orange,pástel órinch  
+Colores,Beige rosado,Pink beige,pink béizh  
+Colores,Morado violeta,Violet purple,váiɔlét pérpl  
+Colores,Amarillo mostaza,Mustard yellow,mástərd yélou  
+Colores,Gris oscuro,Dark gray,dák grei  
+Colores,Azul eléctrico,Electric blue,iléktrik blu  
+Colores,Rosa intenso,Intense pink,inténs pink  
+Animales,Perro,Dog,dóg
+Animales,Gato,Cat,kát
+Animales,Pájaro,Bird,bérd
+Animales,Pez,Fish,fish
+Animales,Vaca,Cow,cáu
+Animales,Caballo,Horse,jors
+Animales,Oveja,Sheep,ship
+Animales,Cabra,Goat,góut
+Animales,Cerdo,Pig,pig
+Animales,Conejo,Rabbit,rábit
+Animales,Loro,Parrot,párrot
+Animales,Tortuga,Turtle,tértol
+Animales,Camello,Camel,kámel
+Animales,Zorro,Fox,foks
+Animales,Lobo,Wolf,wulf
+Animales,Elefante,Elephant,élifent
+Animales,Tigre,Tiger,táiguer
+Animales,León,Lion,lái-on
+Animales,Mono,Monkey,mánki
+Animales,Jirafa,Giraffe,dchiráf
+Animales,Cocodrilo,Crocodile,krókodail
+Animales,Canguro,Kangaroo,kánguru
+Animales,Ratón,Mouse,máus
+Animales,Rata,Rat,rát
+Animales,Búho,Owl,ául
+Animales,Águila,Eagle,ígl
+Animales,Halcón,Hawk,jók
+Animales,Búfalo,Buffalo,báfalo
+Animales,Serpiente,Snake,snéik
+Animales,Cangrejo,Crab,kráb
+Animales,Langosta,Lobster,lóuster
+Animales,Pulpo,Octopus,óktopus
+Animales,Cebra,Zebra,zíbră
+Animales,Perezoso,Sloth,slóth
+Animales,Erizo,Hedgehog,jédchog
+Animales,Rinoceronte,Rhinoceros,raiónósərus
+Animales,Ardilla,Squirrel,skuírel
+Animales,Burro,Donkey,dónki
+Animales,Búfalo de agua,Water buffalo,wóter báfalo
+Animales,Chacal,Jackal,yákal
+Animales,Ganso,Goose,gús
+Animales,Paloma,Dove,dov
+Animales,Foca,Seal,síil
+Animales,Salmon,Salmon,sálmon
+Animales,Pez payaso,Clownfish,kláun fish
+Animales,Medusa,Jellyfish,yélifish
+Animales,Pez espada,Swordfish,sórd fish
+Animales,Rana,Frog,fróg
+Animales,Salamandra,Salamander,sálamándər
+Animales,Tiburón,Shark,shárk
+Animales,Caracol,Snail,snéil
+Animales,Mariposa,Butterfly,bátərflái
+Animales,Abeja,Bee,bíi
+Animales,Marisco,Seafood,sífud
+Animales,Langosta de mar,Spiny lobster,spáini lóuster
+Animales,Langostino,Prawn,prón
+Animales,Gallina,Hen,jén
+Animales,Gallo,Rooster,rúster
+Animales,Pavo,Turkey,térki
+Animales,Paloma, Pigeon,pídchən
+Animales,Pollito,Chick,chik
+Animales,Cisne,Swan,suón
+Animales,Búho real,Great horned owl,gréit jórnd ául
+Animales,Águila calva,Bald eagle,bóld ígl
+Animales,Caimán,Alligator,áligéitor
+Animales,Burro salvaje,Donkey wild,dónki wáild
+Animales,Víbora,Viper,váiper
+Animales,Pequeño ciervo,Deer,dír
+Animales,Alce,Moose,mús
+Animales,Carnero,Ram,rám
+Animales,Cabra montesa,Mountain goat,máuntin góut
+Animales,Oso grizzly,Grizzly bear,grízli bér
+Animales,Oso polar,Polar bear,polár bér
+Animales,Oso panda,Panda bear,pánda bér
+Animales,Puma,Puma,púma
+Animales,Guepardo,Cheetah,chíta
+Animales,Zorro polar,Arctic fox,árctic foks
+Animales,Lémur,Lemur,límur
+Animales,Tortuga marina,Sea turtle,sí tértol
+Animales,Cigarra,Cicada,síkada
+Animales,Hormiga,Ant,ánt
+Animales,Lagarto,Lizard,lízərd
+Animales,Serpiente de cascabel,Rattlesnake,rátlésnéik
+Animales,Medusa marina,Sea jelly,sí yéli
+Animales,Albatros,Albatross,álbátros
+Animales,Fletán,Halibut,háləbət
+Animales,Pez globo,Pufferfish,páferfish
+Animales,Pez luna,Moonfish,múnfish
+Animales,Anguila,Eel,íl
+Animales,Erizo de mar,Sea urchin,sí órchin
+Animales,Camarón,Shrimp,shrimp
+Animales,Cangrejo ermitaño,Hermit crab,hérmit kráb
+Animales,Morsa,Walrus,wólrəs
+Animales,Foca común,Common seal,kómon síil
+Animales,Alce canadiense,Canadian moose,kánadián mús
+Animales,Búho manchado,Spotted owl,spádid ául
+Animales,Tarantula,Tarantula,tárántula
+Animales,Araña,Spider,spáider
+Animales,Escorpión,Scorpion,skórpion
+Animales,Mosquito,Mosquito,móskito
+Animales,Mariposa monarca,Monarch butterfly,mónark bátərflái
+Animales,Cuca,Cockroach,kóukróuch
+Animales,Tarántula,Tarantula,tárántula
+Animales,Escarabajo,Beetle,bítl
+Animales,Langostas de agua dulce,Crayfish,créifish
+Animales,Ratón de campo,Field mouse,fíild máus
+Animales,Rata negra,Black rat,blák rát
+Animales,Tortuga terrestre,Land turtle,lánd tértol
+Animales,Serpiente marina,Sea snake,sí snéik
+Animales,Gavilán,Hawk,jók
+Animales,Flamenco,Flamingo,flámingo
+Animales,Oso pardo,Brown bear,braun bér
+Animales,Cisne blanco,White swan,guáit suón
+Animales,Castor,Beaver,bíiver
+Animales,Tapir,Tapir,tápir
+Animales,Orca,Killer whale,kíler guéil
+Animales,Salmón,Salmon,sálmon
+Animales,Sardina,Sardine,sárdin
+Animales,Atún,Tuna,chúna
+Animales,Rinoceronte, Rhinoceros,raionósərus
+Animales,Camaleón,Chameleon,kamilíon
+Animales,Avestruz,Ostrich,óstrich
+Animales,Pato,Duck,dak
+Animales,Gallina,Hens,jénz
+Animales,Periquito,Parakeet,paríkít
+Animales,Colibrí,Hummingbird,jámingbérd
+Animales,Paloma bravía,Rock dove,róuk dáuv
+Animales,Caballo de mar,Seahorse,síhórs
+Animales,Tucán,Toucan,túkán
+Animales,Lechuza,Owlet,áulet
+Animales,Puercoespín,Porcupine,pórkjupain
+Animales,Chinchilla,Chinchilla,dchínchila
+Animales,Erizo de tierra,Spiny hedgehog,spáini jédchog
+Animales,Oso koala,Koala bear,kóala bér
+Animales,Gato montés,Wildcat, wáildkát
+Animales,Armadillo,Armadillo,armadílo
+Animales,Hiena,Hyena,jíina
+Animales,Mono ardilla,Squirrel monkey,skuírel mánki
+Animales,Tiburón martillo,Hammerhead shark,jámer jéd shárk
+Animales,Pez payaso,Clownfish,kláun fish
+Animales,Langosta espinosa,Spiny lobster,spáini lóuster
+Animales,Langostino, Prawn,prón
+Animales,Caracol terrestre,Land snail,lánd snéil
+Animales,Camarón de río,Crayfish,créifish
+Animales,Serpiente coral,Coral snake,kóral snéik
+Animales,Mariposa nocturna,Moth,móth
+Animales,Polilla,Moth,móth
+Animales,Rana arbórea,Tree frog, trí fróg
+Animales,Cocodrilo americano,American crocodile, américan krókodail
+Animales,Pez espada,Swordfish,sórd fish
+Animales,Hormiga eléctrica,Electric ant,iléktrik ánt
+Animales,Langosta americana,American lobster, américan lóuster
+Animales,Mosca,Fly,flái
+Animales,Tarántula gigante,Giant tarantula, yáintárántula
+Animales,Rana venenosa,Poison dart frog, póison dárt fróg
+Animales,Puerco,Nose pig,nós pig
+Animales,Calamar,Squid,skwid
+Animales,Calamar gigante,Giant squid, yáint skwid
+Animales,Erizo de mar, Sea urchin, sí órchin
+Animales,Pez globo,Pufferfish,páfer fish
+Animales,Ornitorrinco,Platypus,plátipus
+Animales,Escorpión,Scorpion,skórpion
+Animales,Pez loro,Parrotfish, párrot fish
+Animales,Medusa de mar,Sea jelly,sí yéli
+Animales,Cigarra,Cicada,síkada
+Animales,Tiburón blanco,Great white shark, gréit guáit shárk
+Animales,Cangrejo de río,Crayfish,créifish
+Animales,Ranita,Little frog,lítol fróg
+Animales,Gallina ponedora,Laying hen, léing jén
+Animales,Cordero,Lamb,lám
+Animales,Liebre,Hare,jér
+Animales,Pez gato,Catfish,kát fish
+Animales,Mula,Mule,múul
+Animales,Mariposa monarca,Monarch butterfly,mónark bátərflái
+Animales,Langosta de roca,Rock lobster,rók lóuster
+Animales,Pez dorado,Goldfish,góld fish
+Animales,Rana de agua,Water frog,wóter fróg
+Animales,Iguana,Iguana,ígwana
+Animales,Colibrí, Hummingbird,jáming bérd
+Animales,Tarántula,Lycosa,Tarantula lycosa,tárántula láikosá
+Animales,Pez ángel,Angelfish,éindjelfish
+Animales,Libélula,Dragonfly,drágun flái
+Animales,Gallo de pelea,Rooster,cócktel
+Animales,Pez gato,Paddlefish,pádelfish
+Animales,Conejo de campo,Cottontail rabbit,kótontéil rábit
+Animales,Caracol de jardín,Garden snail,gárden snéil
+Animales,Mosquito tigre,Tiger mosquito,táiguer móskito
+Animales,Escorpión amarillo,Yellow scorpion,yélou skórpion
+Animales,Mariposa azul,Blue butterfly,blu bátərflái
+Animales,Urraca,Magpie,mágpai
+Animales,Cuervo,Raven,réivɪn
+Animales,Búho nival,Snowy owl, snóui ául
+Animales,Albatros australis,Austral albatross,óstral álbatros
+Transporte,Coche,Car,kar
+Transporte,Auto,Automobile,óutomóbil
+Transporte,Bus,Bus,bas
+Transporte,Autobús,Bus,bas
+Transporte,Metro,Subway,sábwei
+Transporte,Tren,Train,trén
+Transporte,Avión,Plane,plein
+Transporte,Barco,Boat,bóut
+Transporte,Bicicleta,Bicycle,báisikl
+Transporte,Motocicleta,Motorcycle,móutorsáikl
+Transporte,Taxi,Taxi,ráksi
+Transporte,Camión,Truck,trák
+Transporte,Tractor,Tractor,tráktor
+Transporte,Ferry,Ferry,féri
+Transporte,Nave,Nave,néiv
+Transporte,Patinete,Scooter,skúter
+Transporte,Monopatín,Skateboard,skéitbord
+Transporte,Tranvía,Tram,trám
+Transporte,Helicóptero,Helicopter,jélikópter
+Transporte,Taxi acuático,Water taxi,wóter ráksi
+Transporte,Carretera,Road,ród
+Transporte,Autopista,Highway,jái uéi
+Transporte,Puente,Bridge,brídch
+Transporte,Semáforo,Traffic light,tráfik láit
+Transporte,Estación,Station,stéishon
+Transporte,Parada,Stop,stóp
+Transporte,Conductor,Driver,dráiver
+Transporte,Pasajero,Passenger,pásindcher
+Transporte,Equipaje,Luggage,láguidch
+Transporte,Maleta,Suitcase,súit kéis
+Transporte,Boleto,Ticket,tíket
+Transporte,Viaje,Trip,trip
+Transporte,Salida,Departure,dipárcher
+Transporte,Llegada,Arrival,aráival
+Transporte,Mapa,Map,map
+Transporte,Guía,Guide,guáid
+Transporte,Autobús escolar,School bus,skúl bas
+Transporte,Metro subterráneo,Underground subway,ándergraund sábwei
+Transporte,Terminal,Terminal,termínal
+Transporte,Pasarela,Walkway,wókuei
+Transporte,Taxi colectivo,Shared taxi,shéird ráksi
+Transporte,Alquiler,Rental,réntal
+Transporte,Velocidad,Speed,spíd
+Transporte,Accidente,Accident,áksident
+Transporte,Peatón,Pedestrian,pedéstrian
+Transporte,Bicicleta eléctrica,Electric bike,iléktrik báik
+Transporte,Casco,Helmet,jélmet
+Transporte,Semáforo en rojo,Red light,red láit
+Transporte,Semáforo en verde,Green light,grín láit
+Transporte,Cinturón de seguridad,Seatbelt,sítbelt
+Transporte,Estacionamiento,Parking,párking
+Transporte,Carretera principal,Main road,méin ród
+Transporte,Ruta,Route,rút
+Transporte,Autopista de peaje,Toll highway,tól jái uéi
+Transporte,Monopatín eléctrico,Electric skateboard,iléktrik skéitbord
+Transporte,Parada de autobús,Bus stop,bas stóp
+Transporte,Autobús turístico,Tourist bus,túrist bas
+Transporte,Desvío,Detour,dítur
+Transporte,Furgoneta,Van,ván
+Transporte,Camioneta,Pickup,píkáp
+Transporte,Mototaxi,Motorcycle taxi,móutorsáikl ráksi
+Transporte,Furgón,Van,ván
+Transporte,Cuadro de mando,Dashboard,déshbord
+Transporte,Luces delanteras,Headlights,jéd láits
+Transporte,Luces traseras,Tail lights,téil láits
+Transporte,Freno,Brake;bréik
+Transporte,Claxon,Horn,jorn
+Transporte,Parabrisas,Windshield,wíndschíld
+Transporte,Gasolina,Gasoline,gásolin
+Transporte,Diesel,Diesel,dísel
+Transporte,Electricidad,Electricity,iléktrísiti
+Transporte,Autonomía,Range,reindch
+Transporte,Velocímetro,Speedometer,spídómiter
+Transporte,Frenos,Brakes,bréiks
+Transporte,Estación de servicio,Service station,sérvis stéishon
+Transporte,Frecuencia,Frequency,fríkuensi
+Transporte,Ticket de ida y vuelta,Round-trip ticket,ráund tríp tíket
+Transporte,Equipaje de mano,Carry-on luggage,kéri ón láguidch
+Transporte,Terminal de pasajeros,Passenger terminal,pásindcher términal
+Transporte,Policía de tránsito,Traffic police,tráfik pólis
+Transporte,Acceso,Entry,éntri
+Transporte,Salida de emergencia,Emergency exit,imérdchensi éksit
+Transporte,Puerto,Port,pórd
+Transporte,Aeropuerto,Airport,érport
+Transporte,Transbordador,Ferry,féri
+Transporte,Navegación,Navigation,navigéishon
+Transporte,Taxi aéreo,Air taxi,ér ráksi
+Transporte,Metro ligero,Light rail,láit réil
+Transporte,Carro eléctrico,Electric car,iléktrik kar
+Transporte,Carro autónomo,Self-driving car,sélf dráiving kar
+Transporte,Balsa,Ferry,béri
+Transporte,Moto acuática,Jet ski,dchét skí
+Transporte,Cabina,Cabin,kábin
+Transporte,Scooter eléctrico,Electric scooter,iléktrik skúter
+Transporte,Seguridad vial,Road safety,ród séifti
+Transporte,Carga,Cargo,kárgo
+Transporte,Motor,Engine,éndchín
+Transporte,Bicicleta de montaña,Mountain bike,máuntin báik
+Transporte,Cabina telefónica,Phone booth,fon búth
+Transporte,Contenedor,Container,kontéiner
+Transporte,Depositario,Depot,dépou
+Transporte,Desvío,Detour,dítchur
+Transporte,Embarque,Boarding,bórdning
+Transporte,Estación de tren,Train station,tréin stéishon
+Transporte,Estación de metro,Metro station,métrou stéishon
+Transporte,Gasolinera,Gas station,gás stéishon
+Transporte,Garita,Checkpoint,chékpoint
+Transporte,Globo aerostático,Hot air balloon,jót ér baliún
+Transporte,Grúa,Crane,kréin
+Transporte,Guía turístico,Tour guide,tur guáid
+Transporte,Horario,Schedule,skédchul
+Transporte,Hueco,Hole,jóul
+Transporte,Línea de autobús,Bus line,bas láin
+Transporte,Línea aérea,Airline,ér láin
+Transporte,Locomotora,Locomotive,lokómoutiv
+Transporte,Muelle,Wharf,wórf
+Transporte,Nivelador,Leveler,léveler
+Transporte,Parabrisas,Lampshade,lámp-séid
+Transporte,Pasarela,Walkway,wókuei
+Transporte,Pista,O runway,ánréi
+Transporte,Puerto marítimo,Seaport,síport
+Transporte,Recepción,Reception,risépchion
+Transporte,Ruta de vuelo,Flight path,fláit páth
+Transporte,Ruta turística,Tourist route,tourist rút
+Transporte,Servicio de transporte,Transportation service,transpórteishon sérvis
+Transporte,Señal,Signal,sáignal
+Transporte,Semáforo,Traffic light,tráfik láit
+Transporte,Terminal de pasajeros,Passenger terminal,pásindcher términal
+Transporte,Túnel,Tunnel,tánel
+Transporte,Velocidad,Speed,spíd
+Transporte,Viaje,Trip,trip
+Transporte,Vía,Track,trák
+Transporte,Volante,Steering wheel,stíering wíl
+Transporte,Zona peatonal,Pedestrian zone,pidéstrian zóun
+Transporte,Zona restrigida,Restricted area,restríkṭid érri
+Transporte,Bicicleta eléctrica,Electric bicycle,iléktrik básikl
+Transporte,Carril,Lane,leyn
+Transporte,Carril bici,Bike lane,báik leyn
+Transporte,Charola,Tray,trei
+Transporte,Cinturón de seguridad,Seatbelt,sítbelt
+Transporte,Cobertura,Coverage,káveridch
+Transporte,Concesionaria,Dealership,díliship
+Transporte,Depósito,Fuel tank,fiúel tángk
+Transporte,Dial,Control knob,kontroul nob
+Transporte,Dispositivo,Device,diváis
+Transporte,Eje,Axle,ák‎sľ
+Transporte,Engranaje,Gear,gíer
+Transporte,Estacionamiento,Parking lot,párking lót
+Transporte,Frenos,Brakes,bréiks
+Transporte,Gasolina premium,Premium gasoline,prímiám gásolin
+Transporte,Guiño de luces,Turn signal,térn sáignal
+Transporte,Indicador,Indicator,índikéiter
+Transporte,Intermitente,Flasher,flácher
+Transporte,Junta,Joint,joynt
+Transporte,Luces,Lights láits
+Transporte,Llanta,Tire,táier
+Transporte,Maletero,Trunk,tránk
+Transporte,Manija,Handle,hándol
+Transporte,Marcha,Gear, gíer
+Transporte,Neumático,Tire, táier
+Transporte,Parachoques,Bumper,bámpėr
+Transporte,Parabrisas,Windshield,wíndschíld
+Transporte,Pedal,Pedal,pédal
+Transporte,Posición,Position,pozíshon
+Transporte,Radiador,Radiator,réidiéitor
+Transporte,Ranura,Slot,slót
+Transporte,Repostar,Refuel,rifiúel
+Transporte,Reparación,Repair,ri-pér
+Transporte,Retrovisor,Rearview mirror,ríerviú mírror
+Transporte,Rueda,Wheel,whíl
+Transporte,Salvavidas,Life preserver,laif présérver
+Transporte,Sistema de navegación,Navigation system,navigéishon systém
+Transporte,Suspensión,Suspension,saspénshon
+Transporte,Tablero,Dashboard,déshbord
+Transporte,Tanque de gasolina,Gas tank,gás tángk
+Transporte,Tanque de combustible,Fuel tank,fiúel tángk
+Transporte,Transmisión,Transmission,tránsmishon
+Transporte,Tren ligero,Light rail,láit réil
+Transporte,Unidad,Unit,yúnit
+Transporte,Velocidad máxima,Maximum speed,máksimum spíd
+Transporte,Volante,Steering wheel,stíering wíl
+Transporte,Zona de carga,Loading zone,lóudingzóun
+Transporte,Zona de estacionamiento,Parking zone,párkingzóun
+Direcciones y Lugares,Arriba,Up,áp
+Direcciones y Lugares,Abajo,Down,dáun
+Direcciones y Lugares,Adelante,Ahead,ahéd
+Direcciones y Lugares,Atrás,Back,bak
+Direcciones y Lugares,A la derecha,To the right,tu dhi ráit
+Direcciones y Lugares,A la izquierda,To the left,tu dhi léft
+Direcciones y Lugares,Cerca,Near,nir
+Direcciones y Lugares,Lejos,Far,far
+Direcciones y Lugares,Al lado,Beside,bisáid
+Direcciones y Lugares,Entre,Between,bitwín
+Direcciones y Lugares,En frente de,In front of,in front óv
+Direcciones y Lugares,A lado de,Next to,nékst tu
+Direcciones y Lugares,Cruce,Intersection,íntersekshon
+Direcciones y Lugares,Cuadra,Block,blók
+Direcciones y Lugares,Calle,Street,strít
+Direcciones y Lugares,Avenida,Avenue,ávinu
+Direcciones y Lugares,Plaza,Plaza,pláza
+Direcciones y Lugares,Parque,Park,párk
+Direcciones y Lugares,Escuela,School,skúl
+Direcciones y Lugares,Iglesia,Church,chérch
+Direcciones y Lugares,Hospital,Hospital,jóspital
+Direcciones y Lugares,Estación,Station,stéishon
+Direcciones y Lugares,Banco,Bank,bánk
+Direcciones y Lugares,Correo,Post office,póst ófis
+Direcciones y Lugares,Restaurante,Restaurant,réstaurant
+Direcciones y Lugares,Supermercado,Supermarket,súpermárket
+Direcciones y Lugares,Hotel,Hotel,hotél
+Direcciones y Lugares,Centro,Centre,sénter
+Direcciones y Lugares,Playa,Beach,bíich
+Direcciones y Lugares,Museo,Museum,míusiəm
+Direcciones y Lugares,Estadio,Stadium,stéidium
+Direcciones y Lugares,Biblioteca,Library,láibreri
+Direcciones y Lugares,Aeropuerto,Airport,érport
+Direcciones y Lugares,Farmacia,Pharmacy,fármasi
+Direcciones y Lugares,Oficina,Office,ófis
+Direcciones y Lugares,Fábrica,Factory,fáctori
+Direcciones y Lugares,Parada de autobús,Bus stop,bas stop
+Direcciones y Lugares,Cruzar,Cross,krós
+Direcciones y Lugares,Subir,Go up,góu áp
+Direcciones y Lugares,Bajar,Go down,góu dáun
+Direcciones y Lugares,Girar,Turn,térn
+Direcciones y Lugares,Seguir,Continue,kóntinyu
+Direcciones y Lugares,Parar,Stop,stóp
+Direcciones y Lugares,Seguridad,Security,sikyuriti
+Direcciones y Lugares,Mapa,Map,map
+Direcciones y Lugares,Dirección,Direction,diráckshon
+Direcciones y Lugares,Entrada,Entrance,éntrons
+Direcciones y Lugares,Salida,Exit,éksit
+Direcciones y Lugares,Cuadra,Block,blók
+Direcciones y Lugares,Semáforo,Traffic light,tráfik láit
+Direcciones y Lugares,Rotonda,Roundabout ráundábat
+Direcciones y Lugares,Puente,Bridge,brídch
+Direcciones y Lugares,Cruce peatonal,Crosswalk,króswók
+Direcciones y Lugares,Parqueadero,Parking lot,párking lót
+Direcciones y Lugares,Camino,Path,páth
+Direcciones y Lugares,Plazoleta,Plaza,pláza
+Direcciones y Lugares,Senda,Trail,tréil
+Direcciones y Lugares,Ruta,Route,rút
+Direcciones y Lugares,Colina,Hill,jil
+Direcciones y Lugares,Montaña,Mountain,máuntin
+Direcciones y Lugares,Villa,Village,vílidch
+Direcciones y Lugares,Vecindario,Neighborhood,néiborhud
+Direcciones y Lugares,Barrio,Neighborhood,néiborhud
+Direcciones y Lugares,Ciudad,City,síti
+Direcciones y Lugares,Pueblo,Town,táun
+Direcciones y Lugares,País,Country,kántri
+Direcciones y Lugares,Continente,Continent,kóntinent
+Direcciones y Lugares,Oceano,Ocean,óushon
+Direcciones y Lugares,Río,River,ríver
+Direcciones y Lugares,Lago,Lake,lék
+Direcciones y Lugares,Mar,Sea,sí
+Direcciones y Lugares,Isla,Island,áiland
+Direcciones y Lugares,Playa,Beach,bíich
+Direcciones y Lugares,Bosque,Forest,fórest
+Direcciones y Lugares,Jardín,Garden,gárden
+Direcciones y Lugares,Puente peatonal,Footbridge,fútbrídch
+Direcciones y Lugares,Carretera,Highway,jái uéi
+Direcciones y Lugares,Autopista,Freeway,fríuéi
+Direcciones y Lugares,Callejón,Alley,áli
+Direcciones y Lugares,Pasaje,Passage,pásidch
+Direcciones y Lugares,Parque Nacional,National park,náshonal párk
+Direcciones y Lugares,Zona peatonal,Pedestrian area,pidístrian éria
+Direcciones y Lugares,Zona residencial,Residential area,rezídenshial éria
+Direcciones y Lugares,Zona industrial,Industrial area,indástrial éria
+Direcciones y Lugares,Cuadra,Block,blók
+Direcciones y Lugares,Punto de referencia,Landmark,lándmark
+Direcciones y Lugares,Límite,Boundary, báundari
+Direcciones y Lugares,Puesto,Post,póst
+Direcciones y Lugares,Etapa,Stage,stéich
+Direcciones y Lugares,Desvío,Detour,dítur
+Direcciones y Lugares,Bifurcación,Fork, fork
+Direcciones y Lugares,Sendero,Trail, tréil
+Direcciones y Lugares,Circuito,Circuit,sérkit
+Direcciones y Lugares,Giro,Turn,térn
+Direcciones y Lugares,Doble sentido,Two-way,túu wéy
+Direcciones y Lugares,Dirección prohibida,No entry,nóu éntri
+Direcciones y Lugares,Zona,Zone,zón
+Direcciones y Lugares,Plaza mayor,Main square,méin skwér
+Direcciones y Lugares,Zona comercial,Commercial zone,komérshal zón
+Direcciones y Lugares,Centro histórico,Historic center,Jistorik sénter
+Direcciones y Lugares,Plaza central,Central plaza,Séntral pláza
+Direcciones y Lugares,Punto de encuentro,Meeting point,Míting point
+Direcciones y Lugares,Estación de servicio,Service station,Sérvis stéishon
+Direcciones y Lugares,Oficina de correos,Post office,póst ófis
+Direcciones y Lugares,Barrio residencial,Residential neighborhood,rezidénshal néiborhud
+Direcciones y Lugares,Zona industrial,Industrial zone,Índastryál zón
+Direcciones y Lugares,Zona verde,Green area,Grín éria
+Direcciones y Lugares,Zona urbana,Urban area,érbán éria
+Direcciones y Lugares,Zona rural,Rural area,Rúral éria
+Direcciones y Lugares,Carretera secundaria,Secondary road,Sécondary ród
+Direcciones y Lugares,Cruzamiento,Crossing,Krósing
+Direcciones y Lugares,Semáforo en rojo,Red light,Réd láit
+Direcciones y Lugares,Pasaje peatonal,Pedestrian passage,Pidísdtrian pásidch
+Direcciones y Lugares,Ruta turística,Tourist route,Túrist rút
+Direcciones y Lugares,Calle principal,Main street,méin strít
+Direcciones y Lugares,Calle secundaria,Side street,Sáid strít
+Direcciones y Lugares,Zona peatonal,Pedestrian zone,Pidísdtrian zón
+Direcciones y Lugares,Rotonda,Roundabout,Ráundabáut
+Direcciones y Lugares,Bancos,Banks,Bánks
+Direcciones y Lugares,Bibliotecas,Libraries,Láibréris
+Direcciones y Lugares,Escuelas,Schools,Skúls
+Direcciones y Lugares,Hospitals,Hospitales,Hóspítals
+Direcciones y Lugares,Museos,Museums,Míusiams
+Direcciones y Lugares,Parques,Parks,Párks
+Direcciones y Lugares,Puentes,Bridges,Brídchs
+Direcciones y Lugares,Ríos,Rivers,Rívers
+Direcciones y Lugares,Lagos,Lakes,Léiks
+Direcciones y Lugares,Calles ocupadas,Busy streets,Bízi stríts
+Direcciones y Lugares,Calles desiertas,Empty streets,Émpti stríts
+Direcciones y Lugares,Zonas concurridas,Crowded areas,Cráudid érias
+Direcciones y Lugares,Áreas tranquilas,Quiet areas,Kuáiet érias
+Direcciones y Lugares,Bloques,Blocks,Blóks
+Direcciones y Lugares,Alrededores,Surroundings,Suráundiŋs
+Direcciones y Lugares,Barrio antiguo,Old neighborhood,Old néiborhud
+Direcciones y Lugares,Barrio nuevo,New neighborhood,Niu néiborhud
+Direcciones y Lugares,Casco antiguo,Old town,Old táun
+Direcciones y Lugares,Zonas recreativas,Recreational areas,Rikriéishonal érias
+Direcciones y Lugares,Senderos,Paths,Paths
+Direcciones y Lugares,Vías,Routes,Rúuts
+Direcciones y Lugares,Pasos de peatones,Crosswalks,Króswoúks
+Direcciones y Lugares,Zonas comerciales,Commercial areas,Komérshal érias
+Direcciones y Lugares,Líneas de transporte,Transport lines, Tránsport láins
+Direcciones y Lugares,Paraderos,Stops,Stops
+Direcciones y Lugares,Vías principales,Main routes,Meín rúuts
+Direcciones y Lugares,Calles residenciales,Residential streets,Rezidénshal stríts
+Direcciones y Lugares,Condado,County,Kaunti
+Direcciones y Lugares,Distrito,District,Distríkt
+Direcciones y Lugares,Región,Region,Réidchion
+Direcciones y Lugares,Área metropolitana,Metropolitan area,Metropolítan éria
+Direcciones y Lugares,Zona industrial,Industrial zone,Indástrial zón
+Direcciones y Lugares,Paseo,Walkway,Wókuei
+Direcciones y Lugares,Bulevar,Boulevard,Búlvar
+Direcciones y Lugares,Ciclovía,Bike lane,Báik lein
+Direcciones y Lugares,Avenida principal,Main avenue,Méin ávinyu
+Direcciones y Lugares,Autopista federal,Federal highway,Féderal jái uéi
+Direcciones y Lugares,Zona de carga,Loading zone,Lóuding zón
+Direcciones y Lugares,Puente peatonal,Pedestrian bridge,Pidísdtrian brídch
+Direcciones y Lugares,Patio,Yard,yard
+Direcciones y Lugares,Cementerio,Cemetery,Semeteri
+Direcciones y Lugares,Plaza principal,Main square,Meín skwér
+Direcciones y Lugares,Monumento,Monument,mónument
+Direcciones y Lugares,Rascacielos,Skyscraper,Skáiscréiper
+Direcciones y Lugares,Farola,Streetlight,Stríit láit
+Direcciones y Lugares,Estatua,Statue,Státchuw
+Direcciones y Lugares,Fachada,Facade,fásad
+Direcciones y Lugares,Entrada principal,Main entrance,Meín éntres
+Direcciones y Lugares,Puerta principal,Main door,Meín dór
+Direcciones y Lugares,Callejón sin salida,Dead end,déd énd
+Direcciones y Lugares,Senda peatonal,Pedestrian path,Pidísdtrian páth
+Direcciones y Lugares,Zona protegida,Protected area,Protéctid éria
