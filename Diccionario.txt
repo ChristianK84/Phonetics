@@ -2134,3 +2134,1522 @@ Direcciones y Lugares,Puerta principal,Main door,Meín dór
 Direcciones y Lugares,Callejón sin salida,Dead end,déd énd
 Direcciones y Lugares,Senda peatonal,Pedestrian path,Pidísdtrian páth
 Direcciones y Lugares,Zona protegida,Protected area,Protéctid éria
+Clima,Soleado,Sunny,sáni
+Clima,Nublado,Cloudy,cláudi
+Clima,Lluvioso,Rainy,réini
+Clima,Ventoso,Windy,wáindi
+Clima,Frío,Cold,kould
+Clima,Calor,Hot,jót
+Clima,Templado,Mild,máild
+Clima,Húmedo,Humid,júmid
+Clima,Seco,Dry,drai
+Clima,Temporada,Season,síson
+Clima,Primavera,Spring,spring
+Clima,Verano,Summer,sámer
+Clima,Otoño,Fall,fól
+Clima,Invierno,Winter,wínter
+Clima,Clima,Climate,kláimət
+Clima,Temperatura,Temperature,témpərətcher
+Clima,Humedad,Humidity,juːmíditɪ
+Clima,Precipitación,Precipitation,prisipitéishon
+Clima,Lluvia,Rain,rein
+Clima,Nevar,Snow,snóu
+Clima,Tormenta,Storm,stórm
+Clima,Viento,Wind,wínd
+Clima,Tornado,Tornado,tórnéidou
+Clima,Huracán,Hurricane,húrekán
+Clima,Relámpago,Lightning,láitning
+Clima,Trueno,Thunder,thándər
+Clima,Granizo,Hail,jéil
+Clima,Brisa,Breeze,bríz
+Clima,Caluroso,Hot,jót
+Clima,Templado,Mild,máild
+Clima,Fresco,Cool,kúl
+Clima,Ola de frío,Cold wave,kould wéiv
+Clima,Ola de calor,Heat wave,jít wéiv
+Clima,Despejado,Clear,klír
+Clima,Chubasco,Shower,sháuer
+Clima,Chaparrón,Downpour,daunpór
+Clima,Hielo,Ice,áis
+Clima,Nieve,Snow,snóu
+Clima,Niebla,Fog,fóg
+Clima,Hongos,Haze,jéis
+Clima,Meteorología,Meteorology,mitiorolodchí
+Clima,Pronóstico,Forecast,fórkást
+Clima,Estación del año,Season,síson
+Clima,Subir,Increase,inkríis
+Clima,Bajar,Decrease,dikrís
+Clima,Oscuro,Dark,dák
+Clima,Clara,Clear,klír
+Clima,Calentamiento global,Global warming,glóubal wórming
+Clima,Cambios climáticos,Climate change,kláimat chéindch
+Clima,Precipitaciones,Precipitation,prisipitéishon
+Clima,Humectación,Moisture,moístr
+Clima,Inicio,Onset,ónset
+Clima,Final,End,end
+Clima,Radiación,Radiation,reidiéi shon
+Clima,Temperatura media,Average temperature,avérich témpərətcher
+Clima,Huracán,Typhoon,táifún
+Clima,Ventarrón,Gale,geil
+Clima,Escarcha,Frost,fróst
+Clima,Calor extremo,Heat wave,jít wéiv
+Clima,Frente frío,Cold front,kould frónt
+Clima,Frente cálido,Warm front,worm frónt
+Clima,Rafaga,Gust,gast
+Clima,Niebla densa,Thick fog,thik fóg
+Clima,Clima tropical,Tropical climate,trópikal kláimat
+Clima,Clima templado,Temperate climate,témpərət kláimat
+Clima,Clima polar,Polar climate,póular kláimat
+Clima,Sequía,Drought,draut
+Clima,Incendio forestal,Wildfire,wáildfáier
+Clima,Inundación,Flood,flád
+Clima,Temperatura máxima,High temperature,jái témpərətcher
+Clima,Temperatura mínima,Low temperature,lóu témpərətcher
+Clima,Presión atmosférica,Atmospheric pressure,átmásférik préshər
+Clima,Gota de agua,Raindrop,réindrop
+Clima,Relámpago,Flash,láitning flásh
+Clima,Tormenta eléctrica,Thunderstorm,thándərstórm
+Clima,Hallazgo,Observation,óbzervéishon
+Clima,Perspectiva,Outlook,áutluk
+Clima,Pronosticar,To forecast,tu fórkást
+Clima,Meteorólogo,Meteorologist,mitiorolódchist
+Clima,Témpano,Iceberg,áisbérg
+Clima,Viento fuerte,Strong wind,stróng wínd
+Clima,Cambio de clima,Change of weather,tchéindch óv wéder
+Clima,Huracán categoría cinco,Category five hurricane,kátəgóri fáiv húrekán
+Clima,Temperaturas extremas,Extreme temperatures,ikstrím témpərətʃers
+Clima,Oleaje,Wave,wéiv
+Clima,Tornado en embudo,Funnel tornado,fánəl tórnéidou
+Clima,Neblina,Mist,míst
+Clima,Chubascos dispersos,Scattered showers,skétered sháuers
+Clima,Bajas temperaturas,Low temperatures,lóu témpərətʃers
+Clima,Bajas presiones,Low pressure,lóu préshər
+Clima,Alta presión,High pressure,jái préshər
+Clima,Alta temperatura,High temperature,jái témpərətʃər
+Clima,Baja temperatura,Low temperature,lóu témpərətʃər
+Clima,Temperatura confortable,Comfortable temperature,kámfərtəbəl témpərətʃər
+categoria,spanish,english,phonetic
+Clima,Escarcha ligera,Light frost, láit fróst
+Clima,Escarcha densa,Heavy frost, hévi fróst
+Clima,Lluvia ligera,Light rain, láit réin
+Clima,Lluvia fuerte,Heavy rain, hévi réin
+Clima,Chubascos,Showers, sháuers
+Clima,Chispear,Drizzle, drízl
+Clima,Temporada de lluvias,Rainy season, réini síson
+Clima,Sistema frontal,Frontal system, fróntal systém
+Clima,Barrera de lluvia,Rain barrier, réin bárrier
+Clima,Sistema de baja presión,Low pressure system, lóu préshur systém
+Clima,Sistema de alta presión,High pressure system, jái préshur systém
+Clima,Tormenta tropical,Tropical storm, trópikal stórm
+Clima,Huracán categoría uno,Category one hurricane, kátəgóri wán húrekán
+Clima,Huracán categoría dos,Category two hurricane, kátəgóri tú húrekán
+Clima,Tornado EF0,EF0 tornado, íf íu tórnéidou
+Clima,Tornado EF1,EF1 tornado, íf wán tórnéidou
+Clima,Efecto invernadero,Greenhouse effect, grínhaús ifékt
+Clima,Deslizamiento de tierra, Landslide, lánslaid
+Clima,Alerta meteorológica,Weather alert, wéder álèrt
+Clima,Precipitación intensa,Heavy precipitation, hévi prísipitéishon
+Clima,Viento suave,Light wind, láit wínd
+Clima,Bruma ligera,Light mist, láit míst
+Clima,Nevada intensa,Heavy snowfall, hévi snóu fól
+Clima,Clima árido,Arid climate, árid kláimat
+Clima,Evaporación,Evaporation, ivapореíshon
+Clima,Condensación,Condensation, kondenséishon
+Clima,Sequedad,Dryness, dráinęs
+Clima,Tormenta eléctrica,Electrical storm, iléktrikál stórm
+Clima,Granizada intensa,Heavy hailstorm, hévi jéil stórm
+Clima,Enfriamiento,Cooling, kúling
+Clima,Aumento rápido,Rapid increase, rápid inkríis
+Clima,Disminución lenta,Slow decrease, slóu dikrís
+Clima,Fenómeno meteorológico,Meteorological phenomenon, mitiorolódchikál finómenon
+Clima,Hepatización,Clouding, kláuding
+Clima,Borrasca,Storm, stórm
+Clima,Compresión,Compression, kompréshon
+Clima,Entorno,Environment, enváironment
+Clima,Borrasca tropical,Tropical low, trópikal lóu
+Clima,Viento fuerte,Strong wind, stróng wínd
+Clima,Mancha solar,Sunspot, sánspot
+Clima,Tormenta de arena,Sandstorm, sándstórm
+Clima,Rociada,Dew, dú
+Clima,Ciclón, Cyclone, sáikloon
+Clima,Depresión,Low pressure, lóu préshur
+Clima,Ráfaga,Gust, gáust
+Clima,Viento huracanado,Hurricane-force wind, húrekán-fors wínd
+Clima,Horizonte marino,Sea horizon, sí héráizon
+Clima,Cota,Elevation, elévéishon
+Clima,Símbolo climático,Weather symbol, wéder símbol
+Clima,Cambios climáticos,Climatic changes, kláimatik chéinz
+Clima,Precipitaciones intensas,Heavy rainfall, hévi réinfól
+Clima,Densa niebla,Thick fog, thík fóug
+Clima,Despejado con nubes,Partly cloudy, pártli cláudi
+Clima,Pronóstico del tiempo,Weather forecast, wéder fórkást
+Clima,Temperatura corporal,Body temperature, bódi témpərətcher
+Clima,Punto de rocío,Dew point, dú point
+Clima,Presión atmosférica,Atmospheric pressure, átmásférik préshur
+Clima,Peligro climático,Weather hazard, wéder házard
+Clima,Zona de tormenta,Storm zone, stórm zón
+Clima,Viento frío,Cold wind, kould wínd
+Clima,Lluvia congelada,Freezing rain, frízing réin
+Clima,Río atmosférico,Atmospheric river, átmásférik ríver
+Clima,Alto nivel,Higher level, háier lével
+Clima,Desplazamiento,Displacement, displéisment
+Clima,Zona tropical,Tropical zone, trópikal zón
+Clima,Clima templado,Temperate climate, témpərət kláimat
+Clima,Clima frío,Cold climate, kould kláimat
+Clima,Sistema de baja presión,Low-pressure system, lóu-préshur systém
+Clima,Presión barométrica,Barometric pressure, barométrik préshur
+Clima,Temperatura máxima,Maximum temperature, máksimum témpərətcher
+Clima,Temperatura mínima,Minimum temperature, míniməm témpərətcher
+Clima,Viento muy fuerte,Very strong wind, véri stróng wínd
+Clima,Ráfaga corta,Short gust, shórt gáust
+Clima,Repentina lluvia,Unexpected rain, anikspékted réin
+Clima,Sequía prolongada,Prolonged drought, prolonchd draut
+Clima,Fenómeno natural,Natural phenomenon, náchural finómenon
+Compras,Tienda,Store,stor
+Compras,Supermercado,Supermarket,súpermárkit
+Compras,Mercado,Market,márkit
+Compras,Centro comercial,Shopping mall,shoping mól
+Compras,Precio,Price,práis
+Compras,Descuento,Discount,dáaskount
+Compras,Oferta,Offer,ófer
+Compras,Compra,Purchase,pérchis
+Compras,Venta,Sale,seil
+Compras,Cliente,Customer,kástomer
+Compras,Vendedor,Seller,séler
+Compras,Carrito de compras,Shopping cart,shoping kárt
+Compras,Producto,Product,pródakt
+Compras,Marca,Brand,bránd
+Compras,Talla,Size,sáiz
+Compras,Color,Color,kóler
+Compras,Caja,Box,boks
+Compras,Factura,Invoice,ínvois
+Compras,Recibo,Receipt,risít
+Compras,Moneda,Coin,koin
+Compras,Dinero,Money,máni
+Compras,Tarjeta de crédito,Credit card,krédit kárd
+Compras,Pagar,Pay,péi
+Compras,Devolver,Return,ritérn
+Compras,Cambiar,Exchange,ikschéindch
+Compras,Carro de compras,Shopping cart,shoping kárt
+Compras,Vitrina,Showcase,shóukéis
+Compras,Estante,Shelf,шеб
+Compras,Bolsillo,Pocket,pókət
+Compras,Oferta especial,Special offer,spéshal ófer
+Compras,Promoción,Promotion,prómoushion
+Compras,Línea de caja,Checkout,chákaut
+Compras,Cliente frecuente,Loyal customer,lóial kástomer
+Compras,Mercancía,Goods,guuds
+Compras,Inventario,Inventory,ínventóri
+Compras,Producto defectuoso,Defective product,deféktiv pródakt
+Compras,Punto de venta,Point of sale,póint óv seil
+Compras,Reembolso,Refund,rífand
+Compras,Bolsa de compras,Shopping bag,shoping bág
+Compras,Vendedor ambulante,Street vendor,strít vénder
+Compras,Cliente habitual,Regular customer,régyular kástomer
+Compras,Peso,Weight,wéit
+Compras,Tienda de ropa,Clothing store,klóuzing stor
+Compras,Tienda de electrónica,Electronics store,ilektrónics stor
+Compras,Tienda de alimentos,Food store,fuud stor
+Compras,Tienda de muebles,Furniture store,férnicher stor
+Compras,Probador,Fitting room,fíting rum
+Compras,Precio fijo,Fixed price,fikst práis
+Compras,Precio negociable,Negotiable price,nigóushieibl práis
+Compras,Oferta limitada,Limited offer,límitid ófer
+Compras,Producto nuevo,New product,niu pródakt
+Compras,Producto usado,Used product,iuzd pródakt
+Compras,Marca conocida,Famous brand,feiməs bránd
+Compras,Devolución,Return,ritérn
+Compras,Envío a domicilio,Home delivery,houm déliveri
+Compras,Entrega,Delivery,délivéri
+Compras,Cantidad,Quantity,kuóntiti
+Compras,Catálogo,Catalog,katálóg
+Compras,Garantía,Warranty,wóranti
+Compras,Comerciante,Merchant,mérchant
+Compras,Almacén,Warehouse,wérhàus
+Compras,Pago en efectivo,Cash payment,kash péiment
+Compras,Tarjeta de débito,Debit card,débit kárd
+Compras,Banco,Bank,bánk
+Compras,Oferta especial,Special offer,spéshal ófer
+Compras,Venta flash,Flash sale,flásh seil
+Compras,Subasta,Auction,ókshion
+Compras,Colección,Collection,colekshon
+Compras,Lanzamiento,Launch,lónch
+Compras,Tienda online,Online store,ónlain stor
+Compras,Devolución gratuita,Free return,fri ritérn
+Compras,Cupones,Coupons,kiúpons
+Compras,Puntos de recompensa,Reward points,rióard points
+Compras,Cliente VIP,VIP customer,vi ai pi kástomer
+Compras,Prueba,Test,tést
+Compras,Habitual,Regular,regular
+Compras,Rebaja,Markdown,máarkdáun
+Compras,Material,Material,materiál
+Compras,Calidad,Quality,kuáliti
+Compras,Durabilidad,Durability,durábiliti
+Compras,Tienda de descuentos,Discount store,dáaskount stor
+Compras,Fabricante,Manufacturer,mánufaektcher
+Compras,Proveedor,Supplier,sapláier
+Compras,Stock,Stock,stók
+Compras,Existencias,Inventory,ínventóri
+Compras,Tienda de segunda mano,Secondhand store,secondhand stor
+Compras,Producto artesanal,Handmade product,jándmeid pródakt
+Compras,Marca registrada,Trademark,tréidmark
+Compras,Compra en línea,Online purchase,ónláin pérchis
+Compras,Pedidos,Orders,órders
+Compras,Factura,Invoice,ínvois
+Compras,Recibo,Receipt,risít
+Compras,Método de pago,Payment method,péiment méthod
+Compras,Billetera,Wallet,wált
+Compras,Bolsos,Bags,bágs
+Compras,Carrito,Cart,kárt
+Compras,Cajero,Cashier,káshier
+Compras,Devolución,Return,ritérn
+Compras,Reembolso,Refund,rífand
+Compras,Precio justo,Fair price,fér práis
+Compras,Oferta especial,Special offer,spéshal ófer
+Compras,Descuento por cantidad,Quantity discount,kuóntiti dáaskount
+Compras,Tienda física,Physical store, físikal stor
+Compras,Tienda de descuento,Discount store,dáaskount stor
+Compras,Promoción,Promotion,prómoushion
+Compras,Campaña de ventas,Sales campaign,seils kéimpein
+Compras,Añadir al carrito,Add to cart,ád tu kárt
+Compras,Envío gratis,Free shipping,fri shíping
+Compras,Tiempo de entrega,Delivery time,délivéri taim
+Compras,Cupón promocional,Promotional coupon,prómoushonal kiúpon
+Compras,Puntos de fidelidad,Loyalty points,lóialti points
+Compras,Productos en oferta,Products on sale,pródakts on seil
+Compras,Sistema de pago,Payment system,péiment systém
+Compras,Servicio al cliente,Customer service,kástomer sérvis
+Compras,Satisfacción del cliente,Customer satisfaction,kástomer sátisfákshon
+Compras,Reclamación,Claim,kléim
+Compras,Queja,Complaint,kompléint
+Compras,Garantía,Warranty,wóranti
+Compras,Política de devolución,Return policy,ritérn pólisi
+Compras,Tienda departamental,Department store,dipártment stor
+Compras,Cupones de descuento,Discount coupons,dáaskount kiúpons
+Compras,Pago en línea,Online payment,ónláin péiment
+Compras,Venta nocturna,Night sale,náit seil
+Compras,Compra por impulso,Impulse buying,ímpuls báying
+Compras,Moneda extranjera,Foreign currency,fórin kíransi
+Compras,Tienda especializada,Specialty store,spéshalti stor
+Compras,Órden de compra,Purchase order,pérchis órder
+Compras,Gastos de envío,Shipping costs,shíping cósts
+Compras,Precio de lista,List price,list práis
+Compras,Devolución sin cargo,Free return,fri ritérn
+Compras,Ubicación,Location,lóukéishon
+Compras,Venta mayorista,Wholesale,seil hóulsel
+Compras,Venta minorista,Retail,seil réitel
+Compras,Ganancia,Profit,prófít
+Compras,Pérdida,Loss,lós
+Compras,Inventario,Inventory,ínventóri
+Compras,Proveedor,Supplier,sapláier
+Compras,Fabricante,Manufacturer,mánufaektcher
+Compras,Producto defectuoso,Defective product,deféktiv pródakt
+Compras,Lanzamiento de producto,Product launch,pródakt lónch
+Compras,Mercado en línea,Online market,ónláin márket
+Compras,Reseña,Review,riúyú
+Compras,Comparar precios,Compare prices,kómper práisiz
+Compras,Compra segura,Secure purchase,sikíur pérchis
+Compras,Transacción,Transaction,tránzakshon
+Compras,Gastador,Big spender,big spéndər
+Compras,Oferta especial,Special deal,spéshal díil
+Compras,Menudeo,Retail,seil réitel
+Compras,Almacén de distribución,Distribution warehouse,distríbúshon wérhaus
+Compras,Feria comercial,Trade fair,tréid fér
+Compras,Inventario agotado,Out of stock,,áut óv stók
+Compras,Pedido especial,Special order,spéshal órder
+Compras,Política de privacidad,Privacy policy,práivasi pólisi
+Compras,Almacén principal,Main warehouse,méin wérhaus
+Compras,Política de calidad,Quality policy,kuáliti pólisi
+Compras,Cliente potencial,Prospective customer,próspektiv kástomer
+Compras,Plazo de entrega,Delivery deadline,délivéri dédlain
+Compras,Cobrar,Charge,tchárch
+Compras,Comprar online,Shop online,shop ónlain
+Compras,Costo-frecuencia,Cost-frequency,kóst fríkuensi
+Compras,Factura electrónica,Electronic invoice,ilektrónik ínvois
+Compras,Ganancia bruta,Gross profit,grós prófit
+Compras,Estado de cuenta,Account statement,ákaunt stéitment
+Trabajo y Profesiones,Trabajo,Work,wérk
+Trabajo y Profesiones,Empleo,Job,yób
+Trabajo y Profesiones,Oficina,Office,ófis
+Trabajo y Profesiones,Empleado,Employee,emploíi
+Trabajo y Profesiones,Jefe,Boss,bós
+Trabajo y Profesiones,Gerente,Manager,mánager
+Trabajo y Profesiones,Director,Director,direktór
+Trabajo y Profesiones,Secretario,Secretary,sékrèteri
+Trabajo y Profesiones,Asistente,Assistant,asístent
+Trabajo y Profesiones,Recepcionista,Receptionist,risépshonist
+Trabajo y Profesiones,Contador,Accountant,akaúntant
+Trabajo y Profesiones,Ingeniero,Engineer,indchínir
+Trabajo y Profesiones,Médico,Doctor,dóktor
+Trabajo y Profesiones,Enfermero,Nurse,nérs
+Trabajo y Profesiones,Abogado,Lawyer,lóier
+Trabajo y Profesiones,Profesor,Teacher,tícher
+Trabajo y Profesiones,Estudiante,Student,stúdent
+Trabajo y Profesiones,Carpintero,Carpenter,kárpenter
+Trabajo y Profesiones,Plomero,Plumber,plámer
+Trabajo y Profesiones,Electricista,Electrician,iléktríshien
+Trabajo y Profesiones,Pintor,Painter,péinter
+Trabajo y Profesiones,Arquitecto,Architect,árkitekt
+Trabajo y Profesiones,Periodista,Journalist,yórnalist
+Trabajo y Profesiones,Policía,Police,pólis
+Trabajo y Profesiones,Bombero,Firefighter,fáierfáiter
+Trabajo y Profesiones,Mecánico,Mechanic,mekánik
+Trabajo y Profesiones,Chef,Cook,kuk
+Trabajo y Profesiones,Mesero,Waiter,wéiter
+Trabajo y Profesiones,Recepcionista,Receptionist,risépshonist
+Trabajo y Profesiones,Traductor,Translator,transléiter
+Trabajo y Profesiones,Intérprete,Interpreter,ínterpréter
+Trabajo y Profesiones,Investigador,Researcher,risércher
+Trabajo y Profesiones,Director ejecutivo,CEO, sí í ou
+Trabajo y Profesiones,Gerente general,General manager,iénéral mánager
+Trabajo y Profesiones,Consultor,Consultant,kónsultant
+Trabajo y Profesiones,Asesor,Advisor,adváiser
+Trabajo y Profesiones,Trabajador,Worker,wérker
+Trabajo y Profesiones,Recepcionista,Receptionist,risépshonist
+Trabajo y Profesiones,Empleado público,Public servant,páblik sérvant
+Trabajo y Profesiones,Funcionario,Officer,ófiser
+Trabajo y Profesiones,Consultor,Consultant,kónsultant
+Trabajo y Profesiones,Voluntario,Volunteer,válenter
+Trabajo y Profesiones,Interno,Intern,íntern
+Trabajo y Profesiones,Gerente de ventas,Sales manager,seils mánager
+Trabajo y Profesiones,Ejecutivo,Executive,egzékitiv
+Trabajo y Profesiones,Contador público,CPA,sí pí éi
+Trabajo y Profesiones,Desarrollador,Developer,déveloper
+Trabajo y Profesiones,Ingeniero de software,Software engineer,sóftwer indchínir
+Trabajo y Profesiones,Técnico,Technician,tekníshan
+Trabajo y Profesiones,Administrador,Administrator,adminstréiter
+Trabajo y Profesiones,Supervisor,Supervisor,súperváiser
+Trabajo y Profesiones,Jornalero,Laborer,léiberer
+Trabajo y Profesiones,Cuidador,Caregiver,kérgáiber
+Trabajo y Profesiones,Editor,Editor,éditor
+Trabajo y Profesiones,Productor,Producer,prodúser
+Trabajo y Profesiones,Fotógrafo,Photographer,fótógráfer
+Trabajo y Profesiones,Artista,Artist,ártist
+Trabajo y Profesiones,Músico,Musician,mjúzishan
+Trabajo y Profesiones,Actor,Actor,áktor
+Trabajo y Profesiones,Director de cine,Film director,film dírektor
+Trabajo y Profesiones,Periodista,Journalist,yórnalist
+Trabajo y Profesiones,Escritor,Writer,ráiter
+Trabajo y Profesiones,Editor de video,Video editor,vídeo éditor
+Trabajo y Profesiones,Diseñador,Designer,dizáiner
+Trabajo y Profesiones,Diseñador gráfico,Graphic designer,gráfik dizáiner
+Trabajo y Profesiones,Arquitecto,Architect,árkitekt
+Trabajo y Profesiones,Ingeniero civil,Civil engineer,sívil indchínir
+Trabajo y Profesiones,Abogado penalista,Criminal lawyer,krimynál lóier
+Trabajo y Profesiones,Profesor universitario,University professor,yunivérsity prófesor
+Trabajo y Profesiones,Consultor financiero,Financial consultant,fainánshal kónsultant
+Trabajo y Profesiones,Empleado administrativo,Administrative employee,adminístratív emploíi
+Trabajo y Profesiones,Jefe de proyectos,Project manager,próyect mánager
+Trabajo y Profesiones,Director financiero,Financial director,fainánshal dírektor
+Trabajo y Profesiones,Analista,Analyst,ánalist
+Trabajo y Profesiones,Asistente administrativo,Administrative assistant,adminístrativ ásistent
+Trabajo y Profesiones,Auxiliar,Assistant,ásistent
+Trabajo y Profesiones,Residente,Resident,rézident
+Trabajo y Profesiones,Enfermero jefe,Head nurse,jéd nérs
+Trabajo y Profesiones,Gerente de recursos humanos,HR manager, eich ár mánager
+Trabajo y Profesiones,Consultor legal,Legal consultant,lígal kónsultant
+Trabajo y Profesiones,Recepcionista médico,Medical receptionist,médikal risépshonist
+Trabajo y Profesiones,Terapeuta,Therapist,thérapist
+Trabajo y Profesiones,Pediatra,Pediatrician,pidiátrishan
+Trabajo y Profesiones,Psicólogo,Psychologist,sáikólodch
+Trabajo y Profesiones,Nutricionista,Nutritionist,niutríshonist
+Trabajo y Profesiones,Entrenador,Coach,kóch
+Trabajo y Profesiones,Capataz,Foreman,fórman
+Trabajo y Profesiones,Maestro de obra,Construction foreman,kánstrakshon fórman
+Trabajo y Profesiones,Oficial,Officer,ófiser
+Trabajo y Profesiones,Secretaria,Secretary,sékréteri
+Trabajo y Profesiones,Empleado temporal,Temporary employee,témpóreri emploíi
+Trabajo y Profesiones,Empleado a tiempo parcial,Part-time employee,párt taim emploíi
+Trabajo y Profesiones,Empleado a tiempo completo,Full-time employee,fúl taim emploíi
+Trabajo y Profesiones,Fabricante,Manufacturer,mánufákter
+Trabajo y Profesiones,Sindicalista,Union member,yúniən mémbər
+Trabajo y Profesiones,Dueño,Owner,óuner
+Trabajo y Profesiones,Propietario,Proprietor,própraiéter
+Trabajo y Profesiones,Trabajador por cuenta propia,Self-employed,sélf implóid
+Trabajo y Profesiones,Consultor externo,External consultant,éxternál kónsultant
+Trabajo y Profesiones,Analista financiero,Financial analyst,fainánshal ánalist
+Trabajo y Profesiones,Gerente de proyecto,Project manager,próyect mánager
+Trabajo y Profesiones,Asistente de ventas,Sales assistant,seils ásistent
+Trabajo y Profesiones,Empleado temporal,Temporary worker,emp lóyado tempórari
+Trabajo y Profesiones,Empleado contrato fijo,Permanent contract worker,pérmanént kontrákt wérker
+Trabajo y Profesiones,Empleado interno,Intern,íntern
+Trabajo y Profesiones,Empleado externo,External employee,éxternal emploíi
+Trabajo y Profesiones,Becario,Intern,íntern
+Trabajo y Profesiones,Asistente administrativo,Administrative assistant,adminístrativ ásistent
+Trabajo y Profesiones,Asesor legal,Legal advisor,lígal adváiser
+Trabajo y Profesiones,Auditor,Auditor,óditeur
+Trabajo y Profesiones,Auxiliar administrativo,Administrative assistant,adminístrativ ásistent
+Trabajo y Profesiones,Auxiliar contable,Accounting assistant,ákáunting ásistent
+Trabajo y Profesiones,Capataz,Foreman,fórman
+Trabajo y Profesiones,Contador público,Certified public accountant,sértificd páblic ákauntant
+Trabajo y Profesiones,Consultor,Consultant,kónsúltant
+Trabajo y Profesiones,Coordinador,Coordinator,kóordinéitor
+Trabajo y Profesiones,Director de operaciones,Operations director,óperéishons dírektor
+Trabajo y Profesiones,Director financiero,Financial director,fáínanshial dírektor
+Trabajo y Profesiones,Director de marketing,Marketing director,márketing dírektor
+Trabajo y Profesiones,Director de recursos humanos,Human resources director,hiúman rísource dírektor
+Trabajo y Profesiones,Director de tecnología,Technology director,teknólodchí dírektor
+Trabajo y Profesiones,Editor,Editor,éditor
+Trabajo y Profesiones,Enfermero jefe,Head nurse,jéd nérs
+Trabajo y Profesiones,Entrenador,Coach,kóch
+Trabajo y Profesiones,Farmacéutico,Pharmacist,fármasist
+Trabajo y Profesiones,Gerente general,General manager,dchénərál mánadcher
+Trabajo y Profesiones,Ingeniero civil,Civil engineer,sívil indchínir
+Trabajo y Profesiones,Investigador,Researcher,risércher
+Trabajo y Profesiones,Maestro,Teacher,tícher
+Trabajo y Profesiones,Mecánico,Mechanic,mekánik
+Trabajo y Profesiones,Médico general,General practitioner, dchénərál práktíshoner
+Trabajo y Profesiones,Motorista,Driver,dráiver
+Trabajo y Profesiones,Oficinista,Office worker,ófis wérker
+Trabajo y Profesiones,Pintor,Painter,péinter
+Trabajo y Profesiones,Plomero,Plumber,plámer
+Trabajo y Profesiones,Presidente,President,présidént
+Trabajo y Profesiones,Productor,Producer,prodúser
+Trabajo y Profesiones,Programador,Programmer,prógramer
+Trabajo y Profesiones,Psicólogo,Psychologist,sáikólodch
+Trabajo y Profesiones,Recepcionista,Receptionist,risépshonist
+Trabajo y Profesiones,Secretaria,Secretary,sékréteri
+Trabajo y Profesiones,Supervisor,Supervisor,súperváiser
+Trabajo y Profesiones,Técnico,Technician,tekníshan
+Trabajo y Profesiones,Traductor,Translator,transléiter
+Trabajo y Profesiones,Trabajador,Worker,wérker
+Trabajo y Profesiones,Voluntario,Volunteer,válenter
+Trabajo y Profesiones,Auxiliar de limpieza,Cleaning assistant,klíning ásistent
+Trabajo y Profesiones,Conserje,Janitor,yánitor
+Trabajo y Profesiones,Empleado de ventas,Salesperson,seilspérson
+Trabajo y Profesiones,Gerente de ventas,Sales manager,seils mánadcher
+Trabajo y Profesiones,Analista financiero,Financial analyst,fáínanshial ánalist
+Trabajo y Profesiones,Mecánico de automóviles,Auto mechanic,óuto mekánik
+Trabajo y Profesiones,Gerente de proyectos,Project manager,prójéct mánadcher
+Trabajo y Profesiones,Director de ventas,Sales director,seils dírektor
+Trabajo y Profesiones,Contador,Accountant,akáuntánt
+Trabajo y Profesiones,Asistente,Assistant,ásistent
+Trabajo y Profesiones,Editor de video,Video editor,vídeo éditor
+Trabajo y Profesiones,Diseñador gráfico,Graphic designer,gráfik dizáiner
+Trabajo y Profesiones,Desarrollador de software,Software developer,sóftwér déveloper
+Trabajo y Profesiones,Director de recursos humanos,HR director, eich ár dírektor
+Trabajo y Profesiones,Investigador clínico,Clinical researcher,klínikal risércher
+Trabajo y Profesiones,Capataz de construcción,Construction foreman,kánstrákshon fórman
+Trabajo y Profesiones,Jefe de equipo,Team leader,tíim líder
+Trabajo y Profesiones,Empleado temporal,Temporary employee, témpórari emploíi
+Trabajo y Profesiones,Interno,Intern,íntern
+Trabajo y Profesiones,Pasantía,Internship,ínternship
+Trabajo y Profesiones,Gerente de recursos,Resource manager, rísource mánadcher
+Trabajo y Profesiones,Consultor externo,External consultant,éxternál kónsultant
+Trabajo y Profesiones,Empleado a tiempo completo,Full-time employee,fúl taim emploíi
+Trabajo y Profesiones,Empleado a tiempo parcial,Part-time employee,párt taim emploíi
+Trabajo y Profesiones,Piloto,Pilot,páilot
+Trabajo y Profesiones,Azafata,Flight attendant,fláit atendánt
+Trabajo y Profesiones,Guía turístico,Tour guide,túr guáid
+Trabajo y Profesiones,Recepcionista médica,Medical receptionist,médikal risépshonist
+Trabajo y Profesiones,Fisioterapeuta,Physiotherapist,fisiótherá pist
+Trabajo y Profesiones,Estilista,Stylist,stáilist
+Hobbies y Ocio,Deporte,Sport,spórt
+Hobbies y Ocio,Fútbol,Soccer,sóker
+Hobbies y Ocio,Baloncesto,Basketball,báskétbol
+Hobbies y Ocio,Tenis,Tennis,ténis
+Hobbies y Ocio,Natación,Swimming,swíming
+Hobbies y Ocio,Correr,Running,ránning
+Hobbies y Ocio,Ciclismo,Cycling,sáikling
+Hobbies y Ocio,Patinaje,Skating,skéiting
+Hobbies y Ocio,Senderismo,Hiking,háiking
+Hobbies y Ocio,Pintura,Painting,péinting
+Hobbies y Ocio,Escultura,Sculpture,skéulptcher
+Hobbies y Ocio,Dibujo, Drawing,dráuing
+Hobbies y Ocio,Canto,Singing,sínging
+Hobbies y Ocio,Danza,Dancing,dánsing
+Hobbies y Ocio,Música,Music,mjúzik
+Hobbies y Ocio,Instrumento musical,Musical instrument,mjúzikál ínstrument
+Hobbies y Ocio,Leer,Reading,ríding
+Hobbies y Ocio,Escribir,Writing,ráiting
+Hobbies y Ocio,Fotografía,Photography,fótográfi
+Hobbies y Ocio,Cine,Movie,múvi
+Hobbies y Ocio,Teatro,Theater,zíater
+Hobbies y Ocio,Jugar,Playing,pléiin
+Hobbies y Ocio,Videojuegos,Video games,vídeo géims
+Hobbies y Ocio,Pescar,Fishing,físhing
+Hobbies y Ocio,Cocinar,Cooking,kúking
+Hobbies y Ocio,Jardinería,Gardening,gárdening
+Hobbies y Ocio,Fotografiar,Photography,fótográfi
+Hobbies y Ocio,Manualidades,Handicrafts,jándikrafts
+Hobbies y Ocio,Puzzle,Puzzle,pázol
+Hobbies y Ocio,Modelismo,Model building,módel bílding
+Hobbies y Ocio,Buceo,Diving,dáiving
+Hobbies y Ocio,Viajar,Travel, trável
+Hobbies y Ocio,Campamento,Camping,kámping
+Hobbies y Ocio,Montañismo,Mountaineering,máuntiníering
+Hobbies y Ocio,Escalada,Climbing,kláiming
+Hobbies y Ocio,Patinaje en línea,Rollerblading,rólerbléiding
+Hobbies y Ocio,Deportes acuáticos,Water sports,wóter spórts
+Hobbies y Ocio,Observación de aves,Bird watching,bérd wóchíng
+Hobbies y Ocio,Relajación,Relaxation,rilákshon
+Hobbies y Ocio,Meditar,Meditate,méditéit
+Hobbies y Ocio,Yoga,Yoga,ióga
+Hobbies y Ocio,Pasear,Walking,wóking
+Hobbies y Ocio,Cantar,Singing,sínging
+Hobbies y Ocio,Bailar,Dancing,dánsing
+Hobbies y Ocio,Tejer,Knitting,níting
+Hobbies y Ocio,Crafting,Crafting,kráfting
+Hobbies y Ocio,Escuchar música,Listening to music,lísning tu mjúzik
+Hobbies y Ocio,Ver películas,Watching movies,wóchíng múvís
+Hobbies y Ocio,Ir de compras,Shopping,shopíng
+Hobbies y Ocio,Jardinería,Gardening,gárdening
+Hobbies y Ocio,Pescar,Fishing,físhing
+Hobbies y Ocio,Viajar,Travel,trável
+Hobbies y Ocio,Navegar,Sailing,séiling
+Hobbies y Ocio,Escribir cartas,Writing letters,ráiting létərs
+Hobbies y Ocio,Correr,Running,ránning
+Hobbies y Ocio,Escuchar podcast,Listening to podcasts,lísning tu pódkásts
+Hobbies y Ocio,Jugar al ajedrez,Playing chess,pléiin chés
+Hobbies y Ocio,Jardinería urbana,Urban gardening,érban gárdening
+Hobbies y Ocio,Baile de salón,Ballroom dancing,bólrum dánsing
+Hobbies y Ocio,Cantar en coro,Choral singing,chórəl sínging
+Hobbies y Ocio,Fabrica de cerveza,Beer brewing,bír brúing
+Hobbies y Ocio,Recolección de hongos,Fungus foraging,fángus foridchíng
+Hobbies y Ocio,Producción de video,Video production,vídeo prodákshon
+Hobbies y Ocio,Juego de mesa,Board game,bórd géim
+Hobbies y Ocio,Jardinería comunitaria,Community gardening,komyúniti gárdening
+Hobbies y Ocio,Carpintería,Carpentry,kárpəntri
+Hobbies y Ocio,Fotografía digital,Digital photography,dídchital fótográfi
+Hobbies y Ocio,Modelismo ferroviario,Model railroading,módel réilróuding
+Hobbies y Ocio,Observación de estrellas,Star gazing,stár géisíng
+Hobbies y Ocio,Buceo con tanque,Scuba diving,skúba dáiving
+Hobbies y Ocio,Escuchar audiolibros,Listening to audiobooks,lísning tu óudiúbuks
+Hobbies y Ocio,Tocar instrumentos,Playing instruments,pléiin ínstrument
+Hobbies y Ocio,Jardinería interior,Indoor gardening,índór gárdening
+Hobbies y Ocio,Tejido knitting,Knitting,níting
+Hobbies y Ocio,Restauración,Restoration,réstəréishon
+Hobbies y Ocio,Videojuego,Video game,vídeo géim
+Hobbies y Ocio,Película,Movie,múvi
+Hobbies y Ocio,Libro,Book,buk
+Hobbies y Ocio,Revista,Magazine,mágazín
+Hobbies y Ocio,Música,Music,mjúzik
+Hobbies y Ocio,Danza,Dance,dáns
+Hobbies y Ocio,Teatro,Theater,zíater
+Hobbies y Ocio,Cine,Film,fílm
+Hobbies y Ocio,Concierto,Concert,kónsert
+Hobbies y Ocio,Festival,Festival,féstivál
+Hobbies y Ocio,Viajar,Travel,trável
+Hobbies y Ocio,Excursionismo,Hiking,háiking
+Hobbies y Ocio,Ciclismo,Cycling,sáikling
+Hobbies y Ocio,Pesca,Fishing,físhing
+Hobbies y Ocio,Golf,Golf,gólf
+Hobbies y Ocio,Senderismo,Trekking,tréking
+Hobbies y Ocio,Esquí,Skiing,skíing
+Hobbies y Ocio,Patinaje,Skating,skéiting
+Hobbies y Ocio,Natación,Swimming,swíming
+Hobbies y Ocio,Yoga,Yoga,ióga
+Hobbies y Ocio,Meditar,Meditate,méditéit
+Hobbies y Ocio,Cantar,Singing,sínging
+Hobbies y Ocio,Escribir,Writing,ráiting
+Hobbies y Ocio,Dibujar,Drawing,dróuing
+Hobbies y Ocio,Pintar,Painting,péinting
+Hobbies y Ocio,Esculpir,Sculpting,skéulpting
+Hobbies y Ocio,Modelar,Modeling,módeling
+Hobbies y Ocio,Jardinería,Gardening,gárdening
+Hobbies y Ocio,Restaurar,Restoring,réstoring
+Hobbies y Ocio,Coleccionar,Collecting,kólecting
+Hobbies y Ocio,Antigüedades,Antiques,ántiks
+Hobbies y Ocio,Tejer,Knitting,níting
+Hobbies y Ocio,Hornear,Baking,béiking
+Hobbies y Ocio,Cocinar,Cooking,kúking
+Hobbies y Ocio,Deportes,Sports,spórts
+Hobbies y Ocio,Fútbol,Soccer,sóker
+Hobbies y Ocio,Baloncesto,Basketball,báskétbol
+Hobbies y Ocio,Tenis,Tennis,ténis
+Hobbies y Ocio,Voleibol,Volleyball,vólibóll
+Hobbies y Ocio,Béisbol,Baseball,béisbóll
+Hobbies y Ocio,Rugby,Rugby,rágbi
+Hobbies y Ocio,Boxeo,Boxing,bóksing
+Hobbies y Ocio,Artes marciales,Martial arts,márshial áarts
+Hobbies y Ocio,Pintura artística,Art painting,árt péinting
+Hobbies y Ocio,Cerámica,Ceramics,sérámiks
+Hobbies y Ocio,Fotografía,Photography,fótográfi
+Hobbies y Ocio,Música clásica,Classical music,klásikl mjúzik
+Hobbies y Ocio,Banda,Band,bánd
+Hobbies y Ocio,Orquesta,Orchestra,órkistra
+Hobbies y Ocio,Coro,Choir,kuáiər
+Hobbies y Ocio,Cantar en coro,Choral singing,chórəl sínging
+Hobbies y Ocio,Escuchar música,Listening to music,lísning tu mjúzik
+Hobbies y Ocio,Ver televisión,Watching TV,wóchíng tíví
+Hobbies y Ocio,Leer libros,Reading books,ríding buks
+Hobbies y Ocio,Escribir cuentos,Writing stories,ráiting stóris
+Hobbies y Ocio,Viajar por el mundo,Traveling around the world,trávaling aráund dhi wérld
+Hobbies y Ocio,Excursionismo,Backpacking,báckpáking
+Hobbies y Ocio,Camping,Camping,kámping
+Hobbies y Ocio,Pesca con caña,Fishing with rod,físhing wif róud
+Hobbies y Ocio,Ciclismo de montaña,Mountain biking,máuntin báiking
+Hobbies y Ocio,Golf,Golf,gólf
+Hobbies y Ocio,Escalada,Climbing,kláiming
+Hobbies y Ocio,Rugby,Rugby,rágbi
+Hobbies y Ocio,Patinaje sobre hielo,Ice skating,áis skéiting
+Hobbies y Ocio,Deportes acuáticos,Water sports,wóter spórts
+Hobbies y Ocio,Jet ski,Jet ski,dchét skí
+Hobbies y Ocio,Parapente,Paragliding,páragláiding
+Hobbies y Ocio,Ala delta,Hang gliding,háng gláidin
+Hobbies y Ocio,Pesca submarina,Spearfishing,spírfíshing
+Hobbies y Ocio,Buceo,Scuba diving,skúba dáiving
+Hobbies y Ocio,Esquí acuático,Water skiing,wóter skíing
+Hobbies y Ocio,Navegación,Sailing,séiling
+Hobbies y Ocio,Velero,Sailboat,séil bóut
+Hobbies y Ocio,Observación de aves,Bird watching,bérd wóchíng
+Hobbies y Ocio,Fotografía de naturaleza,Nature photography,néicher fótográfi
+Hobbies y Ocio,Trekking,Trekking,tréking
+Hobbies y Ocio,Patinaje sobre ruedas,Roller skating,róler skéiting
+Hobbies y Ocio,Videojuegos,Video games,vídeo géims
+Hobbies y Ocio,Juegos de mesa,Board games,bórd géims
+Hobbies y Ocio,Montar a caballo,Horse riding,jórs ráiding
+Hobbies y Ocio,Paseos en bicicleta,Bicycle rides,báisikl ráids
+Hogar y Muebles,Casa,House,jaus
+Hogar y Muebles,Puerta,Door,dor
+Hogar y Muebles,Ventana,Window,wíndou
+Hogar y Muebles,Cocina,Kitchen,kítchen
+Hogar y Muebles,Baño,Bathroom,báthrum
+Hogar y Muebles,Salón,Living room,líving rúm
+Hogar y Muebles,Dormitorio,Bedroom,bédrúm
+Hogar y Muebles,Comedor,Dining room,dáinin rúm
+Hogar y Muebles,Muebles,Furniture,férnicher
+Hogar y Muebles,Silla,Chair,chér
+Hogar y Muebles,Sofá,Sofa,sóufa
+Hogar y Muebles,Mesa,Table,téibl
+Hogar y Muebles,Cama,Bed,béd
+Hogar y Muebles,Espejo,Mirror,mírror
+Hogar y Muebles,Alfombra,Carpet,kárpet
+Hogar y Muebles,Lámpara,Lamp,lamp
+Hogar y Muebles,Armario,Closet,klósit
+Hogar y Muebles,Estantería,Shelf,shelf
+Hogar y Muebles,Televisión,TV,ti ví
+Hogar y Muebles,Refrigerador,Refrigerator,rifrígeréitor
+Hogar y Muebles,Horno,Oven,óuvin
+Hogar y Muebles,Fregadero,Sink,sínk
+Hogar y Muebles,Ducha,Shower,sháuer
+Hogar y Muebles,Escritorio,Desk,desk
+Hogar y Muebles,Ordenador,Computer,kompiúter
+Hogar y Muebles,Teléfono,Phone,fóun
+Hogar y Muebles,Radiador,Radiator,réidiéitor
+Hogar y Muebles,Calefacción,Heating,híting
+Hogar y Muebles,Aire acondicionado,Air conditioning,ér kondíshoning
+Hogar y Muebles,Tapete,Rug,rag
+Hogar y Muebles,Cuadro,Picture,píkcher
+Hogar y Muebles,Biblioteca,Bookcase,búk keis
+Hogar y Muebles,Alacena,Cupboard,kápbord
+Hogar y Muebles,Microondas,Microwave,máikrouéiv
+Hogar y Muebles,Cortina,Curtain,kértin
+Hogar y Muebles,Persiana,Blind,bláind
+Hogar y Muebles,Puerta principal,Front door,fránt dor
+Hogar y Muebles,Perchero,Coat rack,kóut rák
+Hogar y Muebles,Pasillo,Hallway,jólweí
+Hogar y Muebles,Escalera,Stairs,stérs
+Hogar y Muebles,Balcón,Balcony,bálkoni
+Hogar y Muebles,Jardín,Garden,gárden
+Hogar y Muebles,Terreno,Yard,yárd
+Hogar y Muebles,Gaveta,Drawer,dróuer
+Hogar y Muebles,Cuarto,Room,rum
+Hogar y Muebles,Recámara,Bedroom,bédrum
+Hogar y Muebles,Entrada,Entrance,éntráns
+Hogar y Muebles,Techo,Roof,rúf
+Hogar y Muebles,Sótano,Basement,béisment
+Hogar y Muebles,Patio,Patio,pátio
+Hogar y Muebles,Garaje,Garage,guárage
+Hogar y Muebles,Calentador de agua,Water heater,wóter híter
+Hogar y Muebles,Fregadero,Kitchen sink,kítchen sínk
+Hogar y Muebles,Lavamanos,Bathroom sink,báthrum sínk
+Hogar y Muebles,Juego de comedor,Dining set,dáinin set
+Hogar y Muebles,Lavaplatos,Dishwasher,díshwóshér
+Hogar y Muebles,Rejilla,Grill,gril
+Hogar y Muebles,Botiquín,First aid kit,férst eíd kit
+Hogar y Muebles,Linterna,Flashlight,fláshláit
+Hogar y Muebles,Interruptor,Switch,swich
+Hogar y Muebles,Clavo,Nail,néil
+Hogar y Muebles,Taladro,Drill,dril
+Hogar y Muebles,Tornillo,Screw,scrú
+Hogar y Muebles,Martillo,Hammer,jámer
+Hogar y Muebles,Brocha,Brush,brash
+Hogar y Muebles,Pintura,Paint,péint
+Hogar y Muebles,Balde,Bucket,báket
+Hogar y Muebles,Mopa,Mop,móp
+Hogar y Muebles,Fregona,Mop,móp
+Hogar y Muebles,Trapeador,Mop,móp
+Hogar y Muebles,Ropa de cama,Bedding,béding
+Hogar y Muebles,Almohada,Pillow,pílo
+Hogar y Muebles,Manta,Blanket,blánkit
+Hogar y Muebles,Colcha,Quilt,kwilt
+Hogar y Muebles,Funda,Cover,káufer
+Hogar y Muebles,Sábanas,Sheets,shíts
+Hogar y Muebles,Cortinas, Curtains,kértins
+Hogar y Muebles,Toalla,Towel,táuél
+Hogar y Muebles,Juego de toallas,Towel set,táuél set
+Hogar y Muebles,Escobas,Brooms,brúms
+Hogar y Muebles,Aspiraora,Vacuum,vákium
+Hogar y Muebles,Cafetera,Coffee maker,kófi méiker
+Hogar y Muebles,Tostadora,Toaster,tóuster
+Hogar y Muebles,Hervidor de agua,Kettle,kétel
+Hogar y Muebles,Plancha,Iron,áiron
+Hogar y Muebles,Lavadora,Washer,wóshér
+Hogar y Muebles,Secadora,Dryer,dráier
+Hogar y Muebles,Botella de agua,Water bottle,wóter bótol
+Hogar y Muebles,Detergente,Detergent,ditérdchent
+Hogar y Muebles,Limpiador,Cleaner,klíner
+Hogar y Muebles,Escurridor,Colander,kólander
+Hogar y Muebles,Recipiente,Container,kóntéiner
+Hogar y Muebles,Cucharón,Ladle,léidl
+Hogar y Muebles,Cuchara,Spoon,spún
+Hogar y Muebles,Tenedor,Fork,fork
+Hogar y Muebles,Cuchillo,Knife,naif
+Hogar y Muebles,Plato,Plate,pleit
+Hogar y Muebles,Vajilla,Dishes,díshes
+Hogar y Muebles,Vaso,Glass,glás
+Hogar y Muebles,Taza,Cup,káp
+Hogar y Muebles,Jarrón,Vase,véis
+Hogar y Muebles,Flor,Flower,fláuer
+Hogar y Muebles,Cuadro,Picture,píkcher
+Hogar y Muebles,Espejo de mano,Hand mirror,jánd mírror
+Hogar y Muebles,Reloj de pared,Wall clock,wól klok
+Hogar y Muebles,Lámpara de mesa,Table lamp,téibl lám
+Hogar y Muebles,Alfombra de área,Area rug,érea rag
+Hogar y Muebles,Biblioteca,Bookcase,búkkeis
+Hogar y Muebles,Sillón,Armchair,ármchér
+Hogar y Muebles,Mesita de noche,Nightstand,náitstánd
+Hogar y Muebles,Cómoda,Dresser,drésser
+Hogar y Muebles,Armario empotrado,Built-in closet,bílt-in klósit
+Hogar y Muebles,Cortina de ducha,Shower curtain,sháuer kértin
+Hogar y Muebles,Bidé,Bidet,bidét
+Hogar y Muebles,Lavabo,Sink,sínk
+Hogar y Muebles,Fregadero de cocina,Kitchen sink,kítchen sínk
+Hogar y Muebles,Lavaplatos,Dishwasher,díshwóshér
+Hogar y Muebles,Estufa,Stove,stóuv
+Hogar y Muebles,Horno,Horn,órn
+Hogar y Muebles,Microondas,Microwave,máikrouéiv
+Hogar y Muebles,Refrigerador,Refrigerator,rifrígeréitor
+Hogar y Muebles,Cafetera,Coffee maker,kófi méiker
+Hogar y Muebles,Tostadora,Toaster,tóuster
+Hogar y Muebles,Hervidor,Water kettle,wóter kétel
+Hogar y Muebles,Procesador de alimentos,Food processor,fuud próuseser
+Hogar y Muebles,Batidora,Blender,bléndər
+Hogar y Muebles,Licuadora,Juicer,chuísər
+Hogar y Muebles,Espátula,Spatula,spátula
+Hogar y Muebles,Colador,Strainer,streiner
+Hogar y Muebles,Tenedor de cocina,Kitchen fork,kítchen fork
+Hogar y Muebles,Cuchillo de cocina,Kitchen knife,kítchen naif
+Hogar y Muebles,Plancha de ropa,Clothes iron,klóuz áiron
+Hogar y Muebles,Tabla de planchar,Ironing board,áironin bórd
+Hogar y Muebles,Escoba,Broom,brúm
+Hogar y Muebles,Mopa,Mop,móp
+Hogar y Muebles,Fregona,Mop,móp
+Hogar y Muebles,Cubo,Bucket,báket
+Hogar y Muebles,Detergente,Detergent,ditérdchent
+Hogar y Muebles,Limpiador,Cleaner,klíner
+Hogar y Muebles,Paño de limpieza,Cleaning cloth,klíning klóth
+Hogar y Muebles,Secadora,Dryer,dráier
+Hogar y Muebles,Lavadora,Washing machine,wóshing máshin
+Hogar y Muebles,Termo,Thermos,dhérmos
+Hogar y Muebles,Colector de basura,Trash bin,trash bín
+Hogar y Muebles,Basura,Trash,trash
+Hogar y Muebles,Reciclaje,Recycling,riósaikling
+Hogar y Muebles,Toldo,Awnings,ónings
+Hogar y Muebles,Parabrisas,Windshield,wíndschíld
+Hogar y Muebles,Lámpara de techo,Ceiling lamp,síling lám
+Hogar y Muebles,Interruptor,Switch,swich
+Hogar y Muebles,Enchufe,Socket,sókit
+Hogar y Muebles,Tomacorriente,Power outlet,páuer áutlet
+Hogar y Muebles,Cable,Wire,guáir
+Hogar y Muebles,Extensión,Extension,iksténshon
+Hogar y Muebles,Lámpara de pie,Floot lamp,flút lám
+Hogar y Muebles,Espejo de pared,Wall mirror,wól mírror
+Hogar y Muebles,Calendario,Calendar,kálendar
+Hogar y Muebles,Reloj,Clock,klok
+Hogar y Muebles,Cortinas opacas,Blackout curtains,blákáut kértins
+Hogar y Muebles,Cortinas transparentes,Sheer curtains,shir kértins
+Hogar y Muebles,Toldo retráctil,Retractable awning,rétractabl óning
+Hogar y Muebles,Persiana enrollable,Roller blind,róler bláind
+Hogar y Muebles,Puerta corrediza,Sliding door,sláidin dor
+Hogar y Muebles,Cerradura,Lock,lok
+Hogar y Muebles,Mirilla,Peep hole,píp jóul
+Hogar y Muebles,Puerta principal,Front door,fránt dor
+Hogar y Muebles,Biblioteca,Library,láibreri
+Hogar y Muebles,Cuadro decorativo,Decorative painting,dékorativ péinting
+Hogar y Muebles,Sillón reclinable,Recliner,rikláiner
+Hogar y Muebles,Alfombra persa,Persian rug,pérshian rag
+Hogar y Muebles,Balda,Shelf,shelf
+Hogar y Muebles,Estante,Shelving,shélving
+Hogar y Muebles,Tocador,Dressing table,drésing téibl
+Hogar y Muebles,Vajilla,Dishware,díshguéar
+Hogar y Muebles,Vidrio,Glass,glás
+Hogar y Muebles,Plato,Plate,pléit
+Hogar y Muebles,Cuchara,Spoon,spun
+Hogar y Muebles,Tenedor,Fork,fork
+Escuela y Educación,Escuela,School,skúl
+Escuela y Educación,Profesor,Teacher,tícher
+Escuela y Educación,Estudiante,Student,stúdent
+Escuela y Educación,Clase,Class,klás
+Escuela y Educación,Materia,Subject,sábjèct
+Escuela y Educación,Examen,Exam,eksám
+Escuela y Educación,Tarea,Homework,jómwerk
+Escuela y Educación,Libro,Book,buk
+Escuela y Educación,Cuaderno,Notebook,nóutbuk
+Escuela y Educación,Lápiz,Pencil,pénsil
+Escuela y Educación,Bolígrafo,Pen,pén
+Escuela y Educación,Regla,Ruler,rúler
+Escuela y Educación,Pizarrón,Blackboard,blákbord
+Escuela y Educación,Escritorio,Desk,desk
+Escuela y Educación,Silla,Chair,chér
+Escuela y Educación,Computadora,Computer,kompiúter
+Escuela y Educación,Internet,Internet,intérnet
+Escuela y Educación,Clase particular,Tutoring,tútering
+Escuela y Educación,Profesor particular,Tutor,tútor
+Escuela y Educación,Biblioteca,Library,láibreri
+Escuela y Educación,Bibliotecario,Librarian,laibrárian
+Escuela y Educación,Horario,Schedule,skédchul
+Escuela y Educación,Aula,Classroom,klásrum
+Escuela y Educación,Deberes,Homework,jómwerk
+Escuela y Educación,Profesor titular,Head teacher,jéd tícher
+Escuela y Educación,Director,Principal,prínsipol
+Escuela y Educación,Estudiante de primaria,Primary student,práimari stúdent
+Escuela y Educación,Estudiante de secundaria,Secondary student,sékondari stúdent
+Escuela y Educación,Educación física,Physical education, físikal edjúcation
+Escuela y Educación,Educación,Education,edjúcation
+Escuela y Educación,Universidad,University,yunivérsity
+Escuela y Educación,Carrera,Major,máyor
+Escuela y Educación,Título, Degree,digrí
+Escuela y Educación,Beca,Scholarship,skólarship
+Escuela y Educación,Notas,Grades,gréids
+Escuela y Educación,Calificación,Mark,márk
+Escuela y Educación,Exposición,Presentation,preséntéishon
+Escuela y Educación,Investigación,Research,risérch
+Escuela y Educación,Libro de texto,Textbook,téxtbuk
+Escuela y Educación,Cuaderno de notas,Notebook,nóutbuk
+Escuela y Educación,Examen final,Final exam,fáinal eksám
+Escuela y Educación,Clases en línea,Online classes,ónlain klásis
+Escuela y Educación,Asistencia,Attendance,aténdans
+Escuela y Educación,Tarea para casa,Homework,jómwerk
+Escuela y Educación,Evaluación,Assessment,ásésment
+Escuela y Educación,Maestría,Master’s degree,másters digrí
+Escuela y Educación,Doctorado,Doctorate,dóktoréit
+Escuela y Educación,Profesor auxiliar,Assistant professor,asístent prófesor
+Escuela y Educación,Aula virtual,Virtual classroom,vérchual klásrum
+Escuela y Educación,Material escolar,School supplies,skúl sapláis
+Escuela y Educación,Bibliografía,Bibliography,bibliográfi
+Escuela y Educación,Laboratorio,Lab,láb
+Escuela y Educación,Examen parcial,Midterm exam,mídterm eksám
+Escuela y Educación,Certificado,Certificate,sértifikit
+Escuela y Educación,Tutoría,Tutoring,tútering
+Escuela y Educación,Colegio,College,kólig
+Escuela y Educación,Graduación,Graduation,gráduéishon
+Escuela y Educación,Matrícula,Tuition,túishon
+Escuela y Educación,Asignatura,Subject,sábjèct
+Escuela y Educación,Profesor de matemáticas,Math teacher,máth ticher
+Escuela y Educación,Profesor de inglés,English teacher,ínglish ticher
+Escuela y Educación,Profesor de ciencias,Science teacher,sáins ticher
+Escuela y Educación,Profesor de historia,History teacher,ístory ticher
+Escuela y Educación,Alumno destacado,Honor student,onór stúdent
+Escuela y Educación,Deportes escolares,School sports,skúl spórts
+Escuela y Educación,Recreo,Recess,ríses
+Escuela y Educación,Regla de cálculo,Calculator,kályuláitor
+Escuela y Educación,Examen oral,Oral exam,óral eksám
+Escuela y Educación,Examen escrito,Written exam,ritn eksám
+Escuela y Educación,Bibliotecario,Librarian,láibrériən
+Escuela y Educación,Campana escolar,School bell,skúl bel
+Escuela y Educación,Lista de asistencia,Attendance list,aténdans list
+Escuela y Educación,Libro de ejercicios,Workbook,wórkbuk
+Escuela y Educación,Ensayo,Essay,éséi
+Escuela y Educación,Proyecto,Project,próyect
+Escuela y Educación,Presentación,Presentation,preséntéishon
+Escuela y Educación,Clase magistral,Lecture,léktur
+Escuela y Educación,Semestre,Semester,sémester
+Escuela y Educación,Biblioteca virtual,Virtual library,vérchual láibreri
+Escuela y Educación,Estudiante de posgrado,Graduate student,grádchueit stúdent
+Escuela y Educación,Curso,Course,kors
+Escuela y Educación,Profesor de arte,Art teacher,árt ticher
+Escuela y Educación,Profesor de música,Music teacher,mjúzik ticher
+Escuela y Educación,Profesor de educación física,Physical education teacher,físical edjúcation ticher
+Escuela y Educación,Examen de admisión,Entrance exam,éntréis eksám
+Escuela y Educación,Repetidor,Repeater,rípíter
+Escuela y Educación,Tutor académico,Academic tutor,akádémic tútor
+Escuela y Educación,Bibliografía recomendada,Recommended bibliography,rekómended bíbliógrafi
+Escuela y Educación,Clases particulares,Private classes,práivét klásis
+Escuela y Educación,Idiomas,Languages,lángwids
+Escuela y Educación,Profesor de idiomas,Language teacher,lángwidch ticher
+Escuela y Educación,Tarea grupal,Group assignment,grúup asáignment
+Escuela y Educación,Nota alta,High grade,jái gréid
+Escuela y Educación,Nota baja,Low grade,lóu gréid
+Escuela y Educación,Libro de texto,Textbook,téxtbuk
+Escuela y Educación,Cuaderno,Notebook,nóutbuk
+Escuela y Educación,Pluma,Pen,pén
+Escuela y Educación,Lápiz, Pencil,pénsil
+Escuela y Educación,Borrador,Eraser,írésor
+Escuela y Educación,Regla,Ruler,rúler
+Escuela y Educación,Mochila,Backpack,bákpak
+Escuela y Educación,Escritorio,Desk,desk
+Escuela y Educación,Silla,Chair,chér
+Escuela y Educación,Pizarra,Blackboard,blákbord
+Escuela y Educación,Pizarra blanca,Whiteboard,guáit bord
+Escuela y Educación,Marcador,Marker,márker
+Escuela y Educación,Plumón,Marker,márker
+Escuela y Educación,Subrayador,Highlighter,jáiláiter
+Escuela y Educación,Goma de borrar,Eraser,íréiser
+Escuela y Educación,Compás,Compass,kómpas
+Escuela y Educación,Calculadora,Calculator,kályuleitór
+Escuela y Educación,Tijeras,Scissors,sísors
+Escuela y Educación,Pegamento,Glue,glú
+Escuela y Educación,Libreta,Notebook,nóutbuk
+Escuela y Educación,Libro popular,Bestseller,bés t-séler
+Escuela y Educación,Colegio,School,skúl
+Escuela y Educación,Universidad,University,yunivérsiti
+Escuela y Educación,Clase,Class,klás
+Escuela y Educación,Profesor,Teacher,tícher
+Escuela y Educación,Estudiante,Student,stúdent
+Escuela y Educación,Examen,Exam,eksám
+Escuela y Educación,Tarea,Homework,jómuërk
+Escuela y Educación,Calificación,Grade,gréid
+Escuela y Educación,Horario,Schedule,skédchul
+Escuela y Educación,Aula,Classroom,klásrum
+Escuela y Educación,Exposición,Presentation,preséntéishon
+Escuela y Educación,Trabajo en grupo,Group work,grúup wérk
+Escuela y Educación,Prueba,Test,tést
+Escuela y Educación,Investigación,Research,risérch
+Escuela y Educación,Biblioteca,Library,láibreri
+Escuela y Educación,Examen final,Final exam,fáinal eksám
+Escuela y Educación,Bachillerato,High school,jáiskúl
+Escuela y Educación,Sistema educativo,Education system,edjúcéishon systém
+Escuela y Educación,Profesor principal,Head teacher,jéd tícher
+Escuela y Educación,Alumno,Student,stúdent
+Escuela y Educación,Nota,Nóte,nóut
+Escuela y Educación,Receso,Break,bréik
+Escuela y Educación,Asignatura,Subject,sábdjéct
+Escuela y Educación,Deberes,Homework,jómuërk
+Escuela y Educación,Asistencia,Attendance,aténdans
+Escuela y Educación,Graduación,Graduation,gráduéishon
+Escuela y Educación,Educación primaria,Primary education,práimari edjúcéishon
+Escuela y Educación,Educación secundaria,Secondary education,sékondari edjúcéishon
+Escuela y Educación,Educación superior,Higher education,háier edjúcéishon
+Escuela y Educación,Método de enseñanza,Teaching method,tíching méthod
+Escuela y Educación,Habilidades,Skills,skíls
+Escuela y Educación,Aprendizaje,Learning,lérning
+Escuela y Educación,Ciencias,Sciences,sáiensis
+Escuela y Educación,Matemáticas,Mathematics,mæthəmatik
+Escuela y Educación,Lengua,Language,lánguich
+Escuela y Educación,Historia,History,jístóri
+Escuela y Educación,Geografía,Geography,dchíográfi
+Escuela y Educación,Física,Physics,físiks
+Escuela y Educación,Química,Chemistry,kémistri
+Escuela y Educación,Biología,Biology,báiolodchí
+Escuela y Educación,Educación física,Physical education,físical edjúcéishon
+Escuela y Educación,Tecnología,Technology,teknólodchí
+Escuela y Educación,Música,Music,mjúzik
+Escuela y Educación,Arte,Art,árt
+Escuela y Educación,Orientación,Guidance,gáidens
+Escuela y Educación,Inscripción,Enrollment,enróulment
+Escuela y Educación,Evaluación,Evaluation,ivaluéishon
+Escuela y Educación,Examen parcial,Midterm exam,mídterm eksám
+Escuela y Educación,Examen oral,Oral exam,óral eksám
+Escuela y Educación,Examen escrito,Written exam,ritn eksám
+Escuela y Educación,Prácticas,Internship,ínternship
+Escuela y Educación,Tutoría,Tutoring,tútering
+Escuela y Educación,Asesor académico,Academic advisor,akádémic adváiser
+Viajes,Aeropuerto,Airport,érport
+Viajes,Pasaporte,Passport,pásport
+Viajes,Visado,Visa,vísa
+Viajes,Billete,Ticket,tíket
+Viajes,Reserva,Reservation,rezərvéi shon
+Viajes,Equipaje,Luggage,láguidch
+Viajes,Maleta,Suitcase,súitkéis
+Viajes,Viaje,Trip,trip
+Viajes,Vuelo,Flight,fláit
+Viajes,Salida,Departure,dipárcher
+Viajes,Llegada,Arrival,aráival
+Viajes,Transbordo,Transfer,tránsfer
+Viajes,Escala,Layover,léiauer
+Viajes,Tour,Tour,túr
+Viajes,Hotel,Hotel,hou-tél
+Viajes,Hostal,Hostel,hóstel
+Viajes,Guía,Guide,guáid
+Viajes,Mochila,Backpack,bákpak
+Viajes,Seguro de viaje,Travel insurance,trável índshuráns
+Viajes,Itinerario,Itinerary,aitínəreri
+Viajes,Pasajero,Passenger,pásindcher
+Viajes,Agencia de viajes,Travel agency,trável éidchensi
+Viajes,Check-in,Check-in,chék-in
+Viajes,Control de pasaportes,Passport control,pásport contról
+Viajes,Puerta de embarque,Boarding gate,bórdning géit
+Viajes,Asiento,Seat,sít
+Viajes,Equipaje de mano,Carry-on luggage,kéri ón láguidch
+Viajes,Despegue,Takeoff,téikóf
+Viajes,Aterrizaje,Landing,lánding
+Viajes,Turbulencia,Turbulence,térbulyens
+Viajes,Pasillo,Aisle,áil
+Viajes,Ventanilla,Window seat,wíndou sít
+Viajes,Clase económica,Economy class,ikónómi klás
+Viajes,Clase ejecutiva,Business class,bísnis klás
+Viajes,Vuelo directo,Direct flight,direkt fláit
+Viajes,Doble asiento,Double seat,dóbl sít
+Viajes,Turista,Tourist,túríst
+Viajes,Equipaje facturado,Checked baggage,chékt bágidch
+Viajes,Equipaje perdido,Lost luggage,lóst láguidch
+Viajes,Retraso,Delay,diléi
+Viajes,Cancelación,Cancellation,kánsileishon
+Viajes,Extensión del vuelo,Flight extension,fláit eksténshon
+Viajes,Atracciones turísticas,Tourist attractions,túríst átrakshons
+Viajes,Monumento,Monument,mónjument
+Viajes,Museo,Museum,míuzyəm
+Viajes,Playa,Beach,bíich
+Viajes,Reserva en línea,Online reservation,ónlán rezərvéi shon
+Viajes,Itinerario de viaje,Travel itinerary,trável aitínəreri
+Viajes,Valija, suitcase,súitkéis
+Viajes,Viaje redondo,Round-trip,ráund tríp
+Viajes,Pasaporte vencido,Expired passport,ikspáierd pásport
+Viajes,Tarjeta de embarque,Boarding pass,bórdning pás
+Viajes,Seguro médico,Medical insurance,médikal índshurans
+Viajes,Cambio de divisas,Currency exchange,kéransi ikschéindch
+Viajes,Turismo, Tourismo,túrizm
+Viajes,Guía turístico,Tour guide,túr guáid
+Viajes,Turista extranjero,Foreign tourist,fórin túrist
+Viajes,Luggage tag,Etiqueta de equipaje,ítiket ov láguidch
+Viajes,Buenos días,Good morning,gúd mórning
+Viajes,Hospedaje,Accommodation,ákámodéishon
+Viajes,Inmigración,Immigration,ímigréishon
+Viajes,Aduana,Customs,kástoms
+Viajes,Controles de seguridad, Security controls, sékiuriti contróls
+Viajes,Pasaporte electrónico,E-passport,í pásport
+Viajes,Equipaje de mano,Carry-on baggage,kéri ón bágidch
+Viajes,Equipaje perdido,Lost baggage,lóst bágidch
+Viajes,Maleta de mano,Hand luggage,jánd láguidch
+Viajes,Pase de abordar,Boarding pass,bórdning pás
+Viajes,Conexion,Connection,kónneksion
+Viajes,Visita guiada,Guided tour,guáidid túr
+Viajes,Paquete turístico,Tour package,túr pákidch
+Viajes,Plan de viaje,Travel plan,trável plán
+Viajes,Carrera,Runway,ránwei
+Viajes,Check-out,Check-out,chék áut
+Viajes,Llegada tardía,Late arrival,léit aráival
+Viajes,Salida anticipada,Early departure,érli dipárcher
+Viajes,Paseo,Walk,wóok
+Viajes,Vuelos frecuentemente,Award flights,áuórd fláits
+Viajes,Botiquín,First aid kit,férst éid kit
+Viajes,Asesor de viaje,Travel advisor,trável adváiser
+Viajes,Promoción turística,Tourism promotion,túrizm prómoushion
+Viajes,Servicio de habitación,Room service,rúm sérvis
+Viajes,Transporte público,Public transport,páblik tránsport
+Viajes,Guía de viaje,Travel guide,trável guáid
+Viajes,Junta de seguridad,Security checkpoint,sekjúriti tchékpoint
+Viajes,Horario del vuelo,Flight schedule,fláit skédchul
+Viajes,Cancelación de vuelo,Flight cancellation,fláit kánsileishon
+Viajes,Sala de espera,Waiting room, wéiting rúm
+Viajes,Pase de abordar electrónico,Electronic boarding pass,iléktróník bórdning pás
+Viajes,Turismo de aventura,Adventure tourism,ádvénter túrizm
+Viajes,Equipaje de mano,Carry-on baggage,kéri ón bágidch
+Viajes,Pérdida de equipaje,Luggage loss,laguidch los
+Viajes,Control de seguridad,Security checkpoint,sikyuriti tchékpoint
+Viajes,Puerta de embarque,Boarding gate,bórdning géit
+Viajes,Mostrador de facturación,Check-in counter,chék-in káunter
+Viajes,Sala VIP,VIP lounge,ví ái pí lóundch
+Viajes,Vuelo nacional,Domestic flight,dóméstik fláit
+Viajes,Vuelo internacional,International flight,ínternéishonal fláit
+Viajes,Reservación anticipada,Advance booking,advánce búking
+Viajes,Cambio de vuelo,Flight change,fláit chéindch
+Viajes,Pasajero frecuente,Frequent flyer,fríkwent fláier
+Viajes,Pasajero,Passenger,pásindcher
+Viajes,Turista,tourist,túrist
+Viajes,Guía turística,Tour guide,túr guáid
+Viajes,Paquete turístico,Tour package,túr pákidch
+Viajes,Destino,Destination,destinéishon
+Viajes,Mapa,Map,map
+Viajes,Idioma,Language,lánggwidch
+Viajes,Moneda,Currency,kérensi
+Viajes,Presupuesto,Budget,bádget
+Viajes,Alojamiento,Accommodation,akomodéishon
+Viajes,Hotel,Hotel,hóutel
+Viajes,Hostal,Hostel,hóstel
+Viajes,Alojarse,Stay,stéi
+Viajes,Reserva,Reservation,rezərvéishon
+Viajes,Cancelación,Cancellation,kánsileishon
+Viajes,Check-in,Check-in,chék in
+Viajes,Check-out,Check-out,chék áut
+Viajes,Vuelo directo,Direct flight,direkt fláit
+Viajes,Vuelo con escala,Connecting flight,kónektin fláit
+Viajes,Salidas,Departures,dipártchers
+Viajes,Llegadas,Arrivals,aráivels
+Viajes,Pase de abordar,Boarding pass,bórdning pás
+Viajes,Cinturón de seguridad,Seatbelt,sítbelt
+Viajes,Asiento,Seat,sít
+Viajes,Ventanilla,Window seat,wíndou sít
+Viajes,Pasillo,Aisle,áil
+Viajes,Equipaje facturado,Checked baggage,chékt bágidch
+Viajes,Maleta perdida,Lost luggage,lóst láguidch
+Viajes,Retraso de vuelo,Flight delay,fláit diléi
+Viajes,Embarque,Boarding,bórdning
+Viajes,Desembarque,Disembark,dísébárk
+Viajes,Turismo, Tourism,túrizm
+Viajes,Agencia de viajes,Travel agency,trável éidchansi
+Viajes,Guía de viaje,Travel guide,trável guáid
+Viajes,Navegación,Navigation,navigéishon
+Viajes,Pasaporte,Passport,pásport
+Viajes,Visado,Visa,vísa
+Viajes,Línea aérea,Airline,ér láin
+Viajes,Alquiler de coches,Car rental,kár réntal
+Viajes,Alquiler de bicicletas,Bike rental,báik réntal
+Viajes,Excursión,Excursion,ékskérshon
+Viajes,Viaje en grupo,Group tour,grúp túr
+Viajes,Itinerario,Itinerary,aitínérari
+Viajes,Seguro de viaje,Travel insurance,trável índshurans
+Viajes,Clima,Weather,wédder
+Viajes,Moneda extranjera,Foreign currency,fórin kérensi
+Viajes,Turista extranjero,Foreign tourist,fórin túrist
+Viajes,Billete de avión,Plane ticket,plein tíket
+Viajes,Guía turístico,Tour guide,túr guáid
+Viajes,Chequeo de seguridad,Security check,sikyuriti chéik
+Viajes,Zona de embarque,Boarding area,bórdning érri
+Viajes,Zona de recogida,Pickup area,píkáp érri
+Viajes,Transporte público,Public transportation,páblik tránsportéishon
+Viajes,Taxi,Taxi,ráksi
+Viajes,Alquiler de coches,Car rental,kár réntal
+Viajes,Taxi acuático,Water taxi,wóter ráksi
+Viajes,Transbordador,Ferry,féri
+Viajes,Bote,Boat,bóut
+Viajes,Crucero,Cruise,krúis
+Viajes,Tren,Train,trén
+Viajes,Metro,Subway,sábwei
+Viajes,Autobús,Bus,bas
+Viajes,Alojamiento temporal,Temporary lodging,témporeri lódding
+Viajes,Resort,Resort,risórt
+Tecnología,Computadora,Computer,kompiúter
+Tecnología,Teléfono,Phone,fóun
+Tecnología,Internet,Internet,intérnet
+Tecnología,Correo electrónico,Email,ímeyl
+Tecnología,Red,Network,nétuork
+Tecnología,Software,Software,sóftwer
+Tecnología,Hardware,Hardware,járdwer
+Tecnología,Aplicación,App,áp
+Tecnología,Programa,Program,próugram
+Tecnología,Sistema operativo,Operating system,óuperéiting systém
+Tecnología,Base de datos,Database,déitabeiis
+Tecnología,Nube,Cloud,cláud
+Tecnología,Servidor,Server,sérver
+Tecnología,Enlace,Link,link
+Tecnología,Archivo,File,fáil
+Tecnología,Carpeta,Folder,fóulder
+Tecnología,Documento,Document,dókument
+Tecnología,Página web,Web page,wéb peich
+Tecnología,Buscador,Search engine,sérch énchin
+Tecnología,Extensión,Extension,iks ténshon
+Tecnología,Conexión,Connection,koneksion
+Tecnología,Wi-Fi,Wi-Fi,guái fai
+Tecnología,Bluetooth,Bluetooth,blútuus
+Tecnología,Contraseña,Password,pásuord
+Tecnología,Firewall,Firewall,fáierwóol
+Tecnología,Antivirus,Antivirus,ántiváirus
+Tecnología,Descarga,Download,dáunloud
+Tecnología,Subida,Upload,áp loud
+Tecnología,Navegador,Browser,bráuser
+Tecnología,Red inalámbrica,Wireless network,wáiarles nétuork
+Tecnología,Datos,Data,déita
+Tecnología,Usuario,User,iúser
+Tecnología,Contraseña,Password,pásuord
+Tecnología,Dispositivo,Device,diváis
+Tecnología,Tecnología,Technology,teknólodchí
+Tecnología,Innovación,Innovation,inovéishon
+Tecnología,Robótica,Robotics,róubótiks
+Tecnología,Inteligencia artificial,Artificial intelligence,artífíshial íntelidchens
+Tecnología,Automatización,Automation,óutomeishon
+Tecnología,Código,Code,kóud
+Tecnología,Programación,Programming,próugraming
+Tecnología,Desarrollo,Development,dévelopmént
+Tecnología,Pantalla,Screen,skrín
+Tecnología,Teclado,Keyboard,kíbordu
+Tecnología,Ratón,Mouse,máus
+Tecnología,Impresora,Printer,prínter
+Tecnología,Escáner,Scanner,skanáer
+Tecnología,Altavoz,Speaker,spíiker
+Tecnología,Auriculares,Headphones,jédfounz
+Tecnología,Módem,Modem,móudem
+Tecnología,Router,Router,ráuter
+Tecnología,Servidor,Server,sérver
+Tecnología,Actualización,Update,ápdéit
+Tecnología,Descargar,Download,dáunloud
+Tecnología,Subir,Upload,áp loud
+Tecnología,Copia de seguridad,Backup,bákap
+Tecnología,Restaurar,Restore,ristóur
+Tecnología,Firmware,Firmware,fálmuer
+Tecnología,Software libre,Freeware,fríguér
+Tecnología,Código abierto,Open source,óupen sors
+Tecnología,Seguridad,Security,sikyúeriti
+Tecnología,Cifrado,Encryption,enkríp shon
+Tecnología,Servidor web,Web server,wéb sérver
+Tecnología,Base de datos,Database,déitabeis
+Tecnología,Aplicación móvil,Mobile app,móubil áp
+Tecnología,Dispositivo móvil,Mobile device,móubil diváis
+Tecnología,Red social,Social network,sóushal nétuork
+Tecnología,Chat,Chat,chat
+Tecnología,Mensaje,Message,mésidch
+Tecnología,Correo,Mail,méil
+Tecnología,Archivo adjunto,Attachment,atèchment
+Tecnología,Nube,Cloud,cláud
+Tecnología,Almacenamiento,Storage,stróidch
+Tecnología,Virus,Virus,váirus
+Tecnología,Troyano,Trojan,tróujan
+Tecnología,Malware,Malware,málwér
+Tecnología,Hacker,Hacker,jáker
+Tecnología,Contraseña segura,Strong password,stróng pásuord
+Tecnología,Identificación,ID,áidí
+Tecnología,Autenticación,Authentication,ótenTikéishon
+Tecnología,Acceso,Access,ák-sés
+Tecnología,Usuario,User,iúser
+Tecnología,Red privada,Private network,práivát nétuork
+Tecnología,Red pública,Public network,páblik nétuork
+Tecnología,Navegación web,Web browsing,wéb bráusing
+Tecnología,Software de código abierto,Open-source software,óupen sors sóftwer
+Tecnología,Dispositivo inteligente,Smart device,smárt diváis
+Tecnología,Banda ancha,Broadband,bródband
+Tecnología,Tecnología móvil,Mobile technology,móubil teknólodchí
+Tecnología,Aplicación web,Web application,wéb áp-plikéishon
+Tecnología,Sistema operativo,Operating system,óuperéiting systém
+Tecnología,Usuario final,End user,end iúser
+Tecnología,Sitio web,Website,wébsaid
+Tecnología,Red informática,Computer network,kompiúter nétuork
+Tecnología,Consola de videojuegos,Game console, géim kónsol
+Tecnología,Programador,Programmer, próugramer
+Tecnología,Desarrollador,Developer, déveloper
+Tecnología,Aplicación móvil,Mobile app, móubil áp
+Tecnología,Red inalámbrica,Wireless network, wáierles nétuork
+Tecnología,Cable,Cable, kéibl
+Tecnología,Disco duro,Hard drive, járd draiv
+Tecnología,Memoria,Memory, mémori
+Tecnología,Procesador,Processor, próusesor
+Tecnología,Monitor,Monitor, mónitor
+Tecnología,Teclado,Keyboard, kíboard
+Tecnología,Ratón,Mouse, máus
+Tecnología,Impresora,Printer, prínter
+Tecnología,Escáner,Scanner, skáner
+Tecnología,Puerto USB,USB port, iú es bi port
+Tecnología,Cámara web,Webcam, wébkam
+Tecnología,Altavoz,Speaker, spíiker
+Tecnología,Auriculares,Headphones, jédfounez
+Tecnología,Micrófono,Microphone, máicroun
+Tecnología,Conexión a Internet,Internet connection, intérnet konekshon
+Tecnología,Red de área local,Local area network, lóukal éria nétuork
+Tecnología,Nube cloud,Cloud, cláud
+Tecnología,Seguridad informática,Cybersecurity, sáiber sikyuriti
+Tecnología,Anti-malware,Anti-malware, ánti málwer
+Tecnología,Firewall,Firewall, fáierwól
+Tecnología,Antivirus,Antivirus, ántiváirus
+Tecnología,Actualización,Update,ápdeit
+Tecnología,Backup,Copia de seguridad, báckap
+Tecnología,Restauración,Restore, rístor
+Tecnología,Contraseña,Password, pásword
+Tecnología,Usuario,User, iúser
+Tecnología,Navegador,Browser, bráuser
+Tecnología,Red social,Social network, sóushal nétuork
+Tecnología,Aplicación web,Web application, wéb ápplikéishon
+Tecnología,Streaming,Streaming, strímin
+Tecnología,Suscripción,Subscription, sabskríp-shon
+Tecnología,Descarga,Download, dáunloud
+Tecnología,Subida,Upload, áp-loud
+Tecnología,Plataforma digital,Digital platform, dígital plátform
+Tecnología,Código abierto,Open source, óupen sors
+Tecnología,Inteligencia artificial,Artificial intelligence, ártifíshial intéligens
+Tecnología,Robótica,Robotics, róubótiks
+Tecnología,Automatización,Automation, óutomeishon
+Tecnología,Dispositivo móvil,Mobile device, móubil diváis
+Tecnología,Tecnología portátil,Portable technology, póurtabol teknólodchí
+Tecnología,Realidad virtual,Virtual reality, vérchuol ríaliti
+Tecnología,Realidad aumentada,Augmented reality, ágmented ríaliti
+Tecnología,Big data,Big data, bíg dáta
+Tecnología,Internet de las cosas,Internet of Things, intérnet óv θings
+Tecnología,Ciberseguridad,Cybersecurity, sáiber sikyuriti
+Tecnología,Criptomoneda,Cryptocurrency, kríptomóneda
+Tecnología,Blockchain,Blockchain, blókeun
+Tecnología,Computación en la nube,Cloud computing, cláud kompíuting
+Tecnología,Servidor,Server, sérver
+Tecnología,Base de datos,Database, déitabeis
+Tecnología,Inteligencia de negocios,Business intelligence, bízniss intéligens
+Tecnología,Análisis de datos,Data analytics, dáta análitiks
+Tecnología,IA (Inteligencia Artificial),AI (Artificial Intelligence), í-ei
+Tecnología,Machine learning,Aprendizaje automático, machine learning
+Tecnología,Computadora portátil,Laptop, látop
+Tecnología,Tablet,Tablet, táblet
+Tecnología,Red 5G,5G network, fáiv jí nétuork
+Tecnología,Wearables,Dispositivos vestibles, wéerabls
+Tecnología,Impresora 3D,3D printer, sí-dí prínter
+Tecnología,Realidad mixta,Mixed reality, míkst ríaliti
+Tecnología,Internet satelital,Satellite Internet, sátelit intérnet
+Tecnología,Ancho de banda,Bandwidth, bándwidth
+Tecnología,Datos móviles,Mobile data, móubil dáta
+Tecnología,Automóvil autónomo,Self-driving car, sélf dráiving kar
+Tecnología,Dron,Drone, drón
+Tecnología,Asistente virtual,Virtual assistant, vérchuol ásistent
+Tecnología,Chatbot,Chatbot, chátbot
+Tecnología,Reconocimiento facial,Facial recognition, féishal rekognísh
+Emociones y Sentimientos,Felicidad,Happiness,hápines
+Emociones y Sentimientos,Tristeza,Sadness,sádnes
+Emociones y Sentimientos,Enojo,Anger,ánger
+Emociones y Sentimientos,Miedo,Fear,fíer
+Emociones y Sentimientos,Sorpresa,Surprise,serpráis
+Emociones y Sentimientos,Alegría,Joy,dchói
+Emociones y Sentimientos,Amor,Love,lav
+Emociones y Sentimientos,Odio,Hate,jéit
+Emociones y Sentimientos,Calma,Calm,kám
+Emociones y Sentimientos,Nerviosismo,Nervousness,nérvəsnes
+Emociones y Sentimientos,Ansiedad,Anxiety,anksáieti
+Emociones y Sentimientos,Confianza,Confidence,kónfidens
+Emociones y Sentimientos,Culpa,Guilt,gílt
+Emociones y Sentimientos,Orgullo,Pride,práid
+Emociones y Sentimientos,Esperanza,Hope,jóup
+Emociones y Sentimientos,Frustración,Frustration,fristréishon
+Emociones y Sentimientos,Gratitud,Gratitude,grátitud
+Emociones y Sentimientos,Melancolía,Melancholy,mélánkolí
+Emociones y Sentimientos,Satisfacción,Satisfaction,sátisfákshon
+Emociones y Sentimientos,Tranquilidad,Tranquility,tránkwilítí
+Emociones y Sentimientos,Decepción,Disappointment,disapóintment
+Emociones y Sentimientos,Confusión,Confusion,konfúshon
+Emociones y Sentimientos,Entusiasmo,Enthusiasm,enthúziasm
+Emociones y Sentimientos,Resentimiento,Resentment,reséntment
+Emociones y Sentimientos,Paz,Peace,pís
+Emociones y Sentimientos,Celos,Jealousy,yélosi
+Emociones y Sentimientos,Admire,Admiration,admireishon
+Emociones y Sentimientos,Alivio,Relief,rilíif
+Emociones y Sentimientos,Afecto,Affection,afékshon
+Emociones y Sentimientos,Amistad,Friendship,fréndship
+Emociones y Sentimientos,Angustia,Anguish,ánggwísh
+Emociones y Sentimientos,Ansioso,Anxious,ánkshus
+Emociones y Sentimientos,Atención,Attention,aténshon
+Emociones y Sentimientos,Atrapado,Trapped,trápt
+Emociones y Sentimientos,Bienestar,Well-being,wél bíing
+Emociones y Sentimientos,Cariño,Care,kér
+Emociones y Sentimientos,Compasión,Compassion,kompáshon
+Emociones y Sentimientos,Desánimo,Discouragement,discáridjment
+Emociones y Sentimientos,Desconfianza,Mistrust,místrást
+Emociones y Sentimientos,Deseo,Desire,disáier
+Emociones y Sentimientos,Desesperación,Desperation,dispéreishon
+Emociones y Sentimientos,Duda,Doubt,dáut
+Emociones y Sentimientos,Emoción,Emotion,imóushon
+Emociones y Sentimientos,Envidia,Envy,énvi
+Emociones y Sentimientos,Entusiasmo,Excitement,eksáitment
+Emociones y Sentimientos,Euforia,Euphoria,yoúría
+Emociones y Sentimientos,Frustrado,Frustrated,frástréitid
+Emociones y Sentimientos,Ira,Wrath,rath
+Emociones y Sentimientos,Incertidumbre,Uncertainty,ánsértanti
+Emociones y Sentimientos,Indignación,Indignation,indignéishon
+Emociones y Sentimientos,Interés,Interest,ínterest
+Emociones y Sentimientos,Júbilo,Jubilation,dchúbiléishon
+Emociones y Sentimientos,Melancólico,Melancholic,mélánkólik
+Emociones y Sentimientos,Miedo,Afraid,afréid
+Emociones y Sentimientos,Nostalgia,Nostalgia,nóstaldchía
+Emociones y Sentimientos,Paz interior,Inner peace,ínner pís
+Emociones y Sentimientos,Pensativo,Thoughtful,tótful
+Emociones y Sentimientos,Preocupación,Worry,wuóri
+Emociones y Sentimientos,Relajado,Relaxed,rilákst
+Emociones y Sentimientos,Romántico,Romantic,romántik
+Emociones y Sentimientos,Sensible,Sensitive,sénsitiv
+Emociones y Sentimientos,Simpático,Kind,sáind
+Emociones y Sentimientos,Soledad,Solitude,sólitud
+Emociones y Sentimientos,Sorpresa,Surprise,serpráis
+Emociones y Sentimientos,Ternura,Tenderness,téndərnes
+Emociones y Sentimientos,Timidez,Shyness,sháinəs
+Emociones y Sentimientos,Tolerancia,Tolerance,tólərɑns
+Emociones y Sentimientos,Triste, Sad,sad
+Emociones y Sentimientos,Valentía,Courage,káridch
+Emociones y Sentimientos,Veneración,Veneration,veneréishon
+Emociones y Sentimientos,Vergüenza,Shame,shéim
+Emociones y Sentimientos,Violencia,Violence,váiələns
+Emociones y Sentimientos,Voluntad,Will,uil
+Emociones y Sentimientos,Afectuoso,Affectionate,afékshonit
+Emociones y Sentimientos,Amigable,Friendly,fréndli
+Emociones y Sentimientos,Apasionado,Passionate,páshonit
+Emociones y Sentimientos,Asertivo,Assertive,asértiv
+Emociones y Sentimientos,Bueno,Good,gud
+Emociones y Sentimientos,Calmado,Calm,kám
+Emociones y Sentimientos,Contento,Happy,jápi
+Emociones y Sentimientos,Cauteloso,Cautious,kóshəs
+Emociones y Sentimientos,Compasivo,Compassionate,kompáshənit
+Emociones y Sentimientos,Decidido,Determined,dítərmind
+Emociones y Sentimientos,Débil,Weak,vík
+Emociones y Sentimientos,Disgustado,Disgusted,disgástid
+Emociones y Sentimientos,Dolido,Hurt,hért
+Emociones y Sentimientos,Eufórico,Euphoric,yúforik
+Emociones y Sentimientos,Excitado,Excited,eksáitid
+Emociones y Sentimientos,Feliz,Happy,jápi
+Emociones y Sentimientos,Frustrado,Frustrated,frástréitid
+Emociones y Sentimientos,Gentil,Kind,sáind
+Emociones y Sentimientos,Hermoso,Beautiful,bíutiful
+Emociones y Sentimientos,Humilde,Humble,hámbl
+Emociones y Sentimientos,Inseguro,Insecure,insíkiur
+Emociones y Sentimientos,Insatisfecho,Dissatisfied,dísátisfáid
+Emociones y Sentimientos,Inspirado,Inspired,ínspáird
+Emociones y Sentimientos,Intimidado,Intimidated,intimidéitid
+Emociones y Sentimientos,Interesado,Interested,intrestid
+Emociones y Sentimientos,Intranquilo,Restless,réstless
+Emociones y Sentimientos,Iracundo,Wrathful,rátful
+Emociones y Sentimientos,Jovial,Jovial,dchóuvial
+Emociones y Sentimientos,Jubiloso,Jubilant,dchúbilant
+Emociones y Sentimientos,Melancólico,Melancholic,mélánkolik
+Emociones y Sentimientos,Melindroso,Sensitive,sénsitiv
+Emociones y Sentimientos,Misericordioso,Compassionate,kompáshanet
+Emociones y Sentimientos,Modesto,Modest,módist
+Emociones y Sentimientos,Nostálgico,Nostalgic,nóstáldchik
+Emociones y Sentimientos,Optimista,Optimistic,óptimistik
+Emociones y Sentimientos,Pasional,Passionate,páshonet
+Emociones y Sentimientos,Paciente,Patient,péishent
+Emociones y Sentimientos,Poderoso,Powerful,páuerful
+Emociones y Sentimientos,Preocupado,Worried,wuérid
+Emociones y Sentimientos,Proactivo,Proactive,próáktiv
+Emociones y Sentimientos,Radiante,Radiant,réidient
+Emociones y Sentimientos,Relajado,Relaxed,rilákst
+Emociones y Sentimientos,Resentido,Resentful,reséntful
+Emociones y Sentimientos,Respetuoso,Respectful,rispéktfúl
+Emociones y Sentimientos,Seguro,Confident,kónfident
+Emociones y Sentimientos,Sensible,Sensitive,sénsitiv
+Emociones y Sentimientos,Sereno,Serene,siráin
+Emociones y Sentimientos,Sincero,Sincere,sinsír
+Emociones y Sentimientos,Solícito,Attentive,aténtiv
+Emociones y Sentimientos,Temeroso,Fearful,fíerful
+Emociones y Sentimientos,Tranquilo,Calm,kám
+Emociones y Sentimientos,Valiente,Brave,bréiv
+Emociones y Sentimientos,Vengativo,Vengeful,véndchful
+Emociones y Sentimientos,Vulnerable,Vulnerable,válnərəbl
+Emociones y Sentimientos,Abatido,Downhearted,dáunhártid
+Emociones y Sentimientos,Afligido,Distressed,distréstid
+Emociones y Sentimientos,Agitado,Agitated,ádchitéitid
+Emociones y Sentimientos,Aliviado,Relieved,rilíivd
+Emociones y Sentimientos,Amargado,Bitter,bíter
+Emociones y Sentimientos,Anhelante,Yearning,iérning
+Emociones y Sentimientos,Agobiado,Overwhelmed,óuveruélmd
+Emociones y Sentimientos,Apático,Apathetic,apáthetik
+Emociones y Sentimientos,Arrepentido,Regretful,rigrétful
+Emociones y Sentimientos,Avergonzado,Embarrassed,imbárest
+Emociones y Sentimientos,Bondadoso,Kindhearted,káindhártid
+Emociones y Sentimientos,Celoso,Jealous,yélous
+Emociones y Sentimientos,Compasivo,Compassionate,kompáshanet
+Emociones y Sentimientos,Confiado,Trusting,trassting
+Emociones y Sentimientos,Contento,Happy,jápi
+Emociones y Sentimientos,Decepcionado,Disappointed,disapóintid
+Emociones y Sentimientos,Dedicao,Dedicated,dédikeitid
+Emociones y Sentimientos,Desamparado,Helpless,jélples
+Emociones y Sentimientos,Desanimado,Discouraged,diskáuridj
+Emociones y Sentimientos,Desconcertado,Confused,konfjúd
+Emociones y Sentimientos,Desesperado,Desperate,désperate
+Emociones y Sentimientos,Disgustado,Disgusted,disgástid
+Emociones y Sentimientos,Divertido,Fun,fan
+Emociones y Sentimientos,Dolido,Hurt,hért
+Emociones y Sentimientos,Emocionado,Excited,eksáitid
+Emociones y Sentimientos,Enamorado,In love,in lav
+Emociones y Sentimientos,Enojado,Angry,ángri
+Emociones y Sentimientos,Entusiasmado,Enthusiastic,enjúziástik
+Emociones y Sentimientos,Esperanzado,Hopeful,jóupful
+Emociones y Sentimientos,Exasperado,Exasperated,igsáspéreitid
+Emociones y Sentimientos,Feliz,Happy,jápi
+Emociones y Sentimientos,Frustrado,Frustrated,frástréitid
+Emociones y Sentimientos,Ganador,Winner, wínər
+Emociones y Sentimientos,Ganancia,Gain, géin
+Emociones y Sentimientos,Herido,Hurt,hért
+Emociones y Sentimientos,Impresionado,Impressed,imprésd
+Emociones y Sentimientos,Indiferente,Indifferent,indiférent
+Emociones y Sentimientos,Inseguro,Insecure,insíkiur
+Emociones y Sentimientos,Insatisfecho,Dissatisfied,dísátisfáid
+Emociones y Sentimientos,Optimista,Optimistic,óptimístik
+Emociones y Sentimientos,Paciente,Patient,péishent
+Emociones y Sentimientos,Perdido,Lost,lóst
+Emociones y Sentimientos,Perturbado,Disturbed,distérbd
+Emociones y Sentimientos,Positivo,Positive,pázitiv
+Emociones y Sentimientos,Preocupado,Worried,wuérid
+Emociones y Sentimientos,Relajado,Relaxed,rilákst
+Emociones y Sentimientos,Resentido,Resentful,reséntful
+Emociones y Sentimientos,Respiración,Breathing,brízing
