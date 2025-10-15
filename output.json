@@ -18313,5 +18313,730 @@
                 "phonetic": "brízing"
             }
         ]
+    },
+    "Verbos": {
+        "count": 10,
+        "verbs": [
+            {
+                "infinitive_spanish": "Hablar",
+                "infinitive_english": "Speak",
+                "conjugations": {
+                    "Presente": {
+                        "Simple": {
+                            "english": "Speaks",
+                            "phonetic": "Espíkz",
+                            "spanish": "Habla"
+                        },
+                        "Continuous": {
+                            "english": "Is speaking",
+                            "phonetic": "Ís spíking",
+                            "spanish": "Está hablando"
+                        },
+                        "Perfect": {
+                            "english": "Has spoken",
+                            "phonetic": "Jás spóken",
+                            "spanish": "Ha hablado"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Has been speaking",
+                            "phonetic": "Jás bin spíking",
+                            "spanish": "Ha estado hablando"
+                        }
+                    },
+                    "Pasado": {
+                        "Simple": {
+                            "english": "Spoke",
+                            "phonetic": "Spóuk",
+                            "spanish": "Habló"
+                        },
+                        "Continuous": {
+                            "english": "Was speaking",
+                            "phonetic": "Uós spíking",
+                            "spanish": "Estaba hablando"
+                        },
+                        "Perfect": {
+                            "english": "Had spoken",
+                            "phonetic": "Jád spóken",
+                            "spanish": "Había hablado"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Had been speaking",
+                            "phonetic": "Jád bin spíking",
+                            "spanish": "Había estado hablando"
+                        }
+                    },
+                    "Futuro": {
+                        "Simple": {
+                            "english": "Will speak",
+                            "phonetic": "Uíl spík",
+                            "spanish": "Hablará"
+                        },
+                        "Continuous": {
+                            "english": "Will be speaking",
+                            "phonetic": "Uíl bi spíking",
+                            "spanish": "Estará hablando"
+                        },
+                        "Perfect": {
+                            "english": "Will have spoken",
+                            "phonetic": "Uíl jáv spóken",
+                            "spanish": "Habrá hablado"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Will have been speaking",
+                            "phonetic": "Uíl jáv bin spíking",
+                            "spanish": "Habrá estado hablando"
+                        }
+                    }
+                }
+            },
+            {
+                "infinitive_spanish": "Ir",
+                "infinitive_english": "Go",
+                "conjugations": {
+                    "Presente": {
+                        "Simple": {
+                            "english": "Goes",
+                            "phonetic": "Góuz",
+                            "spanish": "Va"
+                        },
+                        "Continuous": {
+                            "english": "Is going",
+                            "phonetic": "Is góing",
+                            "spanish": "Está yendo"
+                        },
+                        "Perfect": {
+                            "english": "Has gone",
+                            "phonetic": "Has gon",
+                            "spanish": "Ha ido"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Has been going",
+                            "phonetic": "Has bin góing",
+                            "spanish": "Ha estado yendo"
+                        }
+                    },
+                    "Pasado": {
+                        "Simple": {
+                            "english": "Went",
+                            "phonetic": "Uent",
+                            "spanish": "Fue"
+                        },
+                        "Continuous": {
+                            "english": "Was going",
+                            "phonetic": "Uós góing",
+                            "spanish": "Estaba yendo"
+                        },
+                        "Perfect": {
+                            "english": "Had gone",
+                            "phonetic": "Jád gon",
+                            "spanish": "Había ido"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Had been going",
+                            "phonetic": "Jád bin góing",
+                            "spanish": "Había estado yendo"
+                        }
+                    },
+                    "Futuro": {
+                        "Simple": {
+                            "english": "Will go",
+                            "phonetic": "Uíl góu",
+                            "spanish": "Irá"
+                        },
+                        "Continuous": {
+                            "english": "Will be going",
+                            "phonetic": "Uíl bi góing",
+                            "spanish": "Estará yendo"
+                        },
+                        "Perfect": {
+                            "english": "Will have gone",
+                            "phonetic": "Uíl jáv gon",
+                            "spanish": "Habrá ido"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Will have been going",
+                            "phonetic": "Uíl jáv bin góing",
+                            "spanish": "Habrá estado yendo"
+                        }
+                    }
+                }
+            },
+            {
+                "infinitive_spanish": "Hacer",
+                "infinitive_english": "Do",
+                "conjugations": {
+                    "Presente": {
+                        "Simple": {
+                            "english": "Does",
+                            "phonetic": "Daz",
+                            "spanish": "Hace"
+                        },
+                        "Continuous": {
+                            "english": "Is doing",
+                            "phonetic": "Is dúing",
+                            "spanish": "Está haciendo"
+                        },
+                        "Perfect": {
+                            "english": "Has done",
+                            "phonetic": "Jás dan",
+                            "spanish": "Ha hecho"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Has been doing",
+                            "phonetic": "Jás bin dúing",
+                            "spanish": "Ha estado haciendo"
+                        }
+                    },
+                    "Pasado": {
+                        "Simple": {
+                            "english": "Did",
+                            "phonetic": "Did",
+                            "spanish": "Hizo"
+                        },
+                        "Continuous": {
+                            "english": "Was doing",
+                            "phonetic": "Uós dúing",
+                            "spanish": "Estaba haciendo"
+                        },
+                        "Perfect": {
+                            "english": "Had done",
+                            "phonetic": "Jád dan",
+                            "spanish": "Había hecho"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Had been doing",
+                            "phonetic": "Jád bin dúing",
+                            "spanish": "Había estado haciendo"
+                        }
+                    },
+                    "Futuro": {
+                        "Simple": {
+                            "english": "Will do",
+                            "phonetic": "Uíl dú",
+                            "spanish": "Harà"
+                        },
+                        "Continuous": {
+                            "english": "Will be doing",
+                            "phonetic": "Uíl bi dúing",
+                            "spanish": "Estará haciendo"
+                        },
+                        "Perfect": {
+                            "english": "Will have done",
+                            "phonetic": "Uíl jáv dan",
+                            "spanish": "Habrá hecho"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Will have been doing",
+                            "phonetic": "Uíl jáv bin dúing",
+                            "spanish": "Habrá estado haciendo"
+                        }
+                    }
+                }
+            },
+            {
+                "infinitive_spanish": "Tener",
+                "infinitive_english": "Have",
+                "conjugations": {
+                    "Presente": {
+                        "Simple": {
+                            "english": "Has",
+                            "phonetic": "Jaz",
+                            "spanish": "Tiene"
+                        },
+                        "Continuous": {
+                            "english": "Is having",
+                            "phonetic": "Is jáving",
+                            "spanish": "Está teniendo"
+                        },
+                        "Perfect": {
+                            "english": "Has had",
+                            "phonetic": "Jás jad",
+                            "spanish": "Ha tenido"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Has been having",
+                            "phonetic": "Jás bin jáving",
+                            "spanish": "Ha estado teniendo"
+                        }
+                    },
+                    "Pasado": {
+                        "Simple": {
+                            "english": "Had",
+                            "phonetic": "Had",
+                            "spanish": "Tuvo"
+                        },
+                        "Continuous": {
+                            "english": "Was having",
+                            "phonetic": "Uós jáving",
+                            "spanish": "Estaba teniendo"
+                        },
+                        "Perfect": {
+                            "english": "Had had",
+                            "phonetic": "Jád jad",
+                            "spanish": "Había tenido"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Had been having",
+                            "phonetic": "Jád bin jáving",
+                            "spanish": "Había estado teniendo"
+                        }
+                    },
+                    "Futuro": {
+                        "Simple": {
+                            "english": "Will have",
+                            "phonetic": "Uíl jáv",
+                            "spanish": "Tendrá"
+                        },
+                        "Continuous": {
+                            "english": "Will be having",
+                            "phonetic": "Uíl bi jáving",
+                            "spanish": "Estará teniendo"
+                        },
+                        "Perfect": {
+                            "english": "Will have had",
+                            "phonetic": "Uíl jáv jad",
+                            "spanish": "Habrá tenido"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Will have been having",
+                            "phonetic": "Uíl jáv bin jáving",
+                            "spanish": "Habrá estado teniendo"
+                        }
+                    }
+                }
+            },
+            {
+                "infinitive_spanish": "Decir",
+                "infinitive_english": "Say",
+                "conjugations": {
+                    "Presente": {
+                        "Simple": {
+                            "english": "Says",
+                            "phonetic": "Séiz",
+                            "spanish": "Dice"
+                        },
+                        "Continuous": {
+                            "english": "Is saying",
+                            "phonetic": "Is séing",
+                            "spanish": "Está diciendo"
+                        },
+                        "Perfect": {
+                            "english": "Has said",
+                            "phonetic": "Jás sed",
+                            "spanish": "Ha dicho"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Has been saying",
+                            "phonetic": "Jás bin séing",
+                            "spanish": "Ha estado diciendo"
+                        }
+                    },
+                    "Pasado": {
+                        "Simple": {
+                            "english": "Said",
+                            "phonetic": "Sed",
+                            "spanish": "Dijo"
+                        },
+                        "Continuous": {
+                            "english": "Was saying",
+                            "phonetic": "Uós séing",
+                            "spanish": "Estaba diciendo"
+                        },
+                        "Perfect": {
+                            "english": "Had said",
+                            "phonetic": "Jád sed",
+                            "spanish": "Había dicho"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Had been saying",
+                            "phonetic": "Jád bin séing",
+                            "spanish": "Había estado diciendo"
+                        }
+                    },
+                    "Futuro": {
+                        "Simple": {
+                            "english": "Will say",
+                            "phonetic": "Uíl séi",
+                            "spanish": "Dirá"
+                        },
+                        "Continuous": {
+                            "english": "Will be saying",
+                            "phonetic": "Uíl bi séing",
+                            "spanish": "Estará diciendo"
+                        },
+                        "Perfect": {
+                            "english": "Will have said",
+                            "phonetic": "Uíl jáv sed",
+                            "spanish": "Habrá dicho"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Will have been saying",
+                            "phonetic": "Uíl jáv bin séing",
+                            "spanish": "Habrá estado diciendo"
+                        }
+                    }
+                }
+            },
+            {
+                "infinitive_spanish": "Ver",
+                "infinitive_english": "See",
+                "conjugations": {
+                    "Presente": {
+                        "Simple": {
+                            "english": "Sees",
+                            "phonetic": "Síz",
+                            "spanish": "Ve"
+                        },
+                        "Continuous": {
+                            "english": "Is seeing",
+                            "phonetic": "Is síing",
+                            "spanish": "Está viendo"
+                        },
+                        "Perfect": {
+                            "english": "Has seen",
+                            "phonetic": "Jás sín",
+                            "spanish": "Ha visto"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Has been seeing",
+                            "phonetic": "Jás bin síing",
+                            "spanish": "Ha estado viendo"
+                        }
+                    },
+                    "Pasado": {
+                        "Simple": {
+                            "english": "Saw",
+                            "phonetic": "Só",
+                            "spanish": "Vio"
+                        },
+                        "Continuous": {
+                            "english": "Was seeing",
+                            "phonetic": "Uós síing",
+                            "spanish": "Estaba viendo"
+                        },
+                        "Perfect": {
+                            "english": "Had seen",
+                            "phonetic": "Jád sín",
+                            "spanish": "Había visto"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Had been seeing",
+                            "phonetic": "Jád bin síing",
+                            "spanish": "Había estado viendo"
+                        }
+                    },
+                    "Futuro": {
+                        "Simple": {
+                            "english": "Will see",
+                            "phonetic": "Uíl sí",
+                            "spanish": "Verá"
+                        },
+                        "Continuous": {
+                            "english": "Will be seeing",
+                            "phonetic": "Uíl bi síing",
+                            "spanish": "Estará viendo"
+                        },
+                        "Perfect": {
+                            "english": "Will have seen",
+                            "phonetic": "Uíl jáv sín",
+                            "spanish": "Habrá visto"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Will have been seeing",
+                            "phonetic": "Uíl jáv bin síing",
+                            "spanish": "Habrá estado viendo"
+                        }
+                    }
+                }
+            },
+            {
+                "infinitive_spanish": "Venir",
+                "infinitive_english": "Come",
+                "conjugations": {
+                    "Presente": {
+                        "Simple": {
+                            "english": "Comes",
+                            "phonetic": "Kams",
+                            "spanish": "Viene"
+                        },
+                        "Continuous": {
+                            "english": "Is coming",
+                            "phonetic": "Is káming",
+                            "spanish": "Está viniendo"
+                        },
+                        "Perfect": {
+                            "english": "Has come",
+                            "phonetic": "Jás kom",
+                            "spanish": "Ha venido"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Has been coming",
+                            "phonetic": "Jás bin káming",
+                            "spanish": "Ha estado viniendo"
+                        }
+                    },
+                    "Pasado": {
+                        "Simple": {
+                            "english": "Came",
+                            "phonetic": "Keim",
+                            "spanish": "Vino"
+                        },
+                        "Continuous": {
+                            "english": "Was coming",
+                            "phonetic": "Uós káming",
+                            "spanish": "Estaba viniendo"
+                        },
+                        "Perfect": {
+                            "english": "Had come",
+                            "phonetic": "Jád kom",
+                            "spanish": "Había venido"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Had been coming",
+                            "phonetic": "Jád bin káming",
+                            "spanish": "Había estado viniendo"
+                        }
+                    },
+                    "Futuro": {
+                        "Simple": {
+                            "english": "Will come",
+                            "phonetic": "Uíl kom",
+                            "spanish": "Vendrá"
+                        },
+                        "Continuous": {
+                            "english": "Will be coming",
+                            "phonetic": "Uíl bi káming",
+                            "spanish": "Estará viniendo"
+                        },
+                        "Perfect": {
+                            "english": "Will have come",
+                            "phonetic": "Uíl jáv kom",
+                            "spanish": "Habrá venido"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Will have been coming",
+                            "phonetic": "Uíl jáv bin káming",
+                            "spanish": "Habrá estado viniendo"
+                        }
+                    }
+                }
+            },
+            {
+                "infinitive_spanish": "Querer",
+                "infinitive_english": "Want",
+                "conjugations": {
+                    "Presente": {
+                        "Simple": {
+                            "english": "Wants",
+                            "phonetic": "Uonts",
+                            "spanish": "Quiere"
+                        },
+                        "Continuous": {
+                            "english": "Is wanting",
+                            "phonetic": "Is uánting",
+                            "spanish": "Está queriendo"
+                        },
+                        "Perfect": {
+                            "english": "Has wanted",
+                            "phonetic": "Jás uónted",
+                            "spanish": "Ha querido"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Has been wanting",
+                            "phonetic": "Jás bin uánting",
+                            "spanish": "Ha estado queriendo"
+                        }
+                    },
+                    "Pasado": {
+                        "Simple": {
+                            "english": "Wanted",
+                            "phonetic": "Uónted",
+                            "spanish": "Quiso"
+                        },
+                        "Continuous": {
+                            "english": "Was wanting",
+                            "phonetic": "Uós uánting",
+                            "spanish": "Estaba queriendo"
+                        },
+                        "Perfect": {
+                            "english": "Had wanted",
+                            "phonetic": "Jád uónted",
+                            "spanish": "Había querido"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Had been wanting",
+                            "phonetic": "Jád bin uánting",
+                            "spanish": "Había estado queriendo"
+                        }
+                    },
+                    "Futuro": {
+                        "Simple": {
+                            "english": "Will want",
+                            "phonetic": "Uíl uónt",
+                            "spanish": "Querrá"
+                        },
+                        "Continuous": {
+                            "english": "Will be wanting",
+                            "phonetic": "Uíl bi uánting",
+                            "spanish": "Estará queriendo"
+                        },
+                        "Perfect": {
+                            "english": "Will have wanted",
+                            "phonetic": "Uíl jáv uónted",
+                            "spanish": "Habrá querido"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Will have been wanting",
+                            "phonetic": "Uíl jáv bin uánting",
+                            "spanish": "Habrá estado queriendo"
+                        }
+                    }
+                }
+            },
+            {
+                "infinitive_spanish": "Saber",
+                "infinitive_english": "Know",
+                "conjugations": {
+                    "Presente": {
+                        "Simple": {
+                            "english": "Knows",
+                            "phonetic": "Nóuz",
+                            "spanish": "Sabe"
+                        },
+                        "Continuous": {
+                            "english": "Is knowing",
+                            "phonetic": "Is nóuing",
+                            "spanish": "Está sabiendo"
+                        },
+                        "Perfect": {
+                            "english": "Has known",
+                            "phonetic": "Jás nóun",
+                            "spanish": "Ha sabido"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Has been knowing",
+                            "phonetic": "Jás bin nóuing",
+                            "spanish": "Ha estado sabiendo"
+                        }
+                    },
+                    "Pasado": {
+                        "Simple": {
+                            "english": "Knew",
+                            "phonetic": "Nú",
+                            "spanish": "Supo"
+                        },
+                        "Continuous": {
+                            "english": "Was knowing",
+                            "phonetic": "Uós nóuing",
+                            "spanish": "Estaba sabiendo"
+                        },
+                        "Perfect": {
+                            "english": "Had known",
+                            "phonetic": "Jád nóun",
+                            "spanish": "Había sabido"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Had been knowing",
+                            "phonetic": "Jád bin nóuing",
+                            "spanish": "Había estado sabiendo"
+                        }
+                    },
+                    "Futuro": {
+                        "Simple": {
+                            "english": "Will know",
+                            "phonetic": "Uíl nóu",
+                            "spanish": "Sabrá"
+                        },
+                        "Continuous": {
+                            "english": "Will be knowing",
+                            "phonetic": "Uíl bi nóuing",
+                            "spanish": "Estará sabiendo"
+                        },
+                        "Perfect": {
+                            "english": "Will have known",
+                            "phonetic": "Uíl jáv nóun",
+                            "spanish": "Habrá sabido"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Will have been knowing",
+                            "phonetic": "Uíl jáv bin nóuing",
+                            "spanish": "Habrá estado sabiendo"
+                        }
+                    }
+                }
+            },
+            {
+                "infinitive_spanish": "Poner",
+                "infinitive_english": "Put",
+                "conjugations": {
+                    "Presente": {
+                        "Simple": {
+                            "english": "Puts",
+                            "phonetic": "Puts",
+                            "spanish": "Pone"
+                        },
+                        "Continuous": {
+                            "english": "Is putting",
+                            "phonetic": "Is póting",
+                            "spanish": "Está poniendo"
+                        },
+                        "Perfect": {
+                            "english": "Has put",
+                            "phonetic": "Jás put",
+                            "spanish": "Ha puesto"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Has been putting",
+                            "phonetic": "Jás bin póting",
+                            "spanish": "Ha estado poniendo"
+                        }
+                    },
+                    "Pasado": {
+                        "Simple": {
+                            "english": "Put",
+                            "phonetic": "Put",
+                            "spanish": "Puso"
+                        },
+                        "Continuous": {
+                            "english": "Was putting",
+                            "phonetic": "Uós póting",
+                            "spanish": "Estaba poniendo"
+                        },
+                        "Perfect": {
+                            "english": "Had put",
+                            "phonetic": "Jád put",
+                            "spanish": "Había puesto"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Had been putting",
+                            "phonetic": "Jád bin póting",
+                            "spanish": "Había estado poniendo"
+                        }
+                    },
+                    "Futuro": {
+                        "Simple": {
+                            "english": "Will put",
+                            "phonetic": "Uíl put",
+                            "spanish": "Pondrá"
+                        },
+                        "Continuous": {
+                            "english": "Will be putting",
+                            "phonetic": "Uíl bi póting",
+                            "spanish": "Estará poniendo"
+                        },
+                        "Perfect": {
+                            "english": "Will have put",
+                            "phonetic": "Uíl jáv put",
+                            "spanish": "Habrá puesto"
+                        },
+                        "Perfect Continuous": {
+                            "english": "Will have been putting",
+                            "phonetic": "Uíl jáv bin póting",
+                            "spanish": "Habrá estado poniendo"
+                        }
+                    }
+                }
+            }
+        ]
     }
 }
